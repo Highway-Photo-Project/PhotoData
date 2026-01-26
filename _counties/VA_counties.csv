@@ -1,0 +1,1000 @@
+region;route;county
+VA;US13;Accomack
+VA;VA126;Accomack
+VA;VA175;Accomack
+VA;VA176;Accomack
+VA;VA178;Accomack
+VA;VA179;Accomack
+VA;VA180;Accomack
+VA;VA181;Accomack
+VA;VA182;Accomack
+VA;VA187;Accomack
+VA;VA316;Accomack
+VA;I-64;Albemarle
+VA;US29;Albemarle
+VA;US250;Albemarle
+VA;VA6;Albemarle
+VA;VA20;Albemarle
+VA;VA22;Albemarle
+VA;VA53;Albemarle
+VA;VA151;Albemarle
+VA;VA231;Albemarle
+VA;VA240;Albemarle
+VA;I-64;Alleghany
+VA;US60;Alleghany
+VA;US220;Alleghany
+VA;VA18;Alleghany
+VA;VA42;Alleghany
+VA;VA159;Alleghany
+VA;VA188;Alleghany
+VA;VA269;Alleghany
+VA;VA311;Alleghany
+VA;US360;Amelia
+VA;VA38;Amelia
+VA;VA153;Amelia
+VA;VA307;Amelia
+VA;US29;Amherst
+VA;US60;Amherst
+VA;US501;Amherst
+VA;VA130;Amherst
+VA;VA151;Amherst
+VA;VA163;Amherst
+VA;VA210;Amherst
+VA;VA334;Amherst
+VA;US60;Appomattox
+VA;US460;Appomattox
+VA;VA24;Appomattox
+VA;VA26;Appomattox
+VA;VA47;Appomattox
+VA;VA131;Appomattox
+VA;VA341;Appomattox
+VA;I-66;Arlington
+VA;I-395;Arlington
+VA;US1;Arlington
+VA;US29;Arlington
+VA;US50;Arlington
+VA;VA27;Arlington
+VA;VA110;Arlington
+VA;VA120;Arlington
+VA;VA123;Arlington
+VA;VA124;Arlington
+VA;VA233;Arlington
+VA;VA237;Arlington
+VA;VA244;Arlington
+VA;VA309;Arlington
+VA;I-64;Augusta
+VA;I-81;Augusta
+VA;US11;Augusta
+VA;US250;Augusta
+VA;US340;Augusta
+VA;VA42;Augusta
+VA;VA56;Augusta
+VA;VA252;Augusta
+VA;VA254;Augusta
+VA;VA256;Augusta
+VA;VA262;Augusta
+VA;VA276;Augusta
+VA;VA285;Augusta
+VA;VA358;Augusta
+VA;VA363;Augusta
+VA;US220;Bath
+VA;VA39;Bath
+VA;VA42;Bath
+VA;US221;Bedford
+VA;US460;Bedford
+VA;US501;Bedford
+VA;VA24;Bedford
+VA;VA43;Bedford
+VA;VA122;Bedford
+VA;I-77;Bland
+VA;US52;Bland
+VA;VA42;Bland
+VA;VA61;Bland
+VA;VA98;Bland
+VA;VA598;Bland
+VA;I-81;Botetourt
+VA;US11;Botetourt
+VA;US220;Botetourt
+VA;US221;Botetourt
+VA;US460;Botetourt
+VA;VA43;Botetourt
+VA;VA167;Botetourt
+VA;I-85;Brunswick
+VA;US1;Brunswick
+VA;US58;Brunswick
+VA;VA46;Brunswick
+VA;VA136;Brunswick
+VA;VA137;Brunswick
+VA;VA378;Brunswick
+VA;US121;Buchanan
+VA;US460;Buchanan
+VA;VA80;Buchanan
+VA;VA83;Buchanan
+VA;VA330;Buchanan
+VA;VA460;Buchanan
+VA;US15;Buckingham
+VA;US60;Buckingham
+VA;VA20;Buckingham
+VA;VA24;Buckingham
+VA;VA56;Buckingham
+VA;US29;Campbell
+VA;US460;Campbell
+VA;US501;Campbell
+VA;VA24;Campbell
+VA;VA40;Campbell
+VA;VA43;Campbell
+VA;I-95;Caroline
+VA;US1;Caroline
+VA;US17;Caroline
+VA;US301;Caroline
+VA;VA2;Caroline
+VA;VA30;Caroline
+VA;VA207;Caroline
+VA;I-77;Carroll
+VA;US52;Carroll
+VA;US58;Carroll
+VA;US221;Carroll
+VA;VA69;Carroll
+VA;VA94;Carroll
+VA;VA97;Carroll
+VA;VA100;Carroll
+VA;VA148;Carroll
+VA;VA392;Carroll
+VA;VA5;Charles City
+VA;VA106;Charles City
+VA;VA155;Charles City
+VA;VA156;Charles City
+VA;US15;Charlotte
+VA;US360;Charlotte
+VA;VA40;Charlotte
+VA;VA47;Charlotte
+VA;VA59;Charlotte
+VA;VA92;Charlotte
+VA;VA385;Charlotte
+VA;I-95;Chesterfield
+VA;I-295;Chesterfield
+VA;US1;Chesterfield
+VA;US60;Chesterfield
+VA;US301;Chesterfield
+VA;US360;Chesterfield
+VA;VA10;Chesterfield
+VA;VA36;Chesterfield
+VA;VA76;Chesterfield
+VA;VA144;Chesterfield
+VA;VA145;Chesterfield
+VA;VA147;Chesterfield
+VA;VA150;Chesterfield
+VA;VA288;Chesterfield
+VA;VA895;Chesterfield
+VA;I-95;City of Alexandria
+VA;I-395;City of Alexandria
+VA;I-495;City of Alexandria
+VA;US1;City of Alexandria
+VA;VA7;City of Alexandria
+VA;VA236;City of Alexandria
+VA;VA241;City of Alexandria
+VA;VA400;City of Alexandria
+VA;VA401;City of Alexandria
+VA;VA402;City of Alexandria
+VA;I-81;City of Bristol
+VA;I-381;City of Bristol
+VA;US11;City of Bristol
+VA;US11E;City of Bristol
+VA;US11W;City of Bristol
+VA;US19;City of Bristol
+VA;US58;City of Bristol
+VA;US421;City of Bristol
+VA;US60;City of Buena Vista
+VA;US501;City of Buena Vista
+VA;I-64;City of Charlottesville
+VA;US29;City of Charlottesville
+VA;US250;City of Charlottesville
+VA;VA20;City of Charlottesville
+VA;I-64;City of Chesapeake
+VA;I-264;City of Chesapeake
+VA;I-464;City of Chesapeake
+VA;I-664;City of Chesapeake
+VA;US13;City of Chesapeake
+VA;US17;City of Chesapeake
+VA;US58;City of Chesapeake
+VA;US460;City of Chesapeake
+VA;VA165;City of Chesapeake
+VA;VA166;City of Chesapeake
+VA;VA168;City of Chesapeake
+VA;VA190;City of Chesapeake
+VA;VA191;City of Chesapeake
+VA;VA196;City of Chesapeake
+VA;VA246;City of Chesapeake
+VA;VA337;City of Chesapeake
+VA;VA407;City of Chesapeake
+VA;I-95;City of Colonial Heights
+VA;US1;City of Colonial Heights
+VA;US301;City of Colonial Heights
+VA;VA144;City of Colonial Heights
+VA;I-64;City of Covington
+VA;US60;City of Covington
+VA;US220;City of Covington
+VA;VA18;City of Covington
+VA;VA154;City of Covington
+VA;US29;City of Danville
+VA;US58;City of Danville
+VA;US360;City of Danville
+VA;VA41;City of Danville
+VA;VA51;City of Danville
+VA;VA86;City of Danville
+VA;VA293;City of Danville
+VA;VA360;City of Danville
+VA;VA398;City of Danville
+VA;VA413;City of Danville
+VA;I-95;City of Emporia
+VA;US58;City of Emporia
+VA;US301;City of Emporia
+VA;US29;City of Fairfax
+VA;US50;City of Fairfax
+VA;VA123;City of Fairfax
+VA;VA236;City of Fairfax
+VA;VA237;City of Fairfax
+VA;US29;City of Falls Church
+VA;VA7;City of Falls Church
+VA;VA237;City of Falls Church
+VA;VA338;City of Falls Church
+VA;US58;City of Franklin
+VA;US258;City of Franklin
+VA;VA379;City of Franklin
+VA;I-95;City of Fredericksburg
+VA;US1;City of Fredericksburg
+VA;US17;City of Fredericksburg
+VA;VA2;City of Fredericksburg
+VA;VA3;City of Fredericksburg
+VA;US58;City of Galax
+VA;US221;City of Galax
+VA;VA89;City of Galax
+VA;VA97;City of Galax
+VA;I-64;City of Hampton
+VA;I-664;City of Hampton
+VA;US60;City of Hampton
+VA;US258;City of Hampton
+VA;VA134;City of Hampton
+VA;VA143;City of Hampton
+VA;VA152;City of Hampton
+VA;VA169;City of Hampton
+VA;VA172;City of Hampton
+VA;VA278;City of Hampton
+VA;VA351;City of Hampton
+VA;VA415;City of Hampton
+VA;I-81;City of Harrisonburg
+VA;US11;City of Harrisonburg
+VA;US33;City of Harrisonburg
+VA;VA42;City of Harrisonburg
+VA;VA253;City of Harrisonburg
+VA;VA280;City of Harrisonburg
+VA;VA331;City of Harrisonburg
+VA;I-295;City of Hopewell
+VA;VA10;City of Hopewell
+VA;VA36;City of Hopewell
+VA;US11;City of Lexington
+VA;US60;City of Lexington
+VA;VA251;City of Lexington
+VA;US29;City of Lynchburg
+VA;US221;City of Lynchburg
+VA;US460;City of Lynchburg
+VA;US501;City of Lynchburg
+VA;VA128;City of Lynchburg
+VA;VA163;City of Lynchburg
+VA;VA28;City of Manassas
+VA;VA234;City of Manassas
+VA;VA28;City of Manassas Park
+VA;VA213;City of Manassas Park
+VA;VA57;City of Martinsville
+VA;VA174;City of Martinsville
+VA;VA457;City of Martinsville
+VA;I-64;City of Newport News
+VA;I-664;City of Newport News
+VA;US17;City of Newport News
+VA;US60;City of Newport News
+VA;US258;City of Newport News
+VA;VA32;City of Newport News
+VA;VA105;City of Newport News
+VA;VA143;City of Newport News
+VA;VA152;City of Newport News
+VA;VA171;City of Newport News
+VA;VA173;City of Newport News
+VA;VA238;City of Newport News
+VA;VA306;City of Newport News
+VA;VA312;City of Newport News
+VA;VA351;City of Newport News
+VA;I-64;City of Norfolk
+VA;I-264;City of Norfolk
+VA;I-464;City of Norfolk
+VA;I-564;City of Norfolk
+VA;US13;City of Norfolk
+VA;US58;City of Norfolk
+VA;US60;City of Norfolk
+VA;US460;City of Norfolk
+VA;VA165;City of Norfolk
+VA;VA166;City of Norfolk
+VA;VA168;City of Norfolk
+VA;VA170;City of Norfolk
+VA;VA192;City of Norfolk
+VA;VA194;City of Norfolk
+VA;VA247;City of Norfolk
+VA;VA337;City of Norfolk
+VA;VA403;City of Norfolk
+VA;VA406;City of Norfolk
+VA;VA407;City of Norfolk
+VA;US23;City of Norton
+VA;VA74;City of Norton
+VA;I-85;City of Petersburg
+VA;I-95;City of Petersburg
+VA;US1;City of Petersburg
+VA;US301;City of Petersburg
+VA;US460;City of Petersburg
+VA;VA36;City of Petersburg
+VA;VA106;City of Petersburg
+VA;VA109;City of Petersburg
+VA;VA142;City of Petersburg
+VA;VA171;City of Poquoson
+VA;VA172;City of Poquoson
+VA;I-264;City of Portsmouth
+VA;US17;City of Portsmouth
+VA;US58;City of Portsmouth
+VA;VA141;City of Portsmouth
+VA;VA164;City of Portsmouth
+VA;VA239;City of Portsmouth
+VA;VA337;City of Portsmouth
+VA;US11;City of Radford
+VA;VA177;City of Radford
+VA;VA232;City of Radford
+VA;I-64;City of Richmond
+VA;I-95;City of Richmond
+VA;I-195;City of Richmond
+VA;US1;City of Richmond
+VA;US33;City of Richmond
+VA;US60;City of Richmond
+VA;US250;City of Richmond
+VA;US301;City of Richmond
+VA;US360;City of Richmond
+VA;VA2;City of Richmond
+VA;VA5;City of Richmond
+VA;VA6;City of Richmond
+VA;VA10;City of Richmond
+VA;VA33;City of Richmond
+VA;VA76;City of Richmond
+VA;VA146;City of Richmond
+VA;VA147;City of Richmond
+VA;VA150;City of Richmond
+VA;VA161;City of Richmond
+VA;VA195;City of Richmond
+VA;VA197;City of Richmond
+VA;VA353;City of Richmond
+VA;I-81;City of Roanoke
+VA;I-581;City of Roanoke
+VA;US11;City of Roanoke
+VA;US220;City of Roanoke
+VA;US221;City of Roanoke
+VA;US460;City of Roanoke
+VA;VA24;City of Roanoke
+VA;VA101;City of Roanoke
+VA;VA115;City of Roanoke
+VA;VA116;City of Roanoke
+VA;VA117;City of Roanoke
+VA;VA118;City of Roanoke
+VA;VA419;City of Roanoke
+VA;I-81;City of Salem
+VA;US11;City of Salem
+VA;US460;City of Salem
+VA;VA112;City of Salem
+VA;VA311;City of Salem
+VA;VA419;City of Salem
+VA;US11;City of Staunton
+VA;US250;City of Staunton
+VA;VA252;City of Staunton
+VA;VA254;City of Staunton
+VA;VA261;City of Staunton
+VA;VA262;City of Staunton
+VA;I-664;City of Suffolk
+VA;US13;City of Suffolk
+VA;US17;City of Suffolk
+VA;US58;City of Suffolk
+VA;US258;City of Suffolk
+VA;US460;City of Suffolk
+VA;VA10;City of Suffolk
+VA;VA32;City of Suffolk
+VA;VA125;City of Suffolk
+VA;VA135;City of Suffolk
+VA;VA164;City of Suffolk
+VA;VA189;City of Suffolk
+VA;VA272;City of Suffolk
+VA;VA337;City of Suffolk
+VA;I-64;City of Virginia Beach
+VA;I-264;City of Virginia Beach
+VA;US13;City of Virginia Beach
+VA;US58;City of Virginia Beach
+VA;US60;City of Virginia Beach
+VA;VA149;City of Virginia Beach
+VA;VA165;City of Virginia Beach
+VA;VA166;City of Virginia Beach
+VA;VA190;City of Virginia Beach
+VA;VA225;City of Virginia Beach
+VA;VA279;City of Virginia Beach
+VA;VA343;City of Virginia Beach
+VA;VA403;City of Virginia Beach
+VA;I-64;City of Waynesboro
+VA;US250;City of Waynesboro
+VA;US340;City of Waynesboro
+VA;VA254;City of Waynesboro
+VA;US60;City of Williamsburg
+VA;VA5;City of Williamsburg
+VA;VA31;City of Williamsburg
+VA;VA132;City of Williamsburg
+VA;VA143;City of Williamsburg
+VA;VA199;City of Williamsburg
+VA;VA321;City of Williamsburg
+VA;VA359;City of Williamsburg
+VA;US11;City of Winchester
+VA;US17;City of Winchester
+VA;US50;City of Winchester
+VA;US522;City of Winchester
+VA;VA7;City of Winchester
+VA;US17;Clarke
+VA;US50;Clarke
+VA;US340;Clarke
+VA;US522;Clarke
+VA;VA7;Clarke
+VA;VA255;Clarke
+VA;VA277;Clarke
+VA;VA18;Craig
+VA;VA42;Craig
+VA;VA311;Craig
+VA;US15;Culpeper
+VA;US29;Culpeper
+VA;US211;Culpeper
+VA;US522;Culpeper
+VA;VA3;Culpeper
+VA;VA229;Culpeper
+VA;VA299;Culpeper
+VA;US60;Cumberland
+VA;VA13;Cumberland
+VA;VA45;Cumberland
+VA;VA63;Dickenson
+VA;VA72;Dickenson
+VA;VA80;Dickenson
+VA;VA83;Dickenson
+VA;I-85;Dinwiddie
+VA;US1;Dinwiddie
+VA;US460;Dinwiddie
+VA;VA40;Dinwiddie
+VA;VA142;Dinwiddie
+VA;VA226;Dinwiddie
+VA;VA319;Dinwiddie
+VA;US17;Essex
+VA;US360;Essex
+VA;I-66;Fairfax
+VA;I-95;Fairfax
+VA;I-395;Fairfax
+VA;I-495;Fairfax
+VA;US1;Fairfax
+VA;US29;Fairfax
+VA;US50;Fairfax
+VA;VA7;Fairfax
+VA;VA28;Fairfax
+VA;VA123;Fairfax
+VA;VA193;Fairfax
+VA;VA228;Fairfax
+VA;VA235;Fairfax
+VA;VA236;Fairfax
+VA;VA237;Fairfax
+VA;VA241;Fairfax
+VA;VA242;Fairfax
+VA;VA243;Fairfax
+VA;VA244;Fairfax
+VA;VA267;Fairfax
+VA;VA286;Fairfax
+VA;VA289;Fairfax
+VA;VA309;Fairfax
+VA;VA338;Fairfax
+VA;VA376;Fairfax
+VA;VA383;Fairfax
+VA;I-66;Fauquier
+VA;US15;Fauquier
+VA;US17;Fauquier
+VA;US29;Fauquier
+VA;US50;Fauquier
+VA;US211;Fauquier
+VA;VA28;Fauquier
+VA;VA55;Fauquier
+VA;VA215;Fauquier
+VA;VA245;Fauquier
+VA;US58;Floyd
+VA;US221;Floyd
+VA;VA8;Floyd
+VA;I-64;Fluvanna
+VA;US15;Fluvanna
+VA;US250;Fluvanna
+VA;VA6;Fluvanna
+VA;VA53;Fluvanna
+VA;US220;Franklin
+VA;VA40;Franklin
+VA;VA116;Franklin
+VA;VA122;Franklin
+VA;I-66;Frederick
+VA;I-81;Frederick
+VA;US11;Frederick
+VA;US17;Frederick
+VA;US50;Frederick
+VA;US340;Frederick
+VA;US522;Frederick
+VA;VA7;Frederick
+VA;VA37;Frederick
+VA;VA55;Frederick
+VA;VA127;Frederick
+VA;VA259;Frederick
+VA;VA277;Frederick
+VA;US219;Giles
+VA;US460;Giles
+VA;VA42;Giles
+VA;VA61;Giles
+VA;VA100;Giles
+VA;US17;Gloucester
+VA;VA3;Gloucester
+VA;VA14;Gloucester
+VA;VA33;Gloucester
+VA;VA198;Gloucester
+VA;VA216;Gloucester
+VA;VA374;Gloucester
+VA;I-64;Goochland
+VA;US250;Goochland
+VA;US522;Goochland
+VA;VA6;Goochland
+VA;VA45;Goochland
+VA;VA271;Goochland
+VA;VA288;Goochland
+VA;VA310;Goochland
+VA;VA396;Goochland
+VA;US21;Grayson
+VA;US58;Grayson
+VA;US221;Grayson
+VA;VA16;Grayson
+VA;VA89;Grayson
+VA;VA93;Grayson
+VA;VA94;Grayson
+VA;VA97;Grayson
+VA;VA274;Grayson
+VA;VA362;Grayson
+VA;US29;Greene
+VA;US33;Greene
+VA;VA230;Greene
+VA;I-95;Greensville
+VA;US58;Greensville
+VA;US301;Greensville
+VA;VA139;Greensville
+VA;VA186;Greensville
+VA;VA397;Greensville
+VA;US58;Halifax
+VA;US360;Halifax
+VA;US501;Halifax
+VA;VA34;Halifax
+VA;VA40;Halifax
+VA;VA49;Halifax
+VA;VA57;Halifax
+VA;VA62;Halifax
+VA;VA92;Halifax
+VA;VA96;Halifax
+VA;VA119;Halifax
+VA;VA129;Halifax
+VA;VA304;Halifax
+VA;VA344;Halifax
+VA;VA349;Halifax
+VA;VA360;Halifax
+VA;I-95;Hanover
+VA;I-295;Hanover
+VA;US1;Hanover
+VA;US33;Hanover
+VA;US301;Hanover
+VA;US360;Hanover
+VA;VA2;Hanover
+VA;VA30;Hanover
+VA;VA54;Hanover
+VA;VA156;Hanover
+VA;VA271;Hanover
+VA;VA326;Hanover
+VA;I-64;Henrico
+VA;I-95;Henrico
+VA;I-195;Henrico
+VA;I-295;Henrico
+VA;US1;Henrico
+VA;US33;Henrico
+VA;US60;Henrico
+VA;US250;Henrico
+VA;US301;Henrico
+VA;US360;Henrico
+VA;VA2;Henrico
+VA;VA5;Henrico
+VA;VA6;Henrico
+VA;VA33;Henrico
+VA;VA73;Henrico
+VA;VA147;Henrico
+VA;VA150;Henrico
+VA;VA156;Henrico
+VA;VA157;Henrico
+VA;VA161;Henrico
+VA;VA197;Henrico
+VA;VA271;Henrico
+VA;VA281;Henrico
+VA;VA356;Henrico
+VA;VA380;Henrico
+VA;VA895;Henrico
+VA;US58;Henry
+VA;US220;Henry
+VA;VA57;Henry
+VA;VA87;Henry
+VA;VA108;Henry
+VA;VA174;Henry
+VA;VA457;Henry
+VA;US220;Highland
+VA;US250;Highland
+VA;VA84;Highland
+VA;US17;Isle of Wight
+VA;US258;Isle of Wight
+VA;US460;Isle of Wight
+VA;VA10;Isle of Wight
+VA;VA32;Isle of Wight
+VA;I-64;James City
+VA;US60;James City
+VA;VA5;James City
+VA;VA30;James City
+VA;VA31;James City
+VA;VA143;James City
+VA;VA199;James City
+VA;VA321;James City
+VA;VA322;James City
+VA;US360;King and Queen
+VA;VA14;King and Queen
+VA;VA33;King and Queen
+VA;US301;King George
+VA;VA3;King George
+VA;VA205;King George
+VA;VA206;King George
+VA;VA218;King George
+VA;US360;King William
+VA;VA30;King William
+VA;VA33;King William
+VA;VA296;King William
+VA;VA298;King William
+VA;VA3;Lancaster
+VA;VA200;Lancaster
+VA;VA201;Lancaster
+VA;VA222;Lancaster
+VA;VA354;Lancaster
+VA;US23;Lee
+VA;US58;Lee
+VA;US421;Lee
+VA;VA70;Lee
+VA;VA352;Lee
+VA;US15;Loudoun
+VA;US50;Loudoun
+VA;US340;Loudoun
+VA;VA7;Loudoun
+VA;VA9;Loudoun
+VA;VA28;Loudoun
+VA;VA267;Loudoun
+VA;VA287;Loudoun
+VA;VA391;Loudoun
+VA;I-64;Louisa
+VA;US15;Louisa
+VA;US33;Louisa
+VA;US250;Louisa
+VA;US522;Louisa
+VA;VA22;Louisa
+VA;VA208;Louisa
+VA;VA231;Louisa
+VA;US360;Lunenburg
+VA;VA40;Lunenburg
+VA;VA49;Lunenburg
+VA;VA137;Lunenburg
+VA;VA138;Lunenburg
+VA;US15;Madison
+VA;US29;Madison
+VA;VA230;Madison
+VA;VA231;Madison
+VA;VA3;Mathews
+VA;VA14;Mathews
+VA;VA198;Mathews
+VA;VA223;Mathews
+VA;I-85;Mecklenburg
+VA;US1;Mecklenburg
+VA;US15;Mecklenburg
+VA;US58;Mecklenburg
+VA;VA4;Mecklenburg
+VA;VA47;Mecklenburg
+VA;VA49;Mecklenburg
+VA;VA92;Mecklenburg
+VA;VA138;Mecklenburg
+VA;VA364;Mecklenburg
+VA;US17;Middlesex
+VA;VA3;Middlesex
+VA;VA33;Middlesex
+VA;VA227;Middlesex
+VA;I-81;Montgomery
+VA;US11;Montgomery
+VA;US460;Montgomery
+VA;VA8;Montgomery
+VA;VA111;Montgomery
+VA;VA114;Montgomery
+VA;VA177;Montgomery
+VA;VA232;Montgomery
+VA;VA314;Montgomery
+VA;VA412;Montgomery
+VA;I-64;Nelson
+VA;US29;Nelson
+VA;US60;Nelson
+VA;US250;Nelson
+VA;VA6;Nelson
+VA;VA56;Nelson
+VA;VA151;Nelson
+VA;I-64;New Kent
+VA;US60;New Kent
+VA;VA30;New Kent
+VA;VA33;New Kent
+VA;VA106;New Kent
+VA;VA155;New Kent
+VA;VA249;New Kent
+VA;VA273;New Kent
+VA;US13;Northampton
+VA;VA178;Northampton
+VA;VA183;Northampton
+VA;VA184;Northampton
+VA;US360;Northumberland
+VA;VA200;Northumberland
+VA;VA201;Northumberland
+VA;VA202;Northumberland
+VA;US360;Nottoway
+VA;US460;Nottoway
+VA;VA40;Nottoway
+VA;VA46;Nottoway
+VA;VA49;Nottoway
+VA;VA153;Nottoway
+VA;VA307;Nottoway
+VA;VA323;Nottoway
+VA;US15;Orange
+VA;US33;Orange
+VA;US522;Orange
+VA;VA3;Orange
+VA;VA20;Orange
+VA;VA231;Orange
+VA;US211;Page
+VA;US340;Page
+VA;US58;Patrick
+VA;VA8;Patrick
+VA;VA40;Patrick
+VA;VA57;Patrick
+VA;VA103;Patrick
+VA;VA346;Patrick
+VA;US29;Pittsylvania
+VA;US58;Pittsylvania
+VA;US311;Pittsylvania
+VA;US360;Pittsylvania
+VA;VA40;Pittsylvania
+VA;VA41;Pittsylvania
+VA;VA51;Pittsylvania
+VA;VA57;Pittsylvania
+VA;VA62;Pittsylvania
+VA;VA360;Pittsylvania
+VA;US60;Powhatan
+VA;US522;Powhatan
+VA;VA13;Powhatan
+VA;VA288;Powhatan
+VA;VA300;Powhatan
+VA;US15;Prince Edward
+VA;US360;Prince Edward
+VA;US460;Prince Edward
+VA;VA45;Prince Edward
+VA;VA47;Prince Edward
+VA;VA133;Prince Edward
+VA;VA307;Prince Edward
+VA;I-95;Prince George
+VA;I-295;Prince George
+VA;US301;Prince George
+VA;US460;Prince George
+VA;VA10;Prince George
+VA;VA35;Prince George
+VA;VA36;Prince George
+VA;VA106;Prince George
+VA;VA144;Prince George
+VA;VA156;Prince George
+VA;I-66;Prince William
+VA;I-95;Prince William
+VA;US1;Prince William
+VA;US15;Prince William
+VA;US29;Prince William
+VA;VA28;Prince William
+VA;VA55;Prince William
+VA;VA123;Prince William
+VA;VA215;Prince William
+VA;VA234;Prince William
+VA;VA294;Prince William
+VA;VA393;Prince William
+VA;VA394;Prince William
+VA;I-81;Pulaski
+VA;US11;Pulaski
+VA;VA99;Pulaski
+VA;VA100;Pulaski
+VA;VA114;Pulaski
+VA;VA373;Pulaski
+VA;US211;Rappahannock
+VA;US522;Rappahannock
+VA;VA231;Rappahannock
+VA;US360;Richmond
+VA;VA3;Richmond
+VA;VA203;Richmond
+VA;I-81;Roanoke
+VA;I-581;Roanoke
+VA;US11;Roanoke
+VA;US220;Roanoke
+VA;US221;Roanoke
+VA;US460;Roanoke
+VA;VA24;Roanoke
+VA;VA115;Roanoke
+VA;VA116;Roanoke
+VA;VA117;Roanoke
+VA;VA118;Roanoke
+VA;VA311;Roanoke
+VA;VA320;Roanoke
+VA;VA419;Roanoke
+VA;I-64;Rockbridge
+VA;I-81;Rockbridge
+VA;US11;Rockbridge
+VA;US60;Rockbridge
+VA;US501;Rockbridge
+VA;VA39;Rockbridge
+VA;VA42;Rockbridge
+VA;VA56;Rockbridge
+VA;VA130;Rockbridge
+VA;VA251;Rockbridge
+VA;VA252;Rockbridge
+VA;I-81;Rockingham
+VA;US11;Rockingham
+VA;US33;Rockingham
+VA;US340;Rockingham
+VA;VA42;Rockingham
+VA;VA211;Rockingham
+VA;VA253;Rockingham
+VA;VA256;Rockingham
+VA;VA257;Rockingham
+VA;VA259;Rockingham
+VA;VA276;Rockingham
+VA;VA280;Rockingham
+VA;VA290;Rockingham
+VA;VA331;Rockingham
+VA;US19;Russell
+VA;VA63;Russell
+VA;VA65;Russell
+VA;VA67;Russell
+VA;VA71;Russell
+VA;VA80;Russell
+VA;VA82;Russell
+VA;US23;Scott
+VA;US58;Scott
+VA;US421;Scott
+VA;VA65;Scott
+VA;VA71;Scott
+VA;VA72;Scott
+VA;VA224;Scott
+VA;I-81;Shenandoah
+VA;US11;Shenandoah
+VA;US48;Shenandoah
+VA;US211;Shenandoah
+VA;VA42;Shenandoah
+VA;VA55;Shenandoah
+VA;VA185;Shenandoah
+VA;VA211;Shenandoah
+VA;VA263;Shenandoah
+VA;VA292;Shenandoah
+VA;VA305;Shenandoah
+VA;I-81;Smyth
+VA;US11;Smyth
+VA;VA16;Smyth
+VA;VA42;Smyth
+VA;VA91;Smyth
+VA;VA107;Smyth
+VA;VA217;Smyth
+VA;VA348;Smyth
+VA;US58;Southampton
+VA;US258;Southampton
+VA;US460;Southampton
+VA;VA35;Southampton
+VA;VA186;Southampton
+VA;VA189;Southampton
+VA;VA308;Southampton
+VA;I-95;Spotsylvania
+VA;US1;Spotsylvania
+VA;US17;Spotsylvania
+VA;US522;Spotsylvania
+VA;VA2;Spotsylvania
+VA;VA3;Spotsylvania
+VA;VA208;Spotsylvania
+VA;I-95;Stafford
+VA;US1;Stafford
+VA;US17;Stafford
+VA;VA3;Stafford
+VA;VA212;Stafford
+VA;VA218;Stafford
+VA;US460;Surry
+VA;VA10;Surry
+VA;VA31;Surry
+VA;VA40;Surry
+VA;I-95;Sussex
+VA;US301;Sussex
+VA;US460;Sussex
+VA;VA31;Sussex
+VA;VA35;Sussex
+VA;VA40;Sussex
+VA;VA139;Sussex
+VA;US19;Tazewell
+VA;US460;Tazewell
+VA;VA16;Tazewell
+VA;VA61;Tazewell
+VA;VA67;Tazewell
+VA;VA91;Tazewell
+VA;VA102;Tazewell
+VA;VA369;Tazewell
+VA;I-66;Warren
+VA;I-81;Warren
+VA;US11;Warren
+VA;US340;Warren
+VA;US522;Warren
+VA;VA55;Warren
+VA;VA79;Warren
+VA;I-81;Washington
+VA;US11;Washington
+VA;US19;Washington
+VA;US58;Washington
+VA;US421;Washington
+VA;VA75;Washington
+VA;VA80;Washington
+VA;VA91;Washington
+VA;VA140;Washington
+VA;VA372;Washington
+VA;VA3;Westmoreland
+VA;VA202;Westmoreland
+VA;VA203;Westmoreland
+VA;VA204;Westmoreland
+VA;VA205;Westmoreland
+VA;VA214;Westmoreland
+VA;VA347;Westmoreland
+VA;US23;Wise
+VA;VA63;Wise
+VA;VA68;Wise
+VA;VA72;Wise
+VA;VA74;Wise
+VA;VA78;Wise
+VA;VA83;Wise
+VA;VA158;Wise
+VA;VA160;Wise
+VA;VA270;Wise
+VA;VA361;Wise
+VA;VA387;Wise
+VA;I-77;Wythe
+VA;I-81;Wythe
+VA;US11;Wythe
+VA;US21;Wythe
+VA;US52;Wythe
+VA;VA69;Wythe
+VA;VA90;Wythe
+VA;VA94;Wythe
+VA;VA100;Wythe
+VA;VA121;Wythe
+VA;VA336;Wythe
+VA;VA365;Wythe
+VA;I-64;York
+VA;US17;York
+VA;US60;York
+VA;VA105;York
+VA;VA132;York
+VA;VA134;York
+VA;VA143;York
+VA;VA162;York
+VA;VA171;York
+VA;VA173;York
+VA;VA199;York
+VA;VA238;York
