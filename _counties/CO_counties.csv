@@ -1,0 +1,416 @@
+region;route;county
+CO;I-25;Adams
+CO;I-70;Adams
+CO;I-76;Adams
+CO;I-225;Adams
+CO;I-270;Adams
+CO;US6;Adams
+CO;US36;Adams
+CO;US40;Adams
+CO;US85;Adams
+CO;US87;Adams
+CO;US287;Adams
+CO;CO2;Adams
+CO;CO7;Adams
+CO;CO22;Adams
+CO;CO36;Adams
+CO;CO44;Adams
+CO;CO53;Adams
+CO;CO79;Adams
+CO;CO95;Adams
+CO;CO128;Adams
+CO;CO224;Adams
+CO;CO265;Adams
+CO;US160;Alamosa
+CO;US285;Alamosa
+CO;CO17;Alamosa
+CO;CO112;Alamosa
+CO;CO150;Alamosa
+CO;CO368;Alamosa
+CO;CO370;Alamosa
+CO;CO371;Alamosa
+CO;I-25;Arapahoe
+CO;I-70;Arapahoe
+CO;I-225;Arapahoe
+CO;US6;Arapahoe
+CO;US36;Arapahoe
+CO;US40;Arapahoe
+CO;US85;Arapahoe
+CO;US87;Arapahoe
+CO;US285;Arapahoe
+CO;CO30;Arapahoe
+CO;CO36;Arapahoe
+CO;CO40;Arapahoe
+CO;CO75;Arapahoe
+CO;CO83;Arapahoe
+CO;CO88;Arapahoe
+CO;CO177;Arapahoe
+CO;CO470;Arapahoe
+CO;US84;Archuleta
+CO;US160;Archuleta
+CO;CO17;Archuleta
+CO;CO151;Archuleta
+CO;US160;Baca
+CO;US287;Baca
+CO;US385;Baca
+CO;CO89;Baca
+CO;CO116;Baca
+CO;US50;Bent
+CO;CO101;Bent
+CO;CO109;Bent
+CO;CO194;Bent
+CO;CO196;Bent
+CO;US36;Boulder
+CO;US287;Boulder
+CO;CO7;Boulder
+CO;CO42;Boulder
+CO;CO52;Boulder
+CO;CO66;Boulder
+CO;CO72;Boulder
+CO;CO93;Boulder
+CO;CO119;Boulder
+CO;CO128;Boulder
+CO;CO157;Boulder
+CO;CO170;Boulder
+CO;I-25;Broomfield
+CO;US36;Broomfield
+CO;US287;Broomfield
+CO;CO7;Broomfield
+CO;CO121;Broomfield
+CO;CO128;Broomfield
+CO;US24;Chaffee
+CO;US50;Chaffee
+CO;US285;Chaffee
+CO;CO291;Chaffee
+CO;US40;Cheyenne
+CO;US287;Cheyenne
+CO;US385;Cheyenne
+CO;CO59;Cheyenne
+CO;CO94;Cheyenne
+CO;I-70;Clear Creek
+CO;US6;Clear Creek
+CO;US40;Clear Creek
+CO;CO5;Clear Creek
+CO;CO103;Clear Creek
+CO;US160;Costilla
+CO;CO142;Costilla
+CO;CO159;Costilla
+CO;US285;Conejos
+CO;CO15;Conejos
+CO;CO17;Conejos
+CO;CO136;Conejos
+CO;CO142;Conejos
+CO;CO368;Conejos
+CO;CO371;Conejos
+CO;CO71;Crowley
+CO;CO96;Crowley
+CO;CO167;Crowley
+CO;CO207;Crowley
+CO;CO67;Custer
+CO;CO69;Custer
+CO;CO78;Custer
+CO;CO96;Custer
+CO;CO165;Custer
+CO;US50;Delta
+CO;CO65;Delta
+CO;CO92;Delta
+CO;CO133;Delta
+CO;CO348;Delta
+CO;I-25;Denver
+CO;I-70;Denver
+CO;I-225;Denver
+CO;I-270;Denver
+CO;US6;Denver
+CO;US36;Denver
+CO;US40;Denver
+CO;US85;Denver
+CO;US87;Denver
+CO;US285;Denver
+CO;US287;Denver
+CO;CO2;Denver
+CO;CO26;Denver
+CO;CO30;Denver
+CO;CO83;Denver
+CO;CO88;Denver
+CO;CO95;Denver
+CO;CO121;Denver
+CO;CO265;Denver
+CO;US491;Dolores
+CO;CO141;Dolores
+CO;CO145;Dolores
+CO;I-25;Douglas
+CO;US85;Douglas
+CO;US87;Douglas
+CO;CO67;Douglas
+CO;CO83;Douglas
+CO;CO86;Douglas
+CO;CO105;Douglas
+CO;CO177;Douglas
+CO;CO470;Douglas
+CO;I-70;Eagle
+CO;US6;Eagle
+CO;US24;Eagle
+CO;CO82;Eagle
+CO;CO131;Eagle
+CO;I-25;El Paso
+CO;US24;El Paso
+CO;US85;El Paso
+CO;US87;El Paso
+CO;CO16;El Paso
+CO;CO21;El Paso
+CO;CO83;El Paso
+CO;CO85;El Paso
+CO;CO94;El Paso
+CO;CO105;El Paso
+CO;CO115;El Paso
+CO;I-70;Elbert
+CO;US24;Elbert
+CO;US40;Elbert
+CO;US287;Elbert
+CO;CO86;Elbert
+CO;US50;Fremont
+CO;CO9;Fremont
+CO;CO67;Fremont
+CO;CO69;Fremont
+CO;CO115;Fremont
+CO;CO120;Fremont
+CO;I-70;Garfield
+CO;US6;Garfield
+CO;CO13;Garfield
+CO;CO82;Garfield
+CO;CO133;Garfield
+CO;CO139;Garfield
+CO;CO325;Garfield
+CO;CO46;Gilpin
+CO;CO72;Gilpin
+CO;CO119;Gilpin
+CO;US50;Gunnison
+CO;CO92;Gunnison
+CO;CO114;Gunnison
+CO;CO135;Gunnison
+CO;CO149;Gunnison
+CO;US34;Grand
+CO;US40;Grand
+CO;CO9;Grand
+CO;CO125;Grand
+CO;CO134;Grand
+CO;CO149;Hinsdale
+CO;I-25;Huerfano
+CO;US85;Huerfano
+CO;US87;Huerfano
+CO;US160;Huerfano
+CO;CO10;Huerfano
+CO;CO12;Huerfano
+CO;CO69;Huerfano
+CO;US40;Jackson
+CO;CO14;Jackson
+CO;CO125;Jackson
+CO;CO127;Jackson
+CO;I-70;Jefferson
+CO;I-76;Jefferson
+CO;US6;Jefferson
+CO;US36;Jefferson
+CO;US40;Jefferson
+CO;US285;Jefferson
+CO;CO8;Jefferson
+CO;CO58;Jefferson
+CO;CO67;Jefferson
+CO;CO72;Jefferson
+CO;CO74;Jefferson
+CO;CO75;Jefferson
+CO;CO93;Jefferson
+CO;CO95;Jefferson
+CO;CO121;Jefferson
+CO;CO128;Jefferson
+CO;CO391;Jefferson
+CO;CO470;Jefferson
+CO;US287;Kiowa
+CO;US385;Kiowa
+CO;CO96;Kiowa
+CO;I-70;Kit Carson
+CO;US24;Kit Carson
+CO;US385;Kit Carson
+CO;CO59;Kit Carson
+CO;US160;La Plata
+CO;US550;La Plata
+CO;CO3;La Plata
+CO;CO140;La Plata
+CO;CO151;La Plata
+CO;CO172;La Plata
+CO;US24;Lake
+CO;CO82;Lake
+CO;CO91;Lake
+CO;CO300;Lake
+CO;I-25;Larimer
+CO;US34;Larimer
+CO;US36;Larimer
+CO;US85;Larimer
+CO;US287;Larimer
+CO;CO1;Larimer
+CO;CO7;Larimer
+CO;CO14;Larimer
+CO;CO56;Larimer
+CO;CO60;Larimer
+CO;CO392;Larimer
+CO;CO402;Larimer
+CO;I-25;Las Animas
+CO;US85;Las Animas
+CO;US160;Las Animas
+CO;US350;Las Animas
+CO;CO12;Las Animas
+CO;CO109;Las Animas
+CO;CO239;Las Animas
+CO;CO389;Las Animas
+CO;I-70;Lincoln
+CO;US24;Lincoln
+CO;US40;Lincoln
+CO;US287;Lincoln
+CO;CO71;Lincoln
+CO;CO94;Lincoln
+CO;I-76;Logan
+CO;US6;Logan
+CO;US138;Logan
+CO;CO14;Logan
+CO;CO55;Logan
+CO;CO61;Logan
+CO;CO63;Logan
+CO;CO113;Logan
+CO;I-70;Mesa
+CO;US6;Mesa
+CO;US50;Mesa
+CO;CO65;Mesa
+CO;CO139;Mesa
+CO;CO141;Mesa
+CO;CO330;Mesa
+CO;CO340;Mesa
+CO;US160;Mineral
+CO;CO149;Mineral
+CO;US40;Moffat
+CO;CO13;Moffat
+CO;CO64;Moffat
+CO;CO317;Moffat
+CO;CO318;Moffat
+CO;CO394;Moffat
+CO;US160;Montezuma
+CO;US491;Montezuma
+CO;CO41;Montezuma
+CO;CO145;Montezuma
+CO;CO184;Montezuma
+CO;US50;Montrose
+CO;US550;Montrose
+CO;CO90;Montrose
+CO;CO92;Montrose
+CO;CO97;Montrose
+CO;CO141;Montrose
+CO;CO145;Montrose
+CO;CO348;Montrose
+CO;I-76;Morgan
+CO;US6;Morgan
+CO;US34;Morgan
+CO;CO39;Morgan
+CO;CO52;Morgan
+CO;CO71;Morgan
+CO;CO144;Morgan
+CO;US50;Otero
+CO;US350;Otero
+CO;CO10;Otero
+CO;CO71;Otero
+CO;CO109;Otero
+CO;CO167;Otero
+CO;CO194;Otero
+CO;CO202;Otero
+CO;CO207;Otero
+CO;CO266;Otero
+CO;US550;Ouray
+CO;CO62;Ouray
+CO;US24;Park
+CO;US285;Park
+CO;CO9;Park
+CO;US6;Phillips
+CO;US385;Phillips
+CO;CO23;Phillips
+CO;CO59;Phillips
+CO;CO82;Pitkin
+CO;CO133;Pitkin
+CO;US50;Prowers
+CO;US287;Prowers
+CO;US385;Prowers
+CO;US400;Prowers
+CO;CO89;Prowers
+CO;CO196;Prowers
+CO;I-25;Pueblo
+CO;US50;Pueblo
+CO;US85;Pueblo
+CO;US87;Pueblo
+CO;CO10;Pueblo
+CO;CO45;Pueblo
+CO;CO47;Pueblo
+CO;CO78;Pueblo
+CO;CO96;Pueblo
+CO;CO165;Pueblo
+CO;CO227;Pueblo
+CO;CO231;Pueblo
+CO;CO233;Pueblo
+CO;CO13;Rio Blanco
+CO;CO64;Rio Blanco
+CO;CO139;Rio Blanco
+CO;US160;Rio Grande
+CO;US285;Rio Grande
+CO;CO15;Rio Grande
+CO;CO112;Rio Grande
+CO;CO149;Rio Grande
+CO;CO368;Rio Grande
+CO;CO370;Rio Grande
+CO;US40;Routt
+CO;CO131;Routt
+CO;CO134;Routt
+CO;US50;Saguache
+CO;US287;Saguache
+CO;CO17;Saguache
+CO;CO112;Saguache
+CO;CO114;Saguache
+CO;US550;San Juan
+CO;CO62;San Miguel
+CO;CO141;San Miguel
+CO;CO145;San Miguel
+CO;I-76;Sedgwick
+CO;US138;Sedgwick
+CO;US385;Sedgwick
+CO;CO11;Sedgwick
+CO;CO23;Sedgwick
+CO;CO59;Sedgwick
+CO;I-70;Summit
+CO;US6;Summit
+CO;CO9;Summit
+CO;CO91;Summit
+CO;US24;Teller
+CO;CO67;Teller
+CO;I-76;Washington
+CO;US6;Washington
+CO;US34;Washington
+CO;US36;Washington
+CO;CO59;Washington
+CO;CO61;Washington
+CO;CO63;Washington
+CO;CO71;Washington
+CO;I-25;Weld
+CO;I-76;Weld
+CO;US6;Weld
+CO;US34;Weld
+CO;US85;Weld
+CO;US87;Weld
+CO;CO7;Weld
+CO;CO14;Weld
+CO;CO52;Weld
+CO;CO56;Weld
+CO;CO60;Weld
+CO;CO66;Weld
+CO;CO71;Weld
+CO;CO79;Weld
+CO;CO119;Weld
+CO;CO257;Weld
+CO;CO392;Weld
+CO;US34;Yuma
+CO;US36;Yuma
+CO;US385;Yuma
+CO;CO59;Yuma
