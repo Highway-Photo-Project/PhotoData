@@ -1,0 +1,516 @@
+region;route;county
+CA;I-80;Alameda
+CA;I-205;Alameda
+CA;I-238;Alameda
+CA;I-580;Alameda
+CA;I-680;Alameda
+CA;I-880;Alameda
+CA;I-980;Alameda
+CA;CA13;Alameda
+CA;CA24;Alameda
+CA;CA61;Alameda
+CA;CA77;Alameda
+CA;CA84;Alameda
+CA;CA92;Alameda
+CA;CA123;Alameda
+CA;CA185;Alameda
+CA;CA238;Alameda
+CA;CA260;Alameda
+CA;CA262;Alameda
+CA;CA4;Alpine
+CA;CA88;Alpine
+CA;CA89;Alpine
+CA;CA108;Alpine
+CA;CA207;Alpine
+CA;CA16;Amador
+CA;CA26;Amador
+CA;CA49;Amador
+CA;CA88;Amador
+CA;CA104;Amador
+CA;CA124;Amador
+CA;CA32;Butte
+CA;CA70;Butte
+CA;CA99;Butte
+CA;CA149;Butte
+CA;CA162;Butte
+CA;CA191;Butte
+CA;CA4;Calaveras
+CA;CA12;Calaveras
+CA;CA26;Calaveras
+CA;CA49;Calaveras
+CA;I-5;Colusa
+CA;CA16;Colusa
+CA;CA20;Colusa
+CA;CA45;Colusa
+CA;I-80;Contra Costa
+CA;I-580;Contra Costa
+CA;I-680;Contra Costa
+CA;CA4;Contra Costa
+CA;CA24;Contra Costa
+CA;CA123;Contra Costa
+CA;CA160;Contra Costa
+CA;CA242;Contra Costa
+CA;US101;Del Norte
+CA;US199;Del Norte
+CA;CA169;Del Norte
+CA;CA197;Del Norte
+CA;US50;El Dorado
+CA;CA49;El Dorado
+CA;CA89;El Dorado
+CA;CA193;El Dorado
+CA;I-5;Fresno
+CA;CA33;Fresno
+CA;CA41;Fresno
+CA;CA43;Fresno
+CA;CA63;Fresno
+CA;CA99;Fresno
+CA;CA145;Fresno
+CA;CA168;Fresno
+CA;CA180;Fresno
+CA;CA198;Fresno
+CA;CA201;Fresno
+CA;CA245;Fresno
+CA;CA269;Fresno
+CA;I-5;Glenn
+CA;CA32;Glenn
+CA;CA45;Glenn
+CA;CA162;Glenn
+CA;US101;Humboldt
+CA;CA36;Humboldt
+CA;CA96;Humboldt
+CA;CA169;Humboldt
+CA;CA200;Humboldt
+CA;CA211;Humboldt
+CA;CA254;Humboldt
+CA;CA255;Humboldt
+CA;CA271;Humboldt
+CA;CA299;Humboldt
+CA;I-8;Imperial
+CA;CA7;Imperial
+CA;CA78;Imperial
+CA;CA86;Imperial
+CA;CA98;Imperial
+CA;CA111;Imperial
+CA;CA115;Imperial
+CA;CA186;Imperial
+CA;US6;Inyo
+CA;US395;Inyo
+CA;CA127;Inyo
+CA;CA136;Inyo
+CA;CA168;Inyo
+CA;CA178;Inyo
+CA;CA190;Inyo
+CA;I-5;Kern
+CA;US395;Kern
+CA;CA14;Kern
+CA;CA33;Kern
+CA;CA41;Kern
+CA;CA43;Kern
+CA;CA46;Kern
+CA;CA58;Kern
+CA;CA65;Kern
+CA;CA99;Kern
+CA;CA119;Kern
+CA;CA155;Kern
+CA;CA166;Kern
+CA;CA178;Kern
+CA;CA184;Kern
+CA;CA202;Kern
+CA;CA204;Kern
+CA;CA223;Kern
+CA;I-5;Kings
+CA;CA33;Kings
+CA;CA41;Kings
+CA;CA43;Kings
+CA;CA137;Kings
+CA;CA198;Kings
+CA;CA269;Kings
+CA;CA20;Lake
+CA;CA29;Lake
+CA;CA53;Lake
+CA;CA175;Lake
+CA;CA281;Lake
+CA;US395;Lassen
+CA;CA36;Lassen
+CA;CA44;Lassen
+CA;CA70;Lassen
+CA;CA139;Lassen
+CA;CA147;Lassen
+CA;CA299;Lassen
+CA;I-5;Los Angeles
+CA;I-10;Los Angeles
+CA;I-105;Los Angeles
+CA;I-110;Los Angeles
+CA;I-210;Los Angeles
+CA;I-405;Los Angeles
+CA;I-605;Los Angeles
+CA;I-710;Los Angeles
+CA;US101;Los Angeles
+CA;CA1;Los Angeles
+CA;CA2;Los Angeles
+CA;CA14;Los Angeles
+CA;CA18;Los Angeles
+CA;CA19;Los Angeles
+CA;CA22;Los Angeles
+CA;CA23;Los Angeles
+CA;CA27;Los Angeles
+CA;CA39;Los Angeles
+CA;CA47;Los Angeles
+CA;CA57;Los Angeles
+CA;CA60;Los Angeles
+CA;CA66;Los Angeles
+CA;CA71;Los Angeles
+CA;CA72;Los Angeles
+CA;CA90;Los Angeles
+CA;CA91;Los Angeles
+CA;CA103;Los Angeles
+CA;CA107;Los Angeles
+CA;CA110;Los Angeles
+CA;CA118;Los Angeles
+CA;CA126;Los Angeles
+CA;CA134;Los Angeles
+CA;CA138;Los Angeles
+CA;CA170;Los Angeles
+CA;CA187;Los Angeles
+CA;CA210;Los Angeles
+CA;CA213;Los Angeles
+CA;CA710;Los Angeles
+CA;CA41;Madera
+CA;CA49;Madera
+CA;CA99;Madera
+CA;CA145;Madera
+CA;CA152;Madera
+CA;CA233;Madera
+CA;I-580;Marin
+CA;US101;Marin
+CA;CA1;Marin
+CA;CA37;Marin
+CA;CA131;Marin
+CA;CA41;Mariposa
+CA;CA49;Mariposa
+CA;CA132;Mariposa
+CA;CA140;Mariposa
+CA;US101;Mendocino
+CA;CA1;Mendocino
+CA;CA20;Mendocino
+CA;CA128;Mendocino
+CA;CA162;Mendocino
+CA;CA175;Mendocino
+CA;CA222;Mendocino
+CA;CA253;Mendocino
+CA;CA271;Mendocino
+CA;I-5;Merced
+CA;CA33;Merced
+CA;CA59;Merced
+CA;CA99;Merced
+CA;CA140;Merced
+CA;CA152;Merced
+CA;CA165;Merced
+CA;US395;Modoc
+CA;CA139;Modoc
+CA;CA299;Modoc
+CA;US6;Mono
+CA;US395;Mono
+CA;CA89;Mono
+CA;CA108;Mono
+CA;CA120;Mono
+CA;CA158;Mono
+CA;CA167;Mono
+CA;CA168;Mono
+CA;CA182;Mono
+CA;CA203;Mono
+CA;CA266;Mono
+CA;CA270;Mono
+CA;US101;Monterey
+CA;CA1;Monterey
+CA;CA25;Monterey
+CA;CA68;Monterey
+CA;CA146;Monterey
+CA;CA156;Monterey
+CA;CA183;Monterey
+CA;CA198;Monterey
+CA;CA218;Monterey
+CA;I-80;Napa
+CA;CA12;Napa
+CA;CA29;Napa
+CA;CA121;Napa
+CA;CA128;Napa
+CA;CA221;Napa
+CA;I-80;Nevada
+CA;CA20;Nevada
+CA;CA49;Nevada
+CA;CA89;Nevada
+CA;CA174;Nevada
+CA;CA267;Nevada
+CA;I-5;Orange
+CA;I-405;Orange
+CA;I-605;Orange
+CA;CA1;Orange
+CA;CA22;Orange
+CA;CA39;Orange
+CA;CA55;Orange
+CA;CA57;Orange
+CA;CA72;Orange
+CA;CA73;Orange
+CA;CA74;Orange
+CA;CA90;Orange
+CA;CA91;Orange
+CA;CA133;Orange
+CA;CA142;Orange
+CA;CA241;Orange
+CA;CA261;Orange
+CA;I-80;Placer
+CA;CA20;Placer
+CA;CA28;Placer
+CA;CA49;Placer
+CA;CA65;Placer
+CA;CA89;Placer
+CA;CA174;Placer
+CA;CA193;Placer
+CA;CA267;Placer
+CA;CA36;Plumas
+CA;CA49;Plumas
+CA;CA70;Plumas
+CA;CA89;Plumas
+CA;CA147;Plumas
+CA;CA284;Plumas
+CA;I-10;Riverside
+CA;I-15;Riverside
+CA;I-215;Riverside
+CA;US95;Riverside
+CA;CA60;Riverside
+CA;CA62;Riverside
+CA;CA71;Riverside
+CA;CA74;Riverside
+CA;CA78;Riverside
+CA;CA79;Riverside
+CA;CA86;Riverside
+CA;CA91;Riverside
+CA;CA111;Riverside
+CA;CA177;Riverside
+CA;CA243;Riverside
+CA;CA371;Riverside
+CA;I-5;Sacramento
+CA;I-80;Sacramento
+CA;US50;Sacramento
+CA;CA12;Sacramento
+CA;CA16;Sacramento
+CA;CA99;Sacramento
+CA;CA104;Sacramento
+CA;CA160;Sacramento
+CA;CA220;Sacramento
+CA;US101;San Benito
+CA;CA25;San Benito
+CA;CA129;San Benito
+CA;CA146;San Benito
+CA;CA156;San Benito
+CA;I-10;San Bernardino
+CA;I-15;San Bernardino
+CA;I-40;San Bernardino
+CA;I-215;San Bernardino
+CA;US95;San Bernardino
+CA;US395;San Bernardino
+CA;CA2;San Bernardino
+CA;CA18;San Bernardino
+CA;CA38;San Bernardino
+CA;CA58;San Bernardino
+CA;CA60;San Bernardino
+CA;CA62;San Bernardino
+CA;CA66;San Bernardino
+CA;CA71;San Bernardino
+CA;CA83;San Bernardino
+CA;CA127;San Bernardino
+CA;CA138;San Bernardino
+CA;CA142;San Bernardino
+CA;CA173;San Bernardino
+CA;CA178;San Bernardino
+CA;CA189;San Bernardino
+CA;CA210;San Bernardino
+CA;CA247;San Bernardino
+CA;CA259;San Bernardino
+CA;CA330;San Bernardino
+CA;I-5;San Diego
+CA;I-8;San Diego
+CA;I-15;San Diego
+CA;I-805;San Diego
+CA;CA11;San Diego
+CA;CA15;San Diego
+CA;CA52;San Diego
+CA;CA54;San Diego
+CA;CA56;San Diego
+CA;CA67;San Diego
+CA;CA75;San Diego
+CA;CA76;San Diego
+CA;CA78;San Diego
+CA;CA79;San Diego
+CA;CA94;San Diego
+CA;CA125;San Diego
+CA;CA163;San Diego
+CA;CA188;San Diego
+CA;CA282;San Diego
+CA;CA905;San Diego
+CA;I-80;San Francisco
+CA;I-280;San Francisco
+CA;US101;San Francisco
+CA;CA1;San Francisco
+CA;CA35;San Francisco
+CA;CA82;San Francisco
+CA;I-5;San Joaquin
+CA;I-205;San Joaquin
+CA;I-580;San Joaquin
+CA;CA4;San Joaquin
+CA;CA12;San Joaquin
+CA;CA26;San Joaquin
+CA;CA33;San Joaquin
+CA;CA88;San Joaquin
+CA;CA99;San Joaquin
+CA;CA120;San Joaquin
+CA;CA132;San Joaquin
+CA;US101;San Luis Obispo
+CA;CA1;San Luis Obispo
+CA;CA33;San Luis Obispo
+CA;CA41;San Luis Obispo
+CA;CA46;San Luis Obispo
+CA;CA58;San Luis Obispo
+CA;CA166;San Luis Obispo
+CA;CA227;San Luis Obispo
+CA;CA229;San Luis Obispo
+CA;I-280;San Mateo
+CA;I-380;San Mateo
+CA;US101;San Mateo
+CA;CA1;San Mateo
+CA;CA9;San Mateo
+CA;CA35;San Mateo
+CA;CA82;San Mateo
+CA;CA84;San Mateo
+CA;CA92;San Mateo
+CA;US101;Santa Barbara
+CA;CA1;Santa Barbara
+CA;CA33;Santa Barbara
+CA;CA135;Santa Barbara
+CA;CA144;Santa Barbara
+CA;CA150;Santa Barbara
+CA;CA154;Santa Barbara
+CA;CA166;Santa Barbara
+CA;CA192;Santa Barbara
+CA;CA217;Santa Barbara
+CA;CA246;Santa Barbara
+CA;I-280;Santa Clara
+CA;I-680;Santa Clara
+CA;I-880;Santa Clara
+CA;US101;Santa Clara
+CA;CA9;Santa Clara
+CA;CA17;Santa Clara
+CA;CA25;Santa Clara
+CA;CA35;Santa Clara
+CA;CA82;Santa Clara
+CA;CA85;Santa Clara
+CA;CA87;Santa Clara
+CA;CA130;Santa Clara
+CA;CA152;Santa Clara
+CA;CA156;Santa Clara
+CA;CA237;Santa Clara
+CA;CA1;Santa Cruz
+CA;CA9;Santa Cruz
+CA;CA17;Santa Cruz
+CA;CA35;Santa Cruz
+CA;CA129;Santa Cruz
+CA;CA152;Santa Cruz
+CA;CA236;Santa Cruz
+CA;I-5;Shasta
+CA;CA36;Shasta
+CA;CA44;Shasta
+CA;CA89;Shasta
+CA;CA151;Shasta
+CA;CA273;Shasta
+CA;CA299;Shasta
+CA;I-80;Sierra
+CA;US395;Sierra
+CA;CA49;Sierra
+CA;CA89;Sierra
+CA;I-5;Siskiyou
+CA;US97;Siskiyou
+CA;CA3;Siskiyou
+CA;CA89;Siskiyou
+CA;CA96;Siskiyou
+CA;CA139;Siskiyou
+CA;CA161;Siskiyou
+CA;CA263;Siskiyou
+CA;CA265;Siskiyou
+CA;I-80;Solano
+CA;I-505;Solano
+CA;I-680;Solano
+CA;I-780;Solano
+CA;CA12;Solano
+CA;CA29;Solano
+CA;CA37;Solano
+CA;CA84;Solano
+CA;CA113;Solano
+CA;CA128;Solano
+CA;CA220;Solano
+CA;US101;Sonoma
+CA;CA1;Sonoma
+CA;CA12;Sonoma
+CA;CA37;Sonoma
+CA;CA116;Sonoma
+CA;CA121;Sonoma
+CA;CA128;Sonoma
+CA;I-5;Stanislaus
+CA;CA4;Stanislaus
+CA;CA33;Stanislaus
+CA;CA99;Stanislaus
+CA;CA108;Stanislaus
+CA;CA120;Stanislaus
+CA;CA132;Stanislaus
+CA;CA165;Stanislaus
+CA;CA219;Stanislaus
+CA;CA20;Sutter
+CA;CA70;Sutter
+CA;CA99;Sutter
+CA;CA113;Sutter
+CA;I-5;Tehama
+CA;CA32;Tehama
+CA;CA36;Tehama
+CA;CA89;Tehama
+CA;CA99;Tehama
+CA;CA172;Tehama
+CA;CA3;Trinity
+CA;CA36;Trinity
+CA;CA299;Trinity
+CA;CA43;Tulare
+CA;CA63;Tulare
+CA;CA65;Tulare
+CA;CA99;Tulare
+CA;CA137;Tulare
+CA;CA180;Tulare
+CA;CA190;Tulare
+CA;CA198;Tulare
+CA;CA201;Tulare
+CA;CA216;Tulare
+CA;CA245;Tulare
+CA;CA49;Tuolumne
+CA;CA108;Tuolumne
+CA;CA120;Tuolumne
+CA;CA132;Tuolumne
+CA;US101;Ventura
+CA;CA1;Ventura
+CA;CA23;Ventura
+CA;CA33;Ventura
+CA;CA34;Ventura
+CA;CA118;Ventura
+CA;CA126;Ventura
+CA;CA150;Ventura
+CA;CA232;Ventura
+CA;I-5;Yolo
+CA;I-80;Yolo
+CA;I-505;Yolo
+CA;US50;Yolo
+CA;CA16;Yolo
+CA;CA45;Yolo
+CA;CA84;Yolo
+CA;CA113;Yolo
+CA;CA128;Yolo
+CA;CA20;Yuba
+CA;CA49;Yuba
+CA;CA65;Yuba
+CA;CA70;Yuba
