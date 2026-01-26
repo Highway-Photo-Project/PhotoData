@@ -1,0 +1,601 @@
+region;route;county
+MN;US2;Aitkin
+MN;US169;Aitkin
+MN;MN18;Aitkin
+MN;MN27;Aitkin
+MN;MN47;Aitkin
+MN;MN65;Aitkin
+MN;MN200;Aitkin
+MN;MN210;Aitkin
+MN;I-35;Anoka
+MN;I-35E;Anoka
+MN;I-35W;Anoka
+MN;I-694;Anoka
+MN;US10;Anoka
+MN;US169;Anoka
+MN;MN47;Anoka
+MN;MN65;Anoka
+MN;MN97;Anoka
+MN;MN610;Anoka
+MN;US10;Becker
+MN;US59;Becker
+MN;MN34;Becker
+MN;MN87;Becker
+MN;MN113;Becker
+MN;US2;Beltrami
+MN;US71;Beltrami
+MN;MN1;Beltrami
+MN;MN72;Beltrami
+MN;MN89;Beltrami
+MN;MN197;Beltrami
+MN;US10;Benton
+MN;MN15;Benton
+MN;MN23;Benton
+MN;MN25;Benton
+MN;MN95;Benton
+MN;US12;Big Stone
+MN;US75;Big Stone
+MN;MN7;Big Stone
+MN;MN28;Big Stone
+MN;US14;Blue Earth
+MN;US169;Blue Earth
+MN;MN22;Blue Earth
+MN;MN30;Blue Earth
+MN;MN60;Blue Earth
+MN;MN68;Blue Earth
+MN;MN83;Blue Earth
+MN;US14;Brown
+MN;MN4;Brown
+MN;MN15;Brown
+MN;MN68;Brown
+MN;MN257;Brown
+MN;I-35;Carlton
+MN;MN23;Carlton
+MN;MN27;Carlton
+MN;MN33;Carlton
+MN;MN45;Carlton
+MN;MN73;Carlton
+MN;MN210;Carlton
+MN;US212;Carver
+MN;MN5;Carver
+MN;MN7;Carver
+MN;MN25;Carver
+MN;MN41;Carver
+MN;MN101;Carver
+MN;MN284;Carver
+MN;US2;Cass
+MN;MN6;Cass
+MN;MN34;Cass
+MN;MN64;Cass
+MN;MN84;Cass
+MN;MN87;Cass
+MN;MN200;Cass
+MN;MN210;Cass
+MN;MN371;Cass
+MN;US59;Chippewa
+MN;US212;Chippewa
+MN;MN7;Chippewa
+MN;MN23;Chippewa
+MN;MN29;Chippewa
+MN;MN40;Chippewa
+MN;I-35;Chisago
+MN;US8;Chisago
+MN;US61;Chisago
+MN;MN95;Chisago
+MN;MN243;Chisago
+MN;I-94;Clay
+MN;US10;Clay
+MN;US52;Clay
+MN;US75;Clay
+MN;MN9;Clay
+MN;MN32;Clay
+MN;MN34;Clay
+MN;MN336;Clay
+MN;US2;Clearwater
+MN;MN1;Clearwater
+MN;MN89;Clearwater
+MN;MN92;Clearwater
+MN;MN113;Clearwater
+MN;MN200;Clearwater
+MN;MN223;Clearwater
+MN;MN61;Cook
+MN;US71;Cottonwood
+MN;MN30;Cottonwood
+MN;MN60;Cottonwood
+MN;MN62;Cottonwood
+MN;US169;Crow Wing
+MN;MN6;Crow Wing
+MN;MN18;Crow Wing
+MN;MN25;Crow Wing
+MN;MN210;Crow Wing
+MN;MN371;Crow Wing
+MN;I-35;Dakota
+MN;I-35E;Dakota
+MN;I-35W;Dakota
+MN;I-494;Dakota
+MN;US52;Dakota
+MN;US61;Dakota
+MN;MN3;Dakota
+MN;MN13;Dakota
+MN;MN19;Dakota
+MN;MN20;Dakota
+MN;MN50;Dakota
+MN;MN55;Dakota
+MN;MN56;Dakota
+MN;MN62;Dakota
+MN;MN77;Dakota
+MN;MN149;Dakota
+MN;MN316;Dakota
+MN;US14;Dodge
+MN;US218;Dodge
+MN;MN30;Dodge
+MN;MN56;Dodge
+MN;MN57;Dodge
+MN;I-94;Douglas
+MN;US52;Douglas
+MN;MN27;Douglas
+MN;MN29;Douglas
+MN;MN55;Douglas
+MN;MN78;Douglas
+MN;MN79;Douglas
+MN;MN114;Douglas
+MN;I-90;Faribault
+MN;US169;Faribault
+MN;MN22;Faribault
+MN;MN109;Faribault
+MN;US52;Fillmore
+MN;US63;Fillmore
+MN;MN16;Fillmore
+MN;MN30;Fillmore
+MN;MN43;Fillmore
+MN;MN44;Fillmore
+MN;MN56;Fillmore
+MN;MN74;Fillmore
+MN;MN80;Fillmore
+MN;MN139;Fillmore
+MN;MN250;Fillmore
+MN;I-35;Freeborn
+MN;I-90;Freeborn
+MN;US65;Freeborn
+MN;US69;Freeborn
+MN;MN13;Freeborn
+MN;MN109;Freeborn
+MN;MN251;Freeborn
+MN;US52;Goodhue
+MN;US61;Goodhue
+MN;US63;Goodhue
+MN;MN19;Goodhue
+MN;MN20;Goodhue
+MN;MN56;Goodhue
+MN;MN57;Goodhue
+MN;MN58;Goodhue
+MN;MN60;Goodhue
+MN;MN246;Goodhue
+MN;MN316;Goodhue
+MN;I-94;Grant
+MN;US52;Grant
+MN;US59;Grant
+MN;MN9;Grant
+MN;MN27;Grant
+MN;MN55;Grant
+MN;MN78;Grant
+MN;MN79;Grant
+MN;I-35W;Hennepin
+MN;I-94;Hennepin
+MN;I-394;Hennepin
+MN;I-494;Hennepin
+MN;I-694;Hennepin
+MN;US12;Hennepin
+MN;US52;Hennepin
+MN;US169;Hennepin
+MN;US212;Hennepin
+MN;MN5;Hennepin
+MN;MN7;Hennepin
+MN;MN41;Hennepin
+MN;MN47;Hennepin
+MN;MN55;Hennepin
+MN;MN62;Hennepin
+MN;MN65;Hennepin
+MN;MN77;Hennepin
+MN;MN100;Hennepin
+MN;MN101;Hennepin
+MN;MN121;Hennepin
+MN;MN252;Hennepin
+MN;MN610;Hennepin
+MN;US14;Houston
+MN;US61;Houston
+MN;MN16;Houston
+MN;MN26;Houston
+MN;MN44;Houston
+MN;MN76;Houston
+MN;US2;Hubbard
+MN;US71;Hubbard
+MN;MN34;Hubbard
+MN;MN64;Hubbard
+MN;MN87;Hubbard
+MN;MN113;Hubbard
+MN;MN200;Hubbard
+MN;MN226;Hubbard
+MN;MN47;Isanti
+MN;MN65;Isanti
+MN;MN95;Isanti
+MN;MN107;Isanti
+MN;US2;Itasca
+MN;US71;Itasca
+MN;US169;Itasca
+MN;MN1;Itasca
+MN;MN6;Itasca
+MN;MN38;Itasca
+MN;MN46;Itasca
+MN;MN65;Itasca
+MN;MN286;Itasca
+MN;I-90;Jackson
+MN;US71;Jackson
+MN;MN60;Jackson
+MN;MN86;Jackson
+MN;MN264;Jackson
+MN;MN23;Kanabec
+MN;MN27;Kanabec
+MN;MN47;Kanabec
+MN;MN65;Kanabec
+MN;MN70;Kanabec
+MN;MN107;Kanabec
+MN;US12;Kandiyohi
+MN;US71;Kandiyohi
+MN;MN4;Kandiyohi
+MN;MN7;Kandiyohi
+MN;MN9;Kandiyohi
+MN;MN23;Kandiyohi
+MN;MN40;Kandiyohi
+MN;MN55;Kandiyohi
+MN;MN104;Kandiyohi
+MN;US59;Kittson
+MN;US75;Kittson
+MN;MN11;Kittson
+MN;MN171;Kittson
+MN;MN175;Kittson
+MN;MN220;Kittson
+MN;US53;Koochiching
+MN;US71;Koochiching
+MN;MN1;Koochiching
+MN;MN6;Koochiching
+MN;MN11;Koochiching
+MN;MN46;Koochiching
+MN;MN65;Koochiching
+MN;MN217;Koochiching
+MN;US59;Lac qui Parle
+MN;US75;Lac qui Parle
+MN;US212;Lac qui Parle
+MN;MN40;Lac qui Parle
+MN;MN119;Lac qui Parle
+MN;MN1;Lake
+MN;MN61;Lake
+MN;MN169;Lake
+MN;MN11;Lake of the Woods
+MN;MN72;Lake of the Woods
+MN;MN172;Lake of the Woods
+MN;US169;Le Sueur
+MN;MN13;Le Sueur
+MN;MN19;Le Sueur
+MN;MN21;Le Sueur
+MN;MN22;Le Sueur
+MN;MN60;Le Sueur
+MN;MN93;Le Sueur
+MN;MN99;Le Sueur
+MN;US14;Lincoln
+MN;US75;Lincoln
+MN;MN19;Lincoln
+MN;MN23;Lincoln
+MN;MN68;Lincoln
+MN;MN271;Lincoln
+MN;US14;Lyon
+MN;US59;Lyon
+MN;MN19;Lyon
+MN;MN23;Lyon
+MN;MN68;Lyon
+MN;MN91;Lyon
+MN;US59;Mahnomen
+MN;MN113;Mahnomen
+MN;MN200;Mahnomen
+MN;US59;Marshall
+MN;US75;Marshall
+MN;MN1;Marshall
+MN;MN32;Marshall
+MN;MN89;Marshall
+MN;MN219;Marshall
+MN;MN220;Marshall
+MN;MN317;Marshall
+MN;I-90;Martin
+MN;MN4;Martin
+MN;MN15;Martin
+MN;US212;McLeod
+MN;MN7;McLeod
+MN;MN15;McLeod
+MN;MN22;McLeod
+MN;US12;Meeker
+MN;MN4;Meeker
+MN;MN7;Meeker
+MN;MN15;Meeker
+MN;MN22;Meeker
+MN;MN24;Meeker
+MN;MN55;Meeker
+MN;US169;Mille Lacs
+MN;MN18;Mille Lacs
+MN;MN23;Mille Lacs
+MN;MN27;Mille Lacs
+MN;MN47;Mille Lacs
+MN;MN95;Mille Lacs
+MN;US10;Morrison
+MN;MN25;Morrison
+MN;MN27;Morrison
+MN;MN28;Morrison
+MN;MN115;Morrison
+MN;MN210;Morrison
+MN;MN238;Morrison
+MN;MN371;Morrison
+MN;I-90;Mower
+MN;US63;Mower
+MN;US218;Mower
+MN;MN16;Mower
+MN;MN56;Mower
+MN;MN105;Mower
+MN;MN251;Mower
+MN;US59;Murray
+MN;MN30;Murray
+MN;MN62;Murray
+MN;MN91;Murray
+MN;MN267;Murray
+MN;US14;Nicollet
+MN;US169;Nicollet
+MN;MN4;Nicollet
+MN;MN15;Nicollet
+MN;MN22;Nicollet
+MN;MN60;Nicollet
+MN;MN99;Nicollet
+MN;MN111;Nicollet
+MN;I-90;Nobles
+MN;US59;Nobles
+MN;MN60;Nobles
+MN;MN91;Nobles
+MN;MN264;Nobles
+MN;US75;Norman
+MN;MN9;Norman
+MN;MN32;Norman
+MN;MN113;Norman
+MN;MN200;Norman
+MN;I-90;Olmsted
+MN;US14;Olmsted
+MN;US52;Olmsted
+MN;US63;Olmsted
+MN;MN30;Olmsted
+MN;MN42;Olmsted
+MN;MN74;Olmsted
+MN;MN247;Olmsted
+MN;I-94;Otter Tail
+MN;US10;Otter Tail
+MN;US52;Otter Tail
+MN;US59;Otter Tail
+MN;MN29;Otter Tail
+MN;MN34;Otter Tail
+MN;MN78;Otter Tail
+MN;MN106;Otter Tail
+MN;MN108;Otter Tail
+MN;MN210;Otter Tail
+MN;US59;Pennington
+MN;MN1;Pennington
+MN;MN32;Pennington
+MN;MN219;Pennington
+MN;I-35;Pine
+MN;MN18;Pine
+MN;MN23;Pine
+MN;MN48;Pine
+MN;MN70;Pine
+MN;MN107;Pine
+MN;MN123;Pine
+MN;US75;Pipestone
+MN;MN23;Pipestone
+MN;MN30;Pipestone
+MN;MN269;Pipestone
+MN;US2;Polk
+MN;US59;Polk
+MN;US75;Polk
+MN;MN9;Polk
+MN;MN32;Polk
+MN;MN92;Polk
+MN;MN102;Polk
+MN;MN220;Polk
+MN;MN9;Pope
+MN;MN28;Pope
+MN;MN29;Pope
+MN;MN55;Pope
+MN;MN104;Pope
+MN;MN114;Pope
+MN;I-35E;Ramsey
+MN;I-35W;Ramsey
+MN;I-94;Ramsey
+MN;I-494;Ramsey
+MN;I-694;Ramsey
+MN;US10;Ramsey
+MN;US12;Ramsey
+MN;US52;Ramsey
+MN;US61;Ramsey
+MN;MN3;Ramsey
+MN;MN5;Ramsey
+MN;MN13;Ramsey
+MN;MN36;Ramsey
+MN;MN51;Ramsey
+MN;MN96;Ramsey
+MN;MN120;Ramsey
+MN;MN149;Ramsey
+MN;MN156;Ramsey
+MN;MN280;Ramsey
+MN;US59;Red Lake
+MN;MN32;Red Lake
+MN;MN92;Red Lake
+MN;MN222;Red Lake
+MN;US14;Redwood
+MN;US71;Redwood
+MN;MN19;Redwood
+MN;MN67;Redwood
+MN;MN68;Redwood
+MN;US71;Renville
+MN;US212;Renville
+MN;MN4;Renville
+MN;MN19;Renville
+MN;MN23;Renville
+MN;I-35;Rice
+MN;MN3;Rice
+MN;MN19;Rice
+MN;MN21;Rice
+MN;MN60;Rice
+MN;MN99;Rice
+MN;MN246;Rice
+MN;I-90;Rock
+MN;US75;Rock
+MN;MN23;Rock
+MN;MN269;Rock
+MN;MN270;Rock
+MN;MN11;Roseau
+MN;MN32;Roseau
+MN;MN89;Roseau
+MN;MN308;Roseau
+MN;MN310;Roseau
+MN;MN313;Roseau
+MN;I-35;Scott
+MN;US169;Scott
+MN;MN13;Scott
+MN;MN19;Scott
+MN;MN21;Scott
+MN;MN25;Scott
+MN;MN41;Scott
+MN;MN282;Scott
+MN;US10;Sherburne
+MN;US169;Sherburne
+MN;MN24;Sherburne
+MN;MN25;Sherburne
+MN;MN101;Sherburne
+MN;US169;Sibley
+MN;MN5;Sibley
+MN;MN15;Sibley
+MN;MN19;Sibley
+MN;MN22;Sibley
+MN;MN25;Sibley
+MN;MN93;Sibley
+MN;I-35;St. Louis
+MN;I-535;St. Louis
+MN;US2;St. Louis
+MN;US53;St. Louis
+MN;US169;St. Louis
+MN;MN1;St. Louis
+MN;MN23;St. Louis
+MN;MN33;St. Louis
+MN;MN37;St. Louis
+MN;MN39;St. Louis
+MN;MN61;St. Louis
+MN;MN73;St. Louis
+MN;MN135;St. Louis
+MN;MN169;St. Louis
+MN;MN194;St. Louis
+MN;MN210;St. Louis
+MN;I-94;Stearns
+MN;US52;Stearns
+MN;US71;Stearns
+MN;MN4;Stearns
+MN;MN15;Stearns
+MN;MN22;Stearns
+MN;MN23;Stearns
+MN;MN24;Stearns
+MN;MN28;Stearns
+MN;MN55;Stearns
+MN;MN237;Stearns
+MN;MN238;Stearns
+MN;I-35;Steele
+MN;US14;Steele
+MN;US218;Steele
+MN;MN30;Steele
+MN;US59;Stevens
+MN;MN9;Stevens
+MN;MN28;Stevens
+MN;US12;Swift
+MN;US59;Swift
+MN;MN7;Swift
+MN;MN9;Swift
+MN;MN29;Swift
+MN;MN104;Swift
+MN;MN119;Swift
+MN;I-94;Todd
+MN;US10;Todd
+MN;US52;Todd
+MN;US71;Todd
+MN;MN27;Todd
+MN;MN28;Todd
+MN;MN210;Todd
+MN;MN287;Todd
+MN;US75;Traverse
+MN;MN9;Traverse
+MN;MN27;Traverse
+MN;MN28;Traverse
+MN;MN117;Traverse
+MN;US61;Wabasha
+MN;US63;Wabasha
+MN;MN42;Wabasha
+MN;MN60;Wabasha
+MN;MN74;Wabasha
+MN;MN247;Wabasha
+MN;US10;Wadena
+MN;US71;Wadena
+MN;MN29;Wadena
+MN;MN87;Wadena
+MN;US14;Waseca
+MN;MN13;Waseca
+MN;MN30;Waseca
+MN;MN60;Waseca
+MN;MN83;Waseca
+MN;I-35;Washington
+MN;I-94;Washington
+MN;I-494;Washington
+MN;I-694;Washington
+MN;US8;Washington
+MN;US10;Washington
+MN;US12;Washington
+MN;US61;Washington
+MN;MN5;Washington
+MN;MN36;Washington
+MN;MN95;Washington
+MN;MN96;Washington
+MN;MN97;Washington
+MN;MN120;Washington
+MN;MN244;Washington
+MN;MN4;Watonwan
+MN;MN15;Watonwan
+MN;MN30;Watonwan
+MN;MN60;Watonwan
+MN;I-94;Wilkin
+MN;US52;Wilkin
+MN;US75;Wilkin
+MN;MN9;Wilkin
+MN;MN55;Wilkin
+MN;MN108;Wilkin
+MN;MN210;Wilkin
+MN;I-90;Winona
+MN;US14;Winona
+MN;US61;Winona
+MN;MN43;Winona
+MN;MN74;Winona
+MN;MN76;Winona
+MN;MN248;Winona
+MN;I-94;Wright
+MN;US12;Wright
+MN;US52;Wright
+MN;MN24;Wright
+MN;MN25;Wright
+MN;MN55;Wright
+MN;MN101;Wright
+MN;MN241;Wright
+MN;US59;Yellow Medicine
+MN;US75;Yellow Medicine
+MN;US212;Yellow Medicine
+MN;MN23;Yellow Medicine
+MN;MN67;Yellow Medicine
+MN;MN68;Yellow Medicine
+MN;MN274;Yellow Medicine
