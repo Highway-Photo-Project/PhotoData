@@ -1,0 +1,3 @@
+[submodule "PhotoData"]
+	path = PhotoData
+	url = https://github.com/Highway-Photo-Project/PhotoData.git
