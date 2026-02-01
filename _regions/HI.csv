@@ -9,6 +9,7 @@ usahi;HI;HI30
 usahi;HI;HI31
 usahi;HI;HI32
 usahi;HI;HI32A
+usahi;HI;HI33
 usahi;HI;HI36
 usahi;HI;HI36A
 usahi;HI;HI37
@@ -31,8 +32,10 @@ usahi;HI;HI98
 usahi;HI;HI99
 usahi;HI;HI130
 usahi;HI;HI132
+usahi;HI;HI137
 usahi;HI;HI139
 usahi;HI;HI160
+usahi;HI;HI180
 usahi;HI;HI190
 usahi;HI;HI200
 usahi;HI;HI220
@@ -41,8 +44,10 @@ usahi;HI;HI250
 usahi;HI;HI270
 usahi;HI;HI310
 usahi;HI;HI311
+usahi;HI;HI330
 usahi;HI;HI340
 usahi;HI;HI360
+usahi;HI;HI365
 usahi;HI;HI377
 usahi;HI;HI378
 usahi;HI;HI440
@@ -50,6 +55,9 @@ usahi;HI;HI450
 usahi;HI;HI460
 usahi;HI;HI470
 usahi;HI;HI480
+usahi;HI;HI481
+usahi;HI;HI520
+usahi;HI;HI530
 usahi;HI;HI540
 usahi;HI;HI541
 usahi;HI;HI550
@@ -57,6 +65,7 @@ usahi;HI;HI552
 usahi;HI;HI560
 usahi;HI;HI570
 usahi;HI;HI580
+usahi;HI;HI581
 usahi;HI;HI583
 usahi;HI;HI750
 usahi;HI;HI930
