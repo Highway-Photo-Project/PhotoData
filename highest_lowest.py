@@ -2,7 +2,7 @@ import os
 import csv
 import re
 
-BASE = "PhotoData/_counties"
+BASE = "_counties"
 OUTPUT = "highest_lowest_routes_by_county.csv"
 
 route_re = re.compile(r"(\d+)")
