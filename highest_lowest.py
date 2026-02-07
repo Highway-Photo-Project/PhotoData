@@ -46,7 +46,7 @@ def analyze_counties(base_folder):
 
 def write_output(results, output_file):
     with open(output_file, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, delimiter=";")
         writer.writerow([
             "State",
             "County",
