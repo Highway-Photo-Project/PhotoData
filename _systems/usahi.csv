@@ -1,5 +1,6 @@
 systemName;region;route
 usahi;HI;HI11
+usahi;HI;HI15
 usahi;HI;HI19
 usahi;HI;HI30
 usahi;HI;HI31
@@ -30,6 +31,8 @@ usahi;HI;HI130
 usahi;HI;HI132
 usahi;HI;HI137
 usahi;HI;HI139
+usahi;HI;HI148
+usahi;HI;HI151
 usahi;HI;HI160
 usahi;HI;HI180
 usahi;HI;HI190
@@ -38,6 +41,7 @@ usahi;HI;HI220
 usahi;HI;HI240
 usahi;HI;HI250
 usahi;HI;HI270
+usahi;HI;HI305
 usahi;HI;HI310
 usahi;HI;HI311
 usahi;HI;HI330
