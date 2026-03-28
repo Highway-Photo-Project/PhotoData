@@ -1,0 +1,768 @@
+region;route;county
+AB;AB41;Acadia
+AB;AB562;Acadia
+AB;AB570;Acadia
+AB;AB899;Acadia
+AB;AB2;Athabasca
+AB;AB55;Athabasca
+AB;AB63;Athabasca
+AB;AB661;Athabasca
+AB;AB663;Athabasca
+AB;AB812;Athabasca
+AB;AB813;Athabasca
+AB;AB827;Athabasca
+AB;AB831;Athabasca
+AB;AB855;Athabasca
+AB;TCHAB;Banff National Park
+AB;AB1;Banff National Park
+AB;AB1A;Banff National Park
+AB;AB11;Banff National Park
+AB;AB93;Banff National Park
+AB;AB18;Barrhead
+AB;AB33;Barrhead
+AB;AB651;Barrhead
+AB;AB654;Barrhead
+AB;AB661;Barrhead
+AB;AB763;Barrhead
+AB;AB764;Barrhead
+AB;AB769;Barrhead
+AB;AB777;Barrhead
+AB;AB14;Beaver
+AB;AB26;Beaver
+AB;AB36;Beaver
+AB;AB617;Beaver
+AB;AB619;Beaver
+AB;AB626;Beaver
+AB;AB630;Beaver
+AB;AB833;Beaver
+AB;AB834;Beaver
+AB;AB854;Beaver
+AB;AB855;Beaver
+AB;AB857;Beaver
+AB;AB870;Beaver
+AB;AB2;Big Lakes
+AB;AB2A;Big Lakes
+AB;AB32;Big Lakes
+AB;AB33;Big Lakes
+AB;AB679;Big Lakes
+AB;AB747;Big Lakes
+AB;AB749;Big Lakes
+AB;AB750;Big Lakes
+AB;TCHAB;Bighorn
+AB;AB1;Bighorn
+AB;AB1A;Bighorn
+AB;AB40;Bighorn
+AB;AB68;Bighorn
+AB;AB579;Bighorn
+AB;AB742;Bighorn
+AB;AB49;Birch Hills
+AB;AB677;Birch Hills
+AB;AB733;Birch Hills
+AB;AB739;Birch Hills
+AB;AB740;Birch Hills
+AB;AB28;Bonnyville
+AB;AB41;Bonnyville
+AB;AB55;Bonnyville
+AB;AB657;Bonnyville
+AB;AB659;Bonnyville
+AB;AB660;Bonnyville
+AB;AB881;Bonnyville
+AB;AB882;Bonnyville
+AB;AB892;Bonnyville
+AB;AB897;Bonnyville
+AB;AB20;Brazeau
+AB;AB22;Brazeau
+AB;AB39;Brazeau
+AB;AB616;Brazeau
+AB;AB620;Brazeau
+AB;AB621;Brazeau
+AB;AB753;Brazeau
+AB;AB759;Brazeau
+AB;AB761;Brazeau
+AB;AB13;Camrose
+AB;AB13A;Camrose
+AB;AB21;Camrose
+AB;AB26;Camrose
+AB;AB53;Camrose
+AB;AB56;Camrose
+AB;AB605;Camrose
+AB;AB609;Camrose
+AB;AB611;Camrose
+AB;AB616;Camrose
+AB;AB617;Camrose
+AB;AB623;Camrose
+AB;AB833;Camrose
+AB;AB834;Camrose
+AB;AB854;Camrose
+AB;AB2;Cardston
+AB;AB5;Cardston
+AB;AB52;Cardston
+AB;AB62;Cardston
+AB;AB501;Cardston
+AB;AB503;Cardston
+AB;AB505;Cardston
+AB;AB506;Cardston
+AB;AB509;Cardston
+AB;AB511;Cardston
+AB;AB800;Cardston
+AB;AB810;Cardston
+AB;AB820;Cardston
+AB;TCHAB;City of Calgary
+AB;AB1;City of Calgary
+AB;AB1A;City of Calgary
+AB;AB2;City of Calgary
+AB;AB2A;City of Calgary
+AB;AB8;City of Calgary
+AB;AB22X;City of Calgary
+AB;AB201;City of Calgary
+AB;AB560;City of Calgary
+AB;AB564;City of Calgary
+AB;TCHAB;City of Edmonton
+AB;AB2;City of Edmonton
+AB;AB14;City of Edmonton
+AB;AB15;City of Edmonton
+AB;AB16;City of Edmonton
+AB;AB16A;City of Edmonton
+AB;AB28;City of Edmonton
+AB;AB28A;City of Edmonton
+AB;AB100;City of Edmonton
+AB;AB216;City of Edmonton
+AB;AB64;Clear Hills
+AB;AB685;Clear Hills
+AB;AB726;Clear Hills
+AB;AB729;Clear Hills
+AB;AB730;Clear Hills
+AB;AB732;Clear Hills
+AB;AB735;Clear Hills
+AB;AB11;Clearwater
+AB;AB12;Clearwater
+AB;AB22;Clearwater
+AB;AB40;Clearwater
+AB;AB53;Clearwater
+AB;AB54;Clearwater
+AB;AB584;Clearwater
+AB;AB587;Clearwater
+AB;AB591;Clearwater
+AB;AB598;Clearwater
+AB;AB734;Clearwater
+AB;AB752;Clearwater
+AB;AB756;Clearwater
+AB;AB761;Clearwater
+AB;AB3;Crowsnest Pass
+AB;AB40;Crowsnest Pass
+AB;TCHAB;Cypress
+AB;AB1;Cypress
+AB;AB3;Cypress
+AB;AB41;Cypress
+AB;AB41A;Cypress
+AB;AB501;Cypress
+AB;AB514;Cypress
+AB;AB515;Cypress
+AB;AB523;Cypress
+AB;AB524;Cypress
+AB;AB525;Cypress
+AB;AB528;Cypress
+AB;AB537;Cypress
+AB;AB544;Cypress
+AB;AB545;Cypress
+AB;AB879;Cypress
+AB;AB884;Cypress
+AB;AB887;Cypress
+AB;TCHAB;Elk Island National Park
+AB;AB16;Elk Island National Park
+AB;AB2;Fairview
+AB;AB64;Fairview
+AB;AB64A;Fairview
+AB;AB682;Fairview
+AB;AB729;Fairview
+AB;AB732;Fairview
+AB;AB735;Fairview
+AB;AB13;Flagstaff
+AB;AB26;Flagstaff
+AB;AB36;Flagstaff
+AB;AB53;Flagstaff
+AB;AB608;Flagstaff
+AB;AB855;Flagstaff
+AB;AB856;Flagstaff
+AB;AB861;Flagstaff
+AB;AB869;Flagstaff
+AB;AB870;Flagstaff
+AB;AB872;Flagstaff
+AB;AB881;Flagstaff
+AB;AB2;Foothills
+AB;AB2A;Foothills
+AB;AB7;Foothills
+AB;AB22;Foothills
+AB;AB22X;Foothills
+AB;AB23;Foothills
+AB;AB66;Foothills
+AB;AB540;Foothills
+AB;AB541;Foothills
+AB;AB543;Foothills
+AB;AB546;Foothills
+AB;AB547;Foothills
+AB;AB549;Foothills
+AB;AB552;Foothills
+AB;AB762;Foothills
+AB;AB783;Foothills
+AB;AB799;Foothills
+AB;AB3;Fourty Mile
+AB;AB61;Fourty Mile
+AB;AB500;Fourty Mile
+AB;AB501;Fourty Mile
+AB;AB523;Fourty Mile
+AB;AB877;Fourty Mile
+AB;AB879;Fourty Mile
+AB;AB880;Fourty Mile
+AB;AB885;Fourty Mile
+AB;AB887;Fourty Mile
+AB;AB889;Fourty Mile
+AB;AB2;Grande Prairie
+AB;AB40;Grande Prairie
+AB;AB43;Grande Prairie
+AB;AB59;Grande Prairie
+AB;AB667;Grande Prairie
+AB;AB668;Grande Prairie
+AB;AB670;Grande Prairie
+AB;AB671;Grande Prairie
+AB;AB672;Grande Prairie
+AB;AB721;Grande Prairie
+AB;AB722;Grande Prairie
+AB;AB723;Grande Prairie
+AB;AB724;Grande Prairie
+AB;AB733;Grande Prairie
+AB;AB40;Greenview
+AB;AB43;Greenview
+AB;AB49;Greenview
+AB;AB665;Greenview
+AB;AB666;Greenview
+AB;AB669;Greenview
+AB;AB676;Greenview
+AB;AB734;Greenview
+AB;AB736;Greenview
+AB;AB747;Greenview
+AB;AB947;Greenview
+AB;TCHAB;Jasper
+AB;AB16;Jasper
+AB;AB93;Jasper
+AB;TCHAB;Jasper National Park
+AB;AB16;Jasper National Park
+AB;AB93;Jasper National Park
+AB;TCHAB;Kananaskis
+AB;AB1;Kananaskis
+AB;AB1X;Kananaskis
+AB;AB40;Kananaskis
+AB;AB66;Kananaskis
+AB;AB68;Kananaskis
+AB;AB532;Kananaskis
+AB;AB541;Kananaskis
+AB;AB742;Kananaskis
+AB;AB9;Kneehill
+AB;AB21;Kneehill
+AB;AB27;Kneehill
+AB;AB575;Kneehill
+AB;AB582;Kneehill
+AB;AB583;Kneehill
+AB;AB585;Kneehill
+AB;AB587;Kneehill
+AB;AB805;Kneehill
+AB;AB806;Kneehill
+AB;AB836;Kneehill
+AB;AB837;Kneehill
+AB;AB838;Kneehill
+AB;AB841;Kneehill
+AB;AB36;Lac La Biche
+AB;AB55;Lac La Biche
+AB;AB63;Lac La Biche
+AB;AB663;Lac La Biche
+AB;AB855;Lac La Biche
+AB;AB858;Lac La Biche
+AB;AB866;Lac La Biche
+AB;AB867;Lac La Biche
+AB;AB881;Lac La Biche
+AB;AB18;Lac Ste. Anne
+AB;AB22;Lac Ste. Anne
+AB;AB33;Lac Ste. Anne
+AB;AB37;Lac Ste. Anne
+AB;AB43;Lac Ste. Anne
+AB;AB633;Lac Ste. Anne
+AB;AB642;Lac Ste. Anne
+AB;AB647;Lac Ste. Anne
+AB;AB757;Lac Ste. Anne
+AB;AB764;Lac Ste. Anne
+AB;AB765;Lac Ste. Anne
+AB;AB777;Lac Ste. Anne
+AB;AB2;Lacombe
+AB;AB2A;Lacombe
+AB;AB11;Lacombe
+AB;AB12;Lacombe
+AB;AB20;Lacombe
+AB;AB21;Lacombe
+AB;AB50;Lacombe
+AB;AB597;Lacombe
+AB;AB601;Lacombe
+AB;AB605;Lacombe
+AB;AB766;Lacombe
+AB;AB771;Lacombe
+AB;AB792;Lacombe
+AB;AB815;Lacombe
+AB;AB821;Lacombe
+AB;TCHAB;Lamont
+AB;AB15;Lamont
+AB;AB16;Lamont
+AB;AB29;Lamont
+AB;AB38;Lamont
+AB;AB45;Lamont
+AB;AB645;Lamont
+AB;AB831;Lamont
+AB;AB834;Lamont
+AB;AB855;Lamont
+AB;AB2;Leduc
+AB;AB19;Leduc
+AB;AB21;Leduc
+AB;AB39;Leduc
+AB;AB60;Leduc
+AB;AB616;Leduc
+AB;AB622;Leduc
+AB;AB623;Leduc
+AB;AB625;Leduc
+AB;AB770;Leduc
+AB;AB771;Leduc
+AB;AB778;Leduc
+AB;AB795;Leduc
+AB;AB814;Leduc
+AB;AB822;Leduc
+AB;AB2;Lesser Slave River
+AB;AB2A;Lesser Slave River
+AB;AB44;Lesser Slave River
+AB;AB88;Lesser Slave River
+AB;AB754;Lesser Slave River
+AB;AB801;Lesser Slave River
+AB;AB3;Lethbridge
+AB;AB4;Lethbridge
+AB;AB5;Lethbridge
+AB;AB23;Lethbridge
+AB;AB25;Lethbridge
+AB;AB508;Lethbridge
+AB;AB509;Lethbridge
+AB;AB512;Lethbridge
+AB;AB519;Lethbridge
+AB;AB520;Lethbridge
+AB;AB521;Lethbridge
+AB;AB522;Lethbridge
+AB;AB843;Lethbridge
+AB;AB845;Lethbridge
+AB;AB35;MacKenzie
+AB;AB58;MacKenzie
+AB;AB88;MacKenzie
+AB;AB697;MacKenzie
+AB;TCHAB;Minburn
+AB;AB16;Minburn
+AB;AB16A;Minburn
+AB;AB36;Minburn
+AB;AB619;Minburn
+AB;AB626;Minburn
+AB;AB631;Minburn
+AB;AB857;Minburn
+AB;AB870;Minburn
+AB;AB881;Minburn
+AB;AB2;Mountain View
+AB;AB2A;Mountain View
+AB;AB22;Mountain View
+AB;AB27;Mountain View
+AB;AB575;Mountain View
+AB;AB579;Mountain View
+AB;AB580;Mountain View
+AB;AB582;Mountain View
+AB;AB584;Mountain View
+AB;AB766;Mountain View
+AB;AB791;Mountain View
+AB;TCHAB;Newell
+AB;AB1;Newell
+AB;AB36;Newell
+AB;AB525;Newell
+AB;AB527;Newell
+AB;AB535;Newell
+AB;AB539;Newell
+AB;AB542;Newell
+AB;AB544;Newell
+AB;AB550;Newell
+AB;AB556;Newell
+AB;AB561;Newell
+AB;AB862;Newell
+AB;AB873;Newell
+AB;AB875;Newell
+AB;AB876;Newell
+AB;AB35;Northern Lights
+AB;AB690;Northern Lights
+AB;AB691;Northern Lights
+AB;AB692;Northern Lights
+AB;AB695;Northern Lights
+AB;AB697;Northern Lights
+AB;AB737;Northern Lights
+AB;AB741;Northern Lights
+AB;AB743;Northern Lights
+AB;AB986;Northern Lights
+AB;AB2;Northern Sunrise
+AB;AB88;Northern Sunrise
+AB;AB683;Northern Sunrise
+AB;AB688;Northern Sunrise
+AB;AB744;Northern Sunrise
+AB;AB750;Northern Sunrise
+AB;AB986;Northern Sunrise
+AB;AB88;Opportunity
+AB;AB686;Opportunity
+AB;AB754;Opportunity
+AB;AB813;Opportunity
+AB;AB12;Paintearth
+AB;AB36;Paintearth
+AB;AB599;Paintearth
+AB;AB601;Paintearth
+AB;AB855;Paintearth
+AB;AB861;Paintearth
+AB;AB872;Paintearth
+AB;AB884;Paintearth
+AB;TCHAB;Parkland
+AB;AB16;Parkland
+AB;AB16A;Parkland
+AB;AB22;Parkland
+AB;AB31;Parkland
+AB;AB43;Parkland
+AB;AB44;Parkland
+AB;AB60;Parkland
+AB;AB624;Parkland
+AB;AB627;Parkland
+AB;AB628;Parkland
+AB;AB633;Parkland
+AB;AB757;Parkland
+AB;AB759;Parkland
+AB;AB765;Parkland
+AB;AB770;Parkland
+AB;AB779;Parkland
+AB;AB2;Peace
+AB;AB35;Peace
+AB;AB684;Peace
+AB;AB685;Peace
+AB;AB737;Peace
+AB;AB740;Peace
+AB;AB743;Peace
+AB;AB744;Peace
+AB;AB3;Pincher Creek
+AB;AB6;Pincher Creek
+AB;AB22;Pincher Creek
+AB;AB505;Pincher Creek
+AB;AB507;Pincher Creek
+AB;AB510;Pincher Creek
+AB;AB774;Pincher Creek
+AB;AB785;Pincher Creek
+AB;AB786;Pincher Creek
+AB;AB2;Ponoka
+AB;AB2A;Ponoka
+AB;AB20;Ponoka
+AB;AB53;Ponoka
+AB;AB604;Ponoka
+AB;AB605;Ponoka
+AB;AB607;Ponoka
+AB;AB611;Ponoka
+AB;AB761;Ponoka
+AB;AB766;Ponoka
+AB;AB771;Ponoka
+AB;AB792;Ponoka
+AB;AB795;Ponoka
+AB;AB815;Ponoka
+AB;AB821;Ponoka
+AB;AB822;Ponoka
+AB;AB13;Provost
+AB;AB41;Provost
+AB;AB599;Provost
+AB;AB600;Provost
+AB;AB603;Provost
+AB;AB884;Provost
+AB;AB899;Provost
+AB;AB22;Ranchland
+AB;AB40;Ranchland
+AB;AB520;Ranchland
+AB;AB532;Ranchland
+AB;AB533;Ranchland
+AB;AB2;Red Deer
+AB;AB11;Red Deer
+AB;AB20;Red Deer
+AB;AB21;Red Deer
+AB;AB42;Red Deer
+AB;AB54;Red Deer
+AB;AB587;Red Deer
+AB;AB590;Red Deer
+AB;AB595;Red Deer
+AB;AB766;Red Deer
+AB;AB781;Red Deer
+AB;AB791;Red Deer
+AB;AB805;Red Deer
+AB;AB808;Red Deer
+AB;AB816;Red Deer
+AB;TCHAB;Rocky View
+AB;AB1;Rocky View
+AB;AB2;Rocky View
+AB;AB2A;Rocky View
+AB;AB8;Rocky View
+AB;AB9;Rocky View
+AB;AB22;Rocky View
+AB;AB22X;Rocky View
+AB;AB40;Rocky View
+AB;AB66;Rocky View
+AB;AB68;Rocky View
+AB;AB72;Rocky View
+AB;AB201;Rocky View
+AB;AB560;Rocky View
+AB;AB564;Rocky View
+AB;AB566;Rocky View
+AB;AB567;Rocky View
+AB;AB574;Rocky View
+AB;AB766;Rocky View
+AB;AB772;Rocky View
+AB;AB791;Rocky View
+AB;AB797;Rocky View
+AB;AB806;Rocky View
+AB;AB2;Saddle Hills
+AB;AB49;Saddle Hills
+AB;AB677;Saddle Hills
+AB;AB680;Saddle Hills
+AB;AB681;Saddle Hills
+AB;AB725;Saddle Hills
+AB;AB727;Saddle Hills
+AB;AB731;Saddle Hills
+AB;AB28;Smoky Lake
+AB;AB36;Smoky Lake
+AB;AB652;Smoky Lake
+AB;AB656;Smoky Lake
+AB;AB831;Smoky Lake
+AB;AB855;Smoky Lake
+AB;AB857;Smoky Lake
+AB;AB859;Smoky Lake
+AB;AB2;Smoky River
+AB;AB2A;Smoky River
+AB;AB49;Smoky River
+AB;AB676;Smoky River
+AB;AB679;Smoky River
+AB;AB744;Smoky River
+AB;AB747;Smoky River
+AB;AB2;Spirit River
+AB;AB49;Spirit River
+AB;AB731;Spirit River
+AB;TCHAB;Srathcona
+AB;AB14;Srathcona
+AB;AB15;Srathcona
+AB;AB16;Srathcona
+AB;AB21;Srathcona
+AB;AB38;Srathcona
+AB;AB100;Srathcona
+AB;AB216;Srathcona
+AB;AB628;Srathcona
+AB;AB629;Srathcona
+AB;AB630;Srathcona
+AB;AB824;Srathcona
+AB;AB830;Srathcona
+AB;AB28;St. Paul
+AB;AB29;St. Paul
+AB;AB41;St. Paul
+AB;AB646;St. Paul
+AB;AB652;St. Paul
+AB;AB866;St. Paul
+AB;AB867;St. Paul
+AB;AB881;St. Paul
+AB;AB893;St. Paul
+AB;AB897;St. Paul
+AB;AB9;Starland
+AB;AB27;Starland
+AB;AB56;Starland
+AB;AB576;Starland
+AB;AB585;Starland
+AB;AB838;Starland
+AB;AB839;Starland
+AB;AB849;Starland
+AB;AB851;Starland
+AB;AB11;Stettler
+AB;AB12;Stettler
+AB;AB21;Stettler
+AB;AB53;Stettler
+AB;AB56;Stettler
+AB;AB589;Stettler
+AB;AB590;Stettler
+AB;AB593;Stettler
+AB;AB594;Stettler
+AB;AB601;Stettler
+AB;AB835;Stettler
+AB;AB850;Stettler
+AB;AB851;Stettler
+AB;AB852;Stettler
+AB;AB853;Stettler
+AB;AB854;Stettler
+AB;AB855;Stettler
+AB;AB2;Sturgeon
+AB;AB28;Sturgeon
+AB;AB28A;Sturgeon
+AB;AB37;Sturgeon
+AB;AB38;Sturgeon
+AB;AB44;Sturgeon
+AB;AB633;Sturgeon
+AB;AB642;Sturgeon
+AB;AB643;Sturgeon
+AB;AB644;Sturgeon
+AB;AB651;Sturgeon
+AB;AB779;Sturgeon
+AB;AB803;Sturgeon
+AB;AB825;Sturgeon
+AB;AB829;Sturgeon
+AB;AB3;Taber
+AB;AB25;Taber
+AB;AB36;Taber
+AB;AB513;Taber
+AB;AB521;Taber
+AB;AB524;Taber
+AB;AB526;Taber
+AB;AB864;Taber
+AB;AB875;Taber
+AB;AB877;Taber
+AB;AB18;Thorild
+AB;AB28;Thorild
+AB;AB63;Thorild
+AB;AB656;Thorild
+AB;AB661;Thorild
+AB;AB827;Thorild
+AB;AB829;Thorild
+AB;AB831;Thorild
+AB;AB29;Two Hills
+AB;AB36;Two Hills
+AB;AB41;Two Hills
+AB;AB45;Two Hills
+AB;AB631;Two Hills
+AB;AB640;Two Hills
+AB;AB645;Two Hills
+AB;AB857;Two Hills
+AB;AB860;Two Hills
+AB;AB870;Two Hills
+AB;AB881;Two Hills
+AB;TCHAB;Vermillion River
+AB;AB16;Vermillion River
+AB;AB17;Vermillion River
+AB;AB45;Vermillion River
+AB;AB619;Vermillion River
+AB;AB631;Vermillion River
+AB;AB640;Vermillion River
+AB;AB641;Vermillion River
+AB;AB893;Vermillion River
+AB;AB897;Vermillion River
+AB;AB23;Vulcan
+AB;AB24;Vulcan
+AB;AB522;Vulcan
+AB;AB529;Vulcan
+AB;AB531;Vulcan
+AB;AB533;Vulcan
+AB;AB534;Vulcan
+AB;AB539;Vulcan
+AB;AB542;Vulcan
+AB;AB547;Vulcan
+AB;AB804;Vulcan
+AB;AB842;Vulcan
+AB;AB845;Vulcan
+AB;AB14;Wainwright
+AB;AB17;Wainwright
+AB;AB41;Wainwright
+AB;AB610;Wainwright
+AB;AB614;Wainwright
+AB;AB619;Wainwright
+AB;AB881;Wainwright
+AB;AB883;Wainwright
+AB;AB894;Wainwright
+AB;AB897;Wainwright
+AB;AB899;Wainwright
+AB;AB4;Warner
+AB;AB5;Warner
+AB;AB36;Warner
+AB;AB52;Warner
+AB;AB61;Warner
+AB;AB500;Warner
+AB;AB501;Warner
+AB;AB504;Warner
+AB;AB506;Warner
+AB;AB844;Warner
+AB;AB845;Warner
+AB;AB846;Warner
+AB;AB877;Warner
+AB;AB879;Warner
+AB;AB5;Waterton Lakes National Park
+AB;AB6;Waterton Lakes National Park
+AB;AB2;Westlock
+AB;AB18;Westlock
+AB;AB44;Westlock
+AB;AB651;Westlock
+AB;AB654;Westlock
+AB;AB661;Westlock
+AB;AB663;Westlock
+AB;AB776;Westlock
+AB;AB777;Westlock
+AB;AB801;Westlock
+AB;AB2;Wetaskiwin
+AB;AB2A;Wetaskiwin
+AB;AB13;Wetaskiwin
+AB;AB13A;Wetaskiwin
+AB;AB20;Wetaskiwin
+AB;AB22;Wetaskiwin
+AB;AB611;Wetaskiwin
+AB;AB613;Wetaskiwin
+AB;AB616;Wetaskiwin
+AB;AB761;Wetaskiwin
+AB;AB771;Wetaskiwin
+AB;AB780;Wetaskiwin
+AB;AB792;Wetaskiwin
+AB;AB795;Wetaskiwin
+AB;AB814;Wetaskiwin
+AB;AB822;Wetaskiwin
+AB;TCHAB;Wheatland
+AB;AB1;Wheatland
+AB;AB21;Wheatland
+AB;AB22X;Wheatland
+AB;AB24;Wheatland
+AB;AB56;Wheatland
+AB;AB547;Wheatland
+AB;AB561;Wheatland
+AB;AB564;Wheatland
+AB;AB569;Wheatland
+AB;AB817;Wheatland
+AB;AB840;Wheatland
+AB;AB841;Wheatland
+AB;AB842;Wheatland
+AB;AB901;Wheatland
+AB;AB2;Willow Creek
+AB;AB3;Willow Creek
+AB;AB3A;Willow Creek
+AB;AB507;Willow Creek
+AB;AB511;Willow Creek
+AB;AB519;Willow Creek
+AB;AB520;Willow Creek
+AB;AB527;Willow Creek
+AB;AB529;Willow Creek
+AB;AB533;Willow Creek
+AB;AB785;Willow Creek
+AB;AB810;Willow Creek
+AB;AB811;Willow Creek
+AB;AB48;Wood Buffalo
+AB;AB63;Wood Buffalo
+AB;AB881;Wood Buffalo
+AB;AB58;Wood Buffalo National Park
+AB;AB32;Woodlands
+AB;AB33;Woodlands
+AB;AB43;Woodlands
+AB;AB647;Woodlands
+AB;AB658;Woodlands
+AB;AB661;Woodlands
+AB;AB751;Woodlands
+AB;TCHAB;Yellowhead
+AB;AB16;Yellowhead
+AB;AB16A;Yellowhead
+AB;AB22;Yellowhead
+AB;AB32;Yellowhead
+AB;AB40;Yellowhead
+AB;AB47;Yellowhead
+AB;AB748;Yellowhead
+AB;AB751;Yellowhead
+AB;AB753;Yellowhead
