@@ -1,0 +1,814 @@
+region;route;county
+MB;MB11;Alexander
+MB;MB12;Alexander
+MB;MB59;Alexander
+MB;MB304;Alexander
+MB;MB313;Alexander
+MB;MB315;Alexander
+MB;MB50;Alonsa
+MB;MB68;Alonsa
+MB;MB261;Alonsa
+MB;MB278;Alonsa
+MB;MB481;Alonsa
+MB;MB5;Argyle
+MB;MB23;Argyle
+MB;MB245;Argyle
+MB;MB253;Argyle
+MB;MB342;Argyle
+MB;MB440;Argyle
+MB;MB7;Armstrong
+MB;MB17;Armstrong
+MB;MB68;Armstrong
+MB;MB229;Armstrong
+MB;MB231;Armstrong
+MB;MB415;Armstrong
+MB;MB416;Armstrong
+MB;MB419;Armstrong
+MB;MB512;Armstrong
+MB;MB7;Bifrost-Riverton
+MB;MB8;Bifrost-Riverton
+MB;MB68;Bifrost-Riverton
+MB;MB222;Bifrost-Riverton
+MB;MB233;Bifrost-Riverton
+MB;MB234;Bifrost-Riverton
+MB;MB325;Bifrost-Riverton
+MB;MB326;Bifrost-Riverton
+MB;MB329;Bifrost-Riverton
+MB;MB3;Boissevain-Morton
+MB;MB10;Boissevain-Morton
+MB;MB341;Boissevain-Morton
+MB;MB343;Boissevain-Morton
+MB;MB348;Boissevain-Morton
+MB;MB443;Boissevain-Morton
+MB;MB448;Boissevain-Morton
+MB;MB3;Brenda-Waskada
+MB;MB21;Brenda-Waskada
+MB;MB251;Brenda-Waskada
+MB;MB254;Brenda-Waskada
+MB;MB452;Brenda-Waskada
+MB;MB12;Brokenhead
+MB;MB44;Brokenhead
+MB;MB215;Brokenhead
+MB;MB302;Brokenhead
+MB;MB317;Brokenhead
+MB;MB435;Brokenhead
+MB;TCHMB;Cartier
+MB;MB1;Cartier
+MB;MB241;Cartier
+MB;MB248;Cartier
+MB;MB332;Cartier
+MB;MB424;Cartier
+MB;MB427;Cartier
+MB;MB3;Cartwright-Roblin
+MB;MB4;Cartwright-Roblin
+MB;MB253;Cartwright-Roblin
+MB;MB442;Cartwright-Roblin
+MB;MB458;Cartwright-Roblin
+MB;TCHMB;City of Winnipeg
+MB;MB1;City of Winnipeg
+MB;MB59;City of Winnipeg
+MB;MB75;City of Winnipeg
+MB;MB100;City of Winnipeg
+MB;MB101;City of Winnipeg
+MB;MB190;City of Winnipeg
+MB;MB200;City of Winnipeg
+MB;WR17;City of Winnipeg
+MB;WR20;City of Winnipeg
+MB;WR23;City of Winnipeg
+MB;WR25;City of Winnipeg
+MB;WR30;City of Winnipeg
+MB;WR37;City of Winnipeg
+MB;WR42;City of Winnipeg
+MB;WR47;City of Winnipeg
+MB;WR52;City of Winnipeg
+MB;WR57;City of Winnipeg
+MB;WR62;City of Winnipeg
+MB;WR70;City of Winnipeg
+MB;WR80;City of Winnipeg
+MB;WR85;City of Winnipeg
+MB;WR90;City of Winnipeg
+MB;WR95;City of Winnipeg
+MB;WR96;City of Winnipeg
+MB;WR105;City of Winnipeg
+MB;WR115;City of Winnipeg
+MB;WR125;City of Winnipeg
+MB;WR135;City of Winnipeg
+MB;WR145;City of Winnipeg
+MB;WR150;City of Winnipeg
+MB;WR155;City of Winnipeg
+MB;WR165;City of Winnipeg
+MB;WR180;City of Winnipeg
+MB;MB10;Clanwilliam-Erickson
+MB;MB45;Clanwilliam-Erickson
+MB;MB357;Clanwilliam-Erickson
+MB;MB363;Clanwilliam-Erickson
+MB;MB6;Coldwell
+MB;MB229;Coldwell
+MB;MB418;Coldwell
+MB;MB419;Coldwell
+MB;TCHMB;Cornwallis
+MB;MB1;Cornwallis
+MB;MB10;Cornwallis
+MB;MB110;Cornwallis
+MB;MB340;Cornwallis
+MB;MB348;Cornwallis
+MB;MB349;Cornwallis
+MB;MB457;Cornwallis
+MB;MB459;Cornwallis
+MB;MB468;Cornwallis
+MB;MB5;Dauphin
+MB;MB10;Dauphin
+MB;MB20;Dauphin
+MB;MB267;Dauphin
+MB;MB273;Dauphin
+MB;MB274;Dauphin
+MB;MB362;Dauphin
+MB;MB23;De Salaberry
+MB;MB52;De Salaberry
+MB;MB59;De Salaberry
+MB;MB200;De Salaberry
+MB;MB205;De Salaberry
+MB;MB216;De Salaberry
+MB;MB218;De Salaberry
+MB;MB403;De Salaberry
+MB;MB3;Deloraine-Winchester
+MB;MB21;Deloraine-Winchester
+MB;MB450;Deloraine-Winchester
+MB;MB3;Dufferin
+MB;MB240;Dufferin
+MB;MB245;Dufferin
+MB;MB248;Dufferin
+MB;MB305;Dufferin
+MB;MB338;Dufferin
+MB;MB59;East St. Paul
+MB;MB101;East St. Paul
+MB;MB202;East St. Paul
+MB;MB204;East St. Paul
+MB;MB213;East St. Paul
+MB;TCHMB;Ellice-Archie
+MB;MB16;Ellice-Archie
+MB;MB41;Ellice-Archie
+MB;MB256;Ellice-Archie
+MB;MB359;Ellice-Archie
+MB;MB467;Ellice-Archie
+MB;MB475;Ellice-Archie
+MB;MB545;Ellice-Archie
+MB;MB568;Ellice-Archie
+MB;MB571;Ellice-Archie
+MB;TCHMB;Elton
+MB;MB1;Elton
+MB;MB10;Elton
+MB;MB25;Elton
+MB;MB270;Elton
+MB;MB340;Elton
+MB;MB353;Elton
+MB;MB468;Elton
+MB;MB59;Emerson-Franklin
+MB;MB75;Emerson-Franklin
+MB;MB200;Emerson-Franklin
+MB;MB201;Emerson-Franklin
+MB;MB209;Emerson-Franklin
+MB;MB216;Emerson-Franklin
+MB;MB217;Emerson-Franklin
+MB;MB218;Emerson-Franklin
+MB;MB243;Emerson-Franklin
+MB;MB10;Ethelbert
+MB;MB267;Ethelbert
+MB;MB269;Ethelbert
+MB;MB273;Ethelbert
+MB;MB274;Ethelbert
+MB;MB366;Ethelbert
+MB;MB367;Ethelbert
+MB;MB489;Ethelbert
+MB;MB280;Far Northern Manitoba Unorganized
+MB;MB290;Far Northern Manitoba Unorganized
+MB;MB391;Far Northern Manitoba Unorganized
+MB;MB394;Far Northern Manitoba Unorganized
+MB;MB395;Far Northern Manitoba Unorganized
+MB;MB397;Far Northern Manitoba Unorganized
+MB;MB399;Far Northern Manitoba Unorganized
+MB;MB636;Far Northern Manitoba Unorganized
+MB;MB17;Fisher
+MB;MB68;Fisher
+MB;MB233;Fisher
+MB;MB325;Fisher
+MB;MB329;Fisher
+MB;MB512;Fisher
+MB;MB6;Flin Flon-Snow Lake-Kelsey
+MB;MB10;Flin Flon-Snow Lake-Kelsey
+MB;MB39;Flin Flon-Snow Lake-Kelsey
+MB;MB60;Flin Flon-Snow Lake-Kelsey
+MB;MB282;Flin Flon-Snow Lake-Kelsey
+MB;MB283;Flin Flon-Snow Lake-Kelsey
+MB;MB285;Flin Flon-Snow Lake-Kelsey
+MB;MB287;Flin Flon-Snow Lake-Kelsey
+MB;MB289;Flin Flon-Snow Lake-Kelsey
+MB;MB291;Flin Flon-Snow Lake-Kelsey
+MB;MB327;Flin Flon-Snow Lake-Kelsey
+MB;MB384;Flin Flon-Snow Lake-Kelsey
+MB;MB392;Flin Flon-Snow Lake-Kelsey
+MB;MB393;Flin Flon-Snow Lake-Kelsey
+MB;MB395;Flin Flon-Snow Lake-Kelsey
+MB;MB5;Gilbert Plains
+MB;MB10;Gilbert Plains
+MB;MB267;Gilbert Plains
+MB;MB274;Gilbert Plains
+MB;MB8;Gimli
+MB;MB9;Gimli
+MB;MB222;Gimli
+MB;MB229;Gimli
+MB;MB231;Gimli
+MB;MB519;Gimli
+MB;MB2;Glenboro-South Cypress
+MB;MB5;Glenboro-South Cypress
+MB;MB18;Glenboro-South Cypress
+MB;MB340;Glenboro-South Cypress
+MB;MB342;Glenboro-South Cypress
+MB;MB530;Glenboro-South Cypress
+MB;TCHMB;Glenella-Lansdowne
+MB;MB16;Glenella-Lansdowne
+MB;MB260;Glenella-Lansdowne
+MB;MB261;Glenella-Lansdowne
+MB;MB265;Glenella-Lansdowne
+MB;MB352;Glenella-Lansdowne
+MB;MB462;Glenella-Lansdowne
+MB;MB6;Grahamdale
+MB;MB68;Grahamdale
+MB;MB237;Grahamdale
+MB;MB239;Grahamdale
+MB;MB325;Grahamdale
+MB;MB328;Grahamdale
+MB;MB513;Grahamdale
+MB;MB12;Grand Marais
+MB;MB5;Grandview
+MB;MB366;Grandview
+MB;MB10;Grassland
+MB;MB21;Grassland
+MB;MB22;Grassland
+MB;MB23;Grassland
+MB;MB254;Grassland
+MB;MB345;Grassland
+MB;MB347;Grassland
+MB;MB348;Grassland
+MB;MB448;Grassland
+MB;MB541;Grassland
+MB;MB2;Grey
+MB;MB13;Grey
+MB;MB240;Grey
+MB;MB247;Grey
+MB;MB248;Grey
+MB;MB338;Grey
+MB;MB8;Grindstone National Park
+MB;MB21;Hamiota
+MB;MB24;Hamiota
+MB;MB264;Hamiota
+MB;MB355;Hamiota
+MB;MB469;Hamiota
+MB;MB12;Hanover
+MB;MB52;Hanover
+MB;MB59;Hanover
+MB;MB205;Hanover
+MB;MB206;Hanover
+MB;MB216;Hanover
+MB;MB303;Hanover
+MB;MB305;Hanover
+MB;MB311;Hanover
+MB;MB403;Hanover
+MB;TCHMB;Harrison Park
+MB;MB10;Harrison Park
+MB;MB16;Harrison Park
+MB;MB45;Harrison Park
+MB;MB250;Harrison Park
+MB;MB262;Harrison Park
+MB;MB263;Harrison Park
+MB;MB270;Harrison Park
+MB;MB354;Harrison Park
+MB;MB470;Harrison Park
+MB;MB566;Harrison Park
+MB;TCHMB;Headingley
+MB;MB1;Headingley
+MB;MB100;Headingley
+MB;MB101;Headingley
+MB;MB241;Headingley
+MB;MB334;Headingley
+MB;MB425;Headingley
+MB;MB427;Headingley
+MB;MB3;Killarney-Turtle Mountain
+MB;MB18;Killarney-Turtle Mountain
+MB;MB253;Killarney-Turtle Mountain
+MB;MB341;Killarney-Turtle Mountain
+MB;MB346;Killarney-Turtle Mountain
+MB;MB443;Killarney-Turtle Mountain
+MB;MB458;Killarney-Turtle Mountain
+MB;MB12;La Broquerie
+MB;MB52;La Broquerie
+MB;MB210;La Broquerie
+MB;MB302;La Broquerie
+MB;MB303;La Broquerie
+MB;MB403;La Broquerie
+MB;MB11;Lac du Bonnet
+MB;MB44;Lac du Bonnet
+MB;MB211;Lac du Bonnet
+MB;MB214;Lac du Bonnet
+MB;MB313;Lac du Bonnet
+MB;MB317;Lac du Bonnet
+MB;MB433;Lac du Bonnet
+MB;MB435;Lac du Bonnet
+MB;MB520;Lac du Bonnet
+MB;MB6;Lake Winnipeg Unorganized
+MB;MB10;Lake Winnipeg Unorganized
+MB;MB60;Lake Winnipeg Unorganized
+MB;MB77;Lake Winnipeg Unorganized
+MB;MB224;Lake Winnipeg Unorganized
+MB;MB234;Lake Winnipeg Unorganized
+MB;MB269;Lake Winnipeg Unorganized
+MB;MB272;Lake Winnipeg Unorganized
+MB;MB276;Lake Winnipeg Unorganized
+MB;MB304;Lake Winnipeg Unorganized
+MB;MB314;Lake Winnipeg Unorganized
+MB;MB327;Lake Winnipeg Unorganized
+MB;MB328;Lake Winnipeg Unorganized
+MB;MB481;Lake Winnipeg Unorganized
+MB;MB483;Lake Winnipeg Unorganized
+MB;MB490;Lake Winnipeg Unorganized
+MB;MB513;Lake Winnipeg Unorganized
+MB;MB5;Lakeshore
+MB;MB20;Lakeshore
+MB;MB276;Lakeshore
+MB;MB364;Lakeshore
+MB;MB480;Lakeshore
+MB;MB481;Lakeshore
+MB;MB490;Lakeshore
+MB;MB23;Lorne
+MB;MB34;Lorne
+MB;MB242;Lorne
+MB;MB244;Lorne
+MB;MB245;Lorne
+MB;MB440;Lorne
+MB;MB532;Lorne
+MB;MB3;Louise
+MB;MB34;Louise
+MB;MB242;Louise
+MB;MB253;Louise
+MB;MB342;Louise
+MB;MB423;Louise
+MB;MB440;Louise
+MB;MB442;Louise
+MB;TCHMB;MacDonald
+MB;MB2;MacDonald
+MB;MB3;MacDonald
+MB;MB100;MacDonald
+MB;MB247;MacDonald
+MB;MB305;MacDonald
+MB;MB330;MacDonald
+MB;MB332;MacDonald
+MB;MB334;MacDonald
+MB;MB424;MacDonald
+MB;WR155;MacDonald
+MB;MB5;McCreary
+MB;MB19;McCreary
+MB;MB50;McCreary
+MB;MB361;McCreary
+MB;MB462;McCreary
+MB;MB10;Minitonas-Bowsman
+MB;MB266;Minitonas-Bowsman
+MB;MB268;Minitonas-Bowsman
+MB;MB366;Minitonas-Bowsman
+MB;MB485;Minitonas-Bowsman
+MB;MB488;Minitonas-Bowsman
+MB;MB587;Minitonas-Bowsman
+MB;TCHMB;Minto-Odanah
+MB;MB10;Minto-Odanah
+MB;MB16;Minto-Odanah
+MB;MB262;Minto-Odanah
+MB;MB265;Minto-Odanah
+MB;MB355;Minto-Odanah
+MB;MB466;Minto-Odanah
+MB;MB471;Minto-Odanah
+MB;MB14;Montcalm
+MB;MB23;Montcalm
+MB;MB75;Montcalm
+MB;MB201;Montcalm
+MB;MB217;Montcalm
+MB;MB243;Montcalm
+MB;MB246;Montcalm
+MB;MB421;Montcalm
+MB;MB426;Montcalm
+MB;MB3;Morris
+MB;MB23;Morris
+MB;MB75;Morris
+MB;MB205;Morris
+MB;MB246;Morris
+MB;MB330;Morris
+MB;MB332;Morris
+MB;MB336;Morris
+MB;MB422;Morris
+MB;MB20;Mossey River
+MB;MB269;Mossey River
+MB;MB273;Mossey River
+MB;MB364;Mossey River
+MB;MB481;Mossey River
+MB;MB10;Mountain (North)
+MB;MB77;Mountain (North)
+MB;MB266;Mountain (North)
+MB;MB366;Mountain (North)
+MB;MB10;Mountain (South)
+MB;MB20;Mountain (South)
+MB;MB271;Mountain (South)
+MB;MB489;Mountain (South)
+MB;MB2;Norfolk-Treherne
+MB;MB242;Norfolk-Treherne
+MB;MB244;Norfolk-Treherne
+MB;MB245;Norfolk-Treherne
+MB;MB305;Norfolk-Treherne
+MB;MB350;Norfolk-Treherne
+MB;MB449;Norfolk-Treherne
+MB;MB6;North Central Manitoba Unorganized
+MB;MB280;North Central Manitoba Unorganized
+MB;MB373;North Central Manitoba Unorganized
+MB;MB374;North Central Manitoba Unorganized
+MB;MB375;North Central Manitoba Unorganized
+MB;MB391;North Central Manitoba Unorganized
+MB;TCHMB;North Cypress-Langford
+MB;MB1;North Cypress-Langford
+MB;MB5;North Cypress-Langford
+MB;MB16;North Cypress-Langford
+MB;MB351;North Cypress-Langford
+MB;MB352;North Cypress-Langford
+MB;MB353;North Cypress-Langford
+MB;MB464;North Cypress-Langford
+MB;MB465;North Cypress-Langford
+MB;TCHMB;North Norfolk
+MB;MB1;North Norfolk
+MB;MB34;North Norfolk
+MB;MB242;North Norfolk
+MB;MB350;North Norfolk
+MB;MB352;North Norfolk
+MB;MB2;Oakland
+MB;MB10;Oakland
+MB;MB340;Oakland
+MB;MB344;Oakland
+MB;MB346;Oakland
+MB;MB348;Oakland
+MB;MB453;Oakland
+MB;TCHMB;Oakview
+MB;MB10;Oakview
+MB;MB16;Oakview
+MB;MB24;Oakview
+MB;MB250;Oakview
+MB;MB270;Oakview
+MB;MB354;Oakview
+MB;MB355;Oakview
+MB;MB469;Oakview
+MB;MB3;Pembina
+MB;MB31;Pembina
+MB;MB201;Pembina
+MB;MB240;Pembina
+MB;MB242;Pembina
+MB;MB244;Pembina
+MB;MB12;Piney
+MB;MB89;Piney
+MB;MB201;Piney
+MB;MB203;Piney
+MB;MB210;Piney
+MB;MB308;Piney
+MB;MB310;Piney
+MB;MB2;Pipestone
+MB;MB83;Pipestone
+MB;MB255;Pipestone
+MB;MB256;Pipestone
+MB;TCHMB;Portage la Prairie
+MB;MB1;Portage la Prairie
+MB;MB13;Portage la Prairie
+MB;MB16;Portage la Prairie
+MB;MB26;Portage la Prairie
+MB;MB227;Portage la Prairie
+MB;MB240;Portage la Prairie
+MB;MB242;Portage la Prairie
+MB;MB305;Portage la Prairie
+MB;MB331;Portage la Prairie
+MB;MB411;Portage la Prairie
+MB;MB430;Portage la Prairie
+MB;MB18;Prairie Lakes
+MB;MB23;Prairie Lakes
+MB;MB253;Prairie Lakes
+MB;MB344;Prairie Lakes
+MB;MB346;Prairie Lakes
+MB;MB458;Prairie Lakes
+MB;TCHMB;Prairie View
+MB;MB16;Prairie View
+MB;MB24;Prairie View
+MB;MB42;Prairie View
+MB;MB83;Prairie View
+MB;MB254;Prairie View
+MB;MB264;Prairie View
+MB;MB355;Prairie View
+MB;MB359;Prairie View
+MB;MB467;Prairie View
+MB;MB474;Prairie View
+MB;MB476;Prairie View
+MB;MB568;Prairie View
+MB;TCHMB;Reynolds
+MB;MB1;Reynolds
+MB;MB11;Reynolds
+MB;MB15;Reynolds
+MB;MB44;Reynolds
+MB;MB210;Reynolds
+MB;MB307;Reynolds
+MB;MB308;Reynolds
+MB;MB503;Reynolds
+MB;MB506;Reynolds
+MB;MB14;Rhineland
+MB;MB30;Rhineland
+MB;MB201;Rhineland
+MB;MB243;Rhineland
+MB;MB305;Rhineland
+MB;MB421;Rhineland
+MB;MB521;Rhineland
+MB;MB45;Riding Mountain West
+MB;MB83;Riding Mountain West
+MB;MB264;Riding Mountain West
+MB;MB366;Riding Mountain West
+MB;MB476;Riding Mountain West
+MB;MB478;Riding Mountain West
+MB;MB482;Riding Mountain West
+MB;MB547;Riding Mountain West
+MB;MB549;Riding Mountain West
+MB;MB582;Riding Mountain West
+MB;MB584;Riding Mountain West
+MB;MB59;Ritchot
+MB;MB75;Ritchot
+MB;MB200;Ritchot
+MB;MB210;Ritchot
+MB;MB246;Ritchot
+MB;MB247;Ritchot
+MB;MB305;Ritchot
+MB;MB311;Ritchot
+MB;MB405;Ritchot
+MB;MB25;Riverdale
+MB;MB250;Riverdale
+MB;MB259;Riverdale
+MB;MB354;Riverdale
+MB;MB5;Roblin
+MB;MB83;Roblin
+MB;MB363;Roblin
+MB;MB367;Roblin
+MB;MB482;Roblin
+MB;MB484;Roblin
+MB;MB583;Roblin
+MB;MB584;Roblin
+MB;MB591;Roblin
+MB;MB593;Roblin
+MB;MB594;Roblin
+MB;MB6;Rockwood
+MB;MB7;Rockwood
+MB;MB17;Rockwood
+MB;MB67;Rockwood
+MB;MB220;Rockwood
+MB;MB229;Rockwood
+MB;MB236;Rockwood
+MB;MB322;Rockwood
+MB;MB323;Rockwood
+MB;MB415;Rockwood
+MB;MB3;Roland
+MB;MB23;Roland
+MB;MB306;Roland
+MB;MB428;Roland
+MB;MB5;Rosedale
+MB;MB261;Rosedale
+MB;MB265;Rosedale
+MB;MB352;Rosedale
+MB;MB357;Rosedale
+MB;MB471;Rosedale
+MB;MB45;Rossburn
+MB;MB264;Rossburn
+MB;MB359;Rossburn
+MB;MB566;Rossburn
+MB;MB577;Rossburn
+MB;MB6;Rosser
+MB;MB7;Rosser
+MB;MB101;Rosser
+MB;MB190;Rosser
+MB;MB221;Rosser
+MB;MB236;Rosser
+MB;MB248;Rosser
+MB;MB322;Rosser
+MB;MB334;Rosser
+MB;WR90;Rosser
+MB;TCHMB;Russell-Bunscarth
+MB;MB16;Russell-Bunscarth
+MB;MB41;Russell-Bunscarth
+MB;MB45;Russell-Bunscarth
+MB;MB83;Russell-Bunscarth
+MB;MB264;Russell-Bunscarth
+MB;MB359;Russell-Bunscarth
+MB;MB478;Russell-Bunscarth
+MB;MB579;Russell-Bunscarth
+MB;TCHMB;Sifton
+MB;MB1;Sifton
+MB;MB2;Sifton
+MB;MB21;Sifton
+MB;MB254;Sifton
+MB;MB255;Sifton
+MB;MB543;Sifton
+MB;MB2;Souris-Glenwood
+MB;MB22;Souris-Glenwood
+MB;MB250;Souris-Glenwood
+MB;MB347;Souris-Glenwood
+MB;MB348;Souris-Glenwood
+MB;TCHMB;Springfield
+MB;MB1;Springfield
+MB;MB12;Springfield
+MB;MB15;Springfield
+MB;MB59;Springfield
+MB;MB100;Springfield
+MB;MB101;Springfield
+MB;MB206;Springfield
+MB;MB207;Springfield
+MB;MB213;Springfield
+MB;MB302;Springfield
+MB;WR115;Springfield
+MB;MB4;St. Andrews
+MB;MB8;St. Andrews
+MB;MB9;St. Andrews
+MB;MB17;St. Andrews
+MB;MB27;St. Andrews
+MB;MB44;St. Andrews
+MB;MB67;St. Andrews
+MB;MB204;St. Andrews
+MB;MB225;St. Andrews
+MB;MB229;St. Andrews
+MB;MB230;St. Andrews
+MB;MB232;St. Andrews
+MB;MB238;St. Andrews
+MB;MB320;St. Andrews
+MB;MB410;St. Andrews
+MB;MB4;St. Clements
+MB;MB12;St. Clements
+MB;MB44;St. Clements
+MB;MB59;St. Clements
+MB;MB202;St. Clements
+MB;MB204;St. Clements
+MB;MB206;St. Clements
+MB;MB212;St. Clements
+MB;MB317;St. Clements
+MB;MB319;St. Clements
+MB;MB407;St. Clements
+MB;MB500;St. Clements
+MB;MB508;St. Clements
+MB;MB509;St. Clements
+MB;TCHMB;St. Francois Xavier
+MB;MB1;St. Francois Xavier
+MB;MB26;St. Francois Xavier
+MB;MB248;St. Francois Xavier
+MB;MB6;St. Laurent
+MB;MB229;St. Laurent
+MB;MB415;St. Laurent
+MB;MB518;St. Laurent
+MB;MB3;Stanley
+MB;MB14;Stanley
+MB;MB23;Stanley
+MB;MB201;Stanley
+MB;MB243;Stanley
+MB;MB338;Stanley
+MB;MB428;Stanley
+MB;MB432;Stanley
+MB;MB434;Stanley
+MB;MB521;Stanley
+MB;TCHMB;Ste. Anne
+MB;MB1;Ste. Anne
+MB;MB12;Ste. Anne
+MB;MB207;Ste. Anne
+MB;MB210;Ste. Anne
+MB;MB302;Ste. Anne
+MB;MB311;Ste. Anne
+MB;MB5;Ste. Rose
+MB;MB68;Ste. Rose
+MB;MB276;Ste. Rose
+MB;MB360;Ste. Rose
+MB;MB480;Ste. Rose
+MB;MB581;Ste. Rose
+MB;MB12;Stuartburn
+MB;MB201;Stuartburn
+MB;MB203;Stuartburn
+MB;MB209;Stuartburn
+MB;MB302;Stuartburn
+MB;MB10;Swan Valley West
+MB;MB49;Swan Valley West
+MB;MB83;Swan Valley West
+MB;MB266;Swan Valley West
+MB;MB275;Swan Valley West
+MB;MB279;Swan Valley West
+MB;MB486;Swan Valley West
+MB;MB487;Swan Valley West
+MB;MB488;Swan Valley West
+MB;MB586;Swan Valley West
+MB;MB587;Swan Valley West
+MB;MB588;Swan Valley West
+MB;TCHMB;Tache
+MB;MB1;Tache
+MB;MB12;Tache
+MB;MB59;Tache
+MB;MB206;Tache
+MB;MB207;Tache
+MB;MB210;Tache
+MB;MB302;Tache
+MB;MB405;Tache
+MB;MB501;Tache
+MB;MB23;Thompson
+MB;MB240;Thompson
+MB;MB338;Thompson
+MB;MB432;Thompson
+MB;MB3;Two Borders
+MB;MB83;Two Borders
+MB;MB251;Two Borders
+MB;MB252;Two Borders
+MB;MB256;Two Borders
+MB;MB345;Two Borders
+MB;MB445;Two Borders
+MB;MB452;Two Borders
+MB;MB2;Victoria
+MB;MB34;Victoria
+MB;MB245;Victoria
+MB;MB342;Victoria
+MB;MB449;Victoria
+MB;MB59;Victoria Beach
+MB;MB504;Victoria Beach
+MB;TCHMB;Wallace-Woodworth
+MB;MB1;Wallace-Woodworth
+MB;MB21;Wallace-Woodworth
+MB;MB41;Wallace-Woodworth
+MB;MB83;Wallace-Woodworth
+MB;MB254;Wallace-Woodworth
+MB;MB256;Wallace-Woodworth
+MB;MB257;Wallace-Woodworth
+MB;MB259;Wallace-Woodworth
+MB;MB354;Wallace-Woodworth
+MB;MB463;Wallace-Woodworth
+MB;MB542;Wallace-Woodworth
+MB;MB6;West Interlake
+MB;MB68;West Interlake
+MB;MB325;West Interlake
+MB;MB417;West Interlake
+MB;MB418;West Interlake
+MB;MB8;West St. Paul
+MB;MB9;West St. Paul
+MB;MB101;West St. Paul
+MB;MB220;West St. Paul
+MB;MB321;West St. Paul
+MB;MB409;West St. Paul
+MB;WR52;West St. Paul
+MB;WR180;West St. Paul
+MB;TCHMB;Westlake-Gladstone
+MB;MB16;Westlake-Gladstone
+MB;MB34;Westlake-Gladstone
+MB;MB50;Westlake-Gladstone
+MB;MB242;Westlake-Gladstone
+MB;MB260;Westlake-Gladstone
+MB;MB265;Westlake-Gladstone
+MB;MB350;Westlake-Gladstone
+MB;MB569;Westlake-Gladstone
+MB;TCHMB;Whitehead
+MB;MB1;Whitehead
+MB;MB21;Whitehead
+MB;MB250;Whitehead
+MB;MB348;Whitehead
+MB;MB349;Whitehead
+MB;MB354;Whitehead
+MB;MB455;Whitehead
+MB;MB459;Whitehead
+MB;MB11;Whitemouth
+MB;MB15;Whitemouth
+MB;MB44;Whitemouth
+MB;MB307;Whitemouth
+MB;MB406;Whitemouth
+MB;MB408;Whitemouth
+MB;MB506;Whitemouth
+MB;TCHMB;Whiteshell Unorganized
+MB;MB1;Whiteshell Unorganized
+MB;MB44;Whiteshell Unorganized
+MB;MB307;Whiteshell Unorganized
+MB;MB308;Whiteshell Unorganized
+MB;MB309;Whiteshell Unorganized
+MB;MB525;Whiteshell Unorganized
+MB;MB6;Woodlands
+MB;MB67;Woodlands
+MB;MB221;Woodlands
+MB;MB227;Woodlands
+MB;MB248;Woodlands
+MB;MB322;Woodlands
+MB;MB323;Woodlands
+MB;MB411;Woodlands
+MB;MB415;Woodlands
+MB;MB430;Woodlands
+MB;MB518;Woodlands
+MB;TCHMB;Yellowhead
+MB;MB16;Yellowhead
+MB;MB21;Yellowhead
+MB;MB42;Yellowhead
+MB;MB45;Yellowhead
+MB;MB264;Yellowhead
+MB;MB354;Yellowhead
+MB;MB470;Yellowhead
+MB;MB477;Yellowhead
+MB;MB566;Yellowhead
