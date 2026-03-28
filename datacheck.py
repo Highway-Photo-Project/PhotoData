@@ -4,7 +4,7 @@ from pathlib import Path
 # -----------------------------
 # CONFIG
 # -----------------------------
-BASE_DIR = Path("PhotoData")
+BASE_DIR = Path(".")
 COUNTIES_DIR = BASE_DIR / "_counties"
 SYSTEMS_DIR  = BASE_DIR / "_systems"
 REGIONS_DIR  = BASE_DIR / "_regions"
