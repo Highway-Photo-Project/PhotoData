@@ -11,32 +11,38 @@ REGIONS_DIR  = BASE_DIR / "_regions"
 
 OUTPUT_FILE = "datacheck.html"
 
-# File types to include
-VALID_EXTENSIONS = (".json", ".csv", ".txt")
+VALID_EXTENSIONS = (".csv", ".txt", ".list")  # adjust if needed
 
 # -----------------------------
 # NORMALIZATION
 # -----------------------------
-def normalize(name):
-    """Normalize route names for comparison."""
-    return name.lower().replace(" ", "").replace("-", "").replace("_", "")
+def normalize(line):
+    return line.strip().upper()
 
 # -----------------------------
-# ROUTE COLLECTION
+# READ ROUTES FROM FILE CONTENTS
 # -----------------------------
 def get_routes(folder):
-    """Return ordered list and set of normalized route names."""
-    routes_list = []
+    routes_list = []   # preserves order (important)
     routes_set = set()
 
     for root, _, files in os.walk(folder):
         for file in sorted(files):
             if file.endswith(VALID_EXTENSIONS):
-                route_name = os.path.splitext(file)[0]
-                norm = normalize(route_name)
+                filepath = Path(root) / file
 
-                routes_list.append((route_name, norm))
-                routes_set.add(norm)
+                with open(filepath, "r", encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+
+                        # skip empty or comments
+                        if not line or line.startswith("#"):
+                            continue
+
+                        norm = normalize(line)
+
+                        routes_list.append(norm)
+                        routes_set.add(norm)
 
     return routes_list, routes_set
 
@@ -48,31 +54,31 @@ systems_list, systems_set   = get_routes(SYSTEMS_DIR)
 regions_list, regions_set   = get_routes(REGIONS_DIR)
 
 # -----------------------------
-# BUILD RESULTS (preserve counties order)
+# BUILD RESULTS (preserve order)
 # -----------------------------
 results = []
 
-for original_name, norm in counties_list:
+for route in counties_list:
     results.append({
-        "route": original_name,
+        "route": route,
         "in_counties": True,
-        "in_systems": norm in systems_set,
-        "in_regions": norm in regions_set
+        "in_systems": route in systems_set,
+        "in_regions": route in regions_set
     })
 
-# Add routes missing from counties but present elsewhere
+# add extras not in counties
 extra_routes = (systems_set | regions_set) - counties_set
 
-for norm in sorted(extra_routes):
+for route in sorted(extra_routes):
     results.append({
-        "route": norm,
+        "route": route,
         "in_counties": False,
-        "in_systems": norm in systems_set,
-        "in_regions": norm in regions_set
+        "in_systems": route in systems_set,
+        "in_regions": route in regions_set
     })
 
 # -----------------------------
-# FILTER FLAGGED ONLY
+# FILTER ONLY MISSING
 # -----------------------------
 flagged = [
     r for r in results
@@ -80,7 +86,7 @@ flagged = [
 ]
 
 # -----------------------------
-# HTML GENERATION
+# HTML OUTPUT
 # -----------------------------
 def generate_html(data):
     html = """
@@ -90,31 +96,28 @@ def generate_html(data):
 <meta charset="UTF-8">
 <title>Route Data Check</title>
 <style>
-    body {
-        font-family: Arial, sans-serif;
-    }
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: left;
-        word-wrap: break-word;
-        max-width: 300px;
-    }
-    th {
-        background-color: #f2f2f2;
-    }
-    .missing {
-        background-color: #ffcccc;
-    }
+body { font-family: Arial; }
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 6px;
+    text-align: left;
+    word-wrap: break-word;
+}
+th {
+    background-color: #f2f2f2;
+}
+.missing {
+    background-color: #ffcccc;
+}
 </style>
 </head>
 <body>
 
-<h2>Route Data Check - Missing Entries</h2>
+<h2>Missing Route Entries</h2>
 
 <table>
 <tr>
@@ -129,10 +132,8 @@ def generate_html(data):
         return "✔" if val else "✖"
 
     for r in data:
-        row_class = "missing"
-
         html += f"""
-<tr class="{row_class}">
+<tr class="missing">
     <td>{r['route']}</td>
     <td>{mark(r['in_counties'])}</td>
     <td>{mark(r['in_systems'])}</td>
@@ -155,4 +156,5 @@ def generate_html(data):
 # -----------------------------
 generate_html(flagged)
 
-print(f"Datacheck complete. Output saved to: {OUTPUT_FILE}")
+print(f"Datacheck complete. {len(flagged)} issues found.")
+print(f"Output: {OUTPUT_FILE}")
