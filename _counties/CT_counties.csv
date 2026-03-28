@@ -34,6 +34,7 @@ CT;CT127;Fairfield
 CT;CT130;Fairfield
 CT;CT133;Fairfield
 CT;CT135;Fairfield
+CT;CT136;Fairfield
 CT;CT137;Fairfield
 CT;CT302;Fairfield
 CT;I-84;Hartford
@@ -87,6 +88,7 @@ CT;CT194;Hartford
 CT;CT218;Hartford
 CT;CT219;Hartford
 CT;CT220;Hartford
+CT;CT229;Hartford
 CT;CT287;Hartford
 CT;CT305;Hartford
 CT;CT309;Hartford
@@ -284,7 +286,9 @@ CT;I-84;Windham
 CT;I-395;Windham
 CT;US6;Windham
 CT;US44;Windham
+CT;CT14;Windham
 CT;CT19;Windham
+CT;CT21;Windham
 CT;CT30;Windham
 CT;CT31;Windham
 CT;CT32;Windham
@@ -294,6 +298,7 @@ CT;CT85;Windham
 CT;CT87;Windham
 CT;CT89;Windham
 CT;CT94;Windham
+CT;CT101;Windham
 CT;CT131;Windham
 CT;CT140;Windham
 CT;CT149;Windham
@@ -303,7 +308,11 @@ CT;CT193;Windham
 CT;CT195;Windham
 CT;CT197;Windham
 CT;CT198;Windham
+CT;CT200;Windham
+CT;CT203;Windham
+CT;CT205;Windham
 CT;CT207;Windham
+CT;CT244;Windham
 CT;CT275;Windham
 CT;CT286;Windham
 CT;CT316;Windham
