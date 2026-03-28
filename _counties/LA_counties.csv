@@ -99,7 +99,6 @@ LA;LA940;Ascension
 LA;LA941;Ascension
 LA;LA942;Ascension
 LA;LA943;Ascension
-LA;LA944;Ascension
 LA;LA945;Ascension
 LA;LA3038;Ascension
 LA;LA3089;Ascension
@@ -135,10 +134,10 @@ LA;LA1011;Assumption
 LA;LA1012;Assumption
 LA;LA1013;Assumption
 LA;LA1014;Assumption
-LA;LA1015-1;Assumption
-LA;LA1015-2;Assumption
-LA;LA1016-1;Assumption
-LA;LA1016-2;Assumption
+LA;LA1015.1;Assumption
+LA;LA1015.2;Assumption
+LA;LA1016.1;Assumption
+LA;LA1016.2;Assumption
 LA;I-49;Avoyelles
 LA;US71;Avoyelles
 LA;LA1;Avoyelles
@@ -218,9 +217,9 @@ LA;LA794;Bienville
 LA;LA795;Bienville
 LA;LA796;Bienville
 LA;LA797;Bienville
-LA;LA798-1;Bienville
-LA;LA798-2;Bienville
-LA;LA798-3;Bienville
+LA;LA798.1;Bienville
+LA;LA798.2;Bienville
+LA;LA798.3;Bienville
 LA;LA799;Bienville
 LA;I-20;Bossier
 LA;I-220;Bossier
@@ -242,7 +241,7 @@ LA;LA529;Bossier
 LA;LA537;Bossier
 LA;LA612;Bossier
 LA;LA614;Bossier
-LA;LA782-2;Bossier
+LA;LA782.2;Bossier
 LA;LA3032;Bossier
 LA;LA3105;Bossier
 LA;LA3227;Bossier
@@ -291,9 +290,9 @@ LA;LA385;Calcasieu
 LA;LA389;Calcasieu
 LA;LA397;Calcasieu
 LA;LA1133;Calcasieu
-LA;LA1138-1;Calcasieu
-LA;LA1138-2;Calcasieu
-LA;LA1138-3;Calcasieu
+LA;LA1138.1;Calcasieu
+LA;LA1138.2;Calcasieu
+LA;LA1138.3;Calcasieu
 LA;LA1256;Calcasieu
 LA;LA1262;Calcasieu
 LA;LA3020;Calcasieu
@@ -355,9 +354,6 @@ LA;LA921;Catahoula
 LA;LA922;Catahoula
 LA;LA923;Catahoula
 LA;LA1017;Catahoula
-LA;LA1018-1;Catahoula
-LA;LA1018-2;Catahoula
-LA;LA1018-3;Catahoula
 LA;LA3037;Catahoula
 LA;LA3101;Catahoula
 LA;LA3102;Catahoula
@@ -473,8 +469,8 @@ LA;LA585;East Carroll
 LA;LA596;East Carroll
 LA;LA877;East Carroll
 LA;LA881;East Carroll
-LA;LA883-1;East Carroll
-LA;LA883-2;East Carroll
+LA;LA883.1;East Carroll
+LA;LA883.2;East Carroll
 LA;LA3181;East Carroll
 LA;US61;East Feliciana
 LA;LA10;East Feliciana
@@ -517,7 +513,7 @@ LA;LA376;Evangeline
 LA;LA748;Evangeline
 LA;LA757;Evangeline
 LA;LA758;Evangeline
-LA;LA1157-1;Evangeline
+LA;LA1157.1;Evangeline
 LA;LA1158;Evangeline
 LA;LA1159;Evangeline
 LA;LA1160;Evangeline
@@ -650,7 +646,7 @@ LA;LA975;Iberville
 LA;LA977;Iberville
 LA;LA988;Iberville
 LA;LA991;Iberville
-LA;LA992-3;Iberville
+LA;LA992.3;Iberville
 LA;LA993;Iberville
 LA;LA994;Iberville
 LA;LA995;Iberville
@@ -677,7 +673,7 @@ LA;LA548;Jackson
 LA;LA556;Jackson
 LA;LA810;Jackson
 LA;LA811;Jackson
-LA;LA813-3;Jackson
+LA;LA813.3;Jackson
 LA;LA818;Jackson
 LA;LA1255;Jackson
 LA;LA3061;Jackson
@@ -695,10 +691,10 @@ LA;LA303;Jefferson
 LA;LA428;Jefferson
 LA;LA466;Jefferson
 LA;LA541;Jefferson
-LA;LA560-2;Jefferson
-LA;LA560-4;Jefferson
-LA;LA611-1;Jefferson
-LA;LA611-3;Jefferson
+LA;LA560.2;Jefferson
+LA;LA560.4;Jefferson
+LA;LA611.1;Jefferson
+LA;LA611.3;Jefferson
 LA;LA3017;Jefferson
 LA;LA3018;Jefferson
 LA;LA3046;Jefferson
@@ -735,18 +731,18 @@ LA;US90;Lafayette
 LA;US167;Lafayette
 LA;LA35;Lafayette
 LA;LA89;Lafayette
-LA;LA89-1;Lafayette
+LA;LA89.1;Lafayette
 LA;LA92;Lafayette
-LA;LA92-1;Lafayette
+LA;LA92.1;Lafayette
 LA;LA93;Lafayette
-LA;LA93-1;Lafayette
+LA;LA93.1;Lafayette
 LA;LA94;Lafayette
 LA;LA95;Lafayette
 LA;LA96;Lafayette
 LA;LA98;Lafayette
 LA;LA176;Lafayette
 LA;LA182;Lafayette
-LA;LA182-2;Lafayette
+LA;LA182.2;Lafayette
 LA;LA339;Lafayette
 LA;LA342;Lafayette
 LA;LA343;Lafayette
@@ -758,8 +754,8 @@ LA;LA723;Lafayette
 LA;LA724;Lafayette
 LA;LA725;Lafayette
 LA;LA726;Lafayette
-LA;LA728-2;Lafayette
-LA;LA728-3;Lafayette
+LA;LA728.2;Lafayette
+LA;LA728.3;Lafayette
 LA;LA729;Lafayette
 LA;LA733;Lafayette
 LA;LA1096;Lafayette
@@ -872,10 +868,10 @@ LA;LA1031;Livingston
 LA;LA1032;Livingston
 LA;LA1033;Livingston
 LA;LA1034;Livingston
-LA;LA1035-1;Livingston
-LA;LA1035-2;Livingston
-LA;LA1035-3;Livingston
-LA;LA1035-4;Livingston
+LA;LA1035.1;Livingston
+LA;LA1035.2;Livingston
+LA;LA1035.3;Livingston
+LA;LA1035.4;Livingston
 LA;LA1036;Livingston
 LA;LA1037;Livingston
 LA;LA1038;Livingston
@@ -891,8 +887,8 @@ LA;US80;Madison
 LA;LA577;Madison
 LA;LA579;Madison
 LA;LA601;Madison
-LA;LA602-1;Madison
-LA;LA602-2;Madison
+LA;LA602.1;Madison
+LA;LA602.2;Madison
 LA;LA603;Madison
 LA;LA610;Madison
 LA;LA860;Madison
@@ -913,11 +909,11 @@ LA;LA591;Morehouse
 LA;LA592;Morehouse
 LA;LA593;Morehouse
 LA;LA599;Morehouse
-LA;LA830-1;Morehouse
-LA;LA830-2;Morehouse
-LA;LA830-3;Morehouse
-LA;LA830-4;Morehouse
-LA;LA830-6;Morehouse
+LA;LA830.1;Morehouse
+LA;LA830.2;Morehouse
+LA;LA830.3;Morehouse
+LA;LA830.4;Morehouse
+LA;LA830.6;Morehouse
 LA;LA833;Morehouse
 LA;LA834;Morehouse
 LA;LA835;Morehouse
@@ -974,9 +970,9 @@ LA;LA47;Orleans
 LA;LA406;Orleans
 LA;LA407;Orleans
 LA;LA428;Orleans
-LA;LA611-1;Orleans
-LA;LA611-3;Orleans
-LA;LA611-9;Orleans
+LA;LA611.1;Orleans
+LA;LA611.3;Orleans
+LA;LA611.9;Orleans
 LA;LA3021;Orleans
 LA;I-20;Ouachita
 LA;US80;Ouachita
@@ -996,8 +992,8 @@ LA;LA557;Ouachita
 LA;LA594;Ouachita
 LA;LA616;Ouachita
 LA;LA617;Ouachita
-LA;LA840-1;Ouachita
-LA;LA840-6;Ouachita
+LA;LA840.1;Ouachita
+LA;LA840.6;Ouachita
 LA;LA837;Ouachita
 LA;LA838;Ouachita
 LA;LA841;Ouachita
@@ -1075,9 +1071,9 @@ LA;LA1204;Rapides
 LA;LA1205;Rapides
 LA;LA1206;Rapides
 LA;LA1207;Rapides
-LA;LA1208-1;Rapides
-LA;LA1208-2;Rapides
-LA;LA1208-3;Rapides
+LA;LA1208.1;Rapides
+LA;LA1208.2;Rapides
+LA;LA1208.3;Rapides
 LA;LA1243;Rapides
 LA;LA1250;Rapides
 LA;LA1254;Rapides
@@ -1222,8 +1218,8 @@ LA;LA44;St. John the Baptist
 LA;LA53;St. John the Baptist
 LA;LA54;St. John the Baptist
 LA;LA628;St. John the Baptist
-LA;LA636-1;St. John the Baptist
-LA;LA636-3;St. John the Baptist
+LA;LA636.1;St. John the Baptist
+LA;LA636.3;St. John the Baptist
 LA;LA637;St. John the Baptist
 LA;LA640;St. John the Baptist
 LA;LA643;St. John the Baptist
@@ -1277,8 +1273,8 @@ LA;LA755;St. Landry
 LA;LA757;St. Landry
 LA;LA758;St. Landry
 LA;LA759;St. Landry
-LA;LA760-1;St. Landry
-LA;LA760-2;St. Landry
+LA;LA760.1;St. Landry
+LA;LA760.2;St. Landry
 LA;LA761;St. Landry
 LA;LA3043;St. Landry
 LA;LA3116;St. Landry
@@ -1293,14 +1289,14 @@ LA;US90;St. Martin
 LA;LA31;St. Martin
 LA;LA70;St. Martin
 LA;LA92;St. Martin
-LA;LA92-1;St. Martin
+LA;LA92.1;St. Martin
 LA;LA93;St. Martin
 LA;LA94;St. Martin
 LA;LA96;St. Martin
 LA;LA182;St. Martin
 LA;LA321;St. Martin
 LA;LA328;St. Martin
-LA;LA336-1;St. Martin
+LA;LA336.1;St. Martin
 LA;LA341;St. Martin
 LA;LA345;St. Martin
 LA;LA347;St. Martin
@@ -1366,8 +1362,8 @@ LA;LA1085;St. Tammany
 LA;LA1088;St. Tammany
 LA;LA1090;St. Tammany
 LA;LA1091;St. Tammany
-LA;LA1093-1;St. Tammany
-LA;LA1093-3;St. Tammany
+LA;LA1093.1;St. Tammany
+LA;LA1093.3;St. Tammany
 LA;LA1129;St. Tammany
 LA;LA3081;St. Tammany
 LA;LA3241;St. Tammany
@@ -1425,12 +1421,12 @@ LA;LA887;Tensas
 LA;LA888;Tensas
 LA;LA892;Tensas
 LA;LA896;Tensas
-LA;LA897-1;Tensas
-LA;LA897-2;Tensas
-LA;LA897-3;Tensas
-LA;LA897-4;Tensas
-LA;LA897-5;Tensas
-LA;LA897-6;Tensas
+LA;LA897.1;Tensas
+LA;LA897.2;Tensas
+LA;LA897.3;Tensas
+LA;LA897.4;Tensas
+LA;LA897.5;Tensas
+LA;LA897.6;Tensas
 LA;LA898;Tensas
 LA;LA1079;Tensas
 LA;LA3009;Tensas
@@ -1554,7 +1550,7 @@ LA;LA62;Washington
 LA;LA424;Washington
 LA;LA430;Washington
 LA;LA436;Washington
-LA;LA436-1;Washington
+LA;LA436.1;Washington
 LA;LA437;Washington
 LA;LA438;Washington
 LA;LA439;Washington
@@ -1590,7 +1586,7 @@ LA;LA615;Webster
 LA;LA792;Webster
 LA;LA793;Webster
 LA;LA802;Webster
-LA;LA803-1;Webster
+LA;LA803.1;Webster
 LA;LA808;Webster
 LA;LA3008;Webster
 LA;LA3014;Webster
@@ -1606,15 +1602,15 @@ LA;LA983;West Baton Rouge
 LA;LA984;West Baton Rouge
 LA;LA985;West Baton Rouge
 LA;LA986;West Baton Rouge
-LA;LA987-1;West Baton Rouge
-LA;LA987-2*;West Baton Rouge
-LA;LA987-3;West Baton Rouge
-LA;LA987-4;West Baton Rouge
-LA;LA987-5;West Baton Rouge
-LA;LA987-6;West Baton Rouge
+LA;LA987.1;West Baton Rouge
+LA;LA987.2;West Baton Rouge
+LA;LA987.3;West Baton Rouge
+LA;LA987.4;West Baton Rouge
+LA;LA987.5;West Baton Rouge
+LA;LA987.6;West Baton Rouge
 LA;LA988;West Baton Rouge
-LA;LA989-1;West Baton Rouge
-LA;LA989-2;West Baton Rouge
+LA;LA989.1;West Baton Rouge
+LA;LA989.2;West Baton Rouge
 LA;LA990;West Baton Rouge
 LA;LA1145;West Baton Rouge
 LA;LA1269;West Baton Rouge
@@ -1665,8 +1661,8 @@ LA;LA505;Winn
 LA;LA1228;Winn
 LA;LA1229;Winn
 LA;LA1230;Winn
-LA;LA1231-1;Winn
-LA;LA1231-2;Winn
+LA;LA1231.1;Winn
+LA;LA1231.2;Winn
 LA;LA1232;Winn
 LA;LA1233;Winn
 LA;LA1234;Winn
