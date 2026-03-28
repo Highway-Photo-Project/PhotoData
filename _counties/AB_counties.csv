@@ -125,7 +125,6 @@ AB;AB16;City of Edmonton
 AB;AB16A;City of Edmonton
 AB;AB28;City of Edmonton
 AB;AB28A;City of Edmonton
-AB;AB100;City of Edmonton
 AB;AB216;City of Edmonton
 AB;AB64;Clear Hills
 AB;AB685;Clear Hills
@@ -382,6 +381,7 @@ AB;AB1;Newell
 AB;AB36;Newell
 AB;AB525;Newell
 AB;AB527;Newell
+AB;AB530;Newell
 AB;AB535;Newell
 AB;AB539;Newell
 AB;AB542;Newell
@@ -545,6 +545,38 @@ AB;AB676;Smoky River
 AB;AB679;Smoky River
 AB;AB744;Smoky River
 AB;AB747;Smoky River
+AB;AB9;Special Area No. 2
+AB;AB36;Special Area No. 2
+AB;AB41;Special Area No. 2
+AB;AB555;Special Area No. 2
+AB;AB561;Special Area No. 2
+AB;AB570;Special Area No. 2
+AB;AB573;Special Area No. 2
+AB;AB576;Special Area No. 2
+AB;AB586;Special Area No. 2
+AB;AB848;Special Area No. 2
+AB;AB851;Special Area No. 2
+AB;AB855;Special Area No. 2
+AB;AB862;Special Area No. 2
+AB;AB872;Special Area No. 2
+AB;AB876;Special Area No. 2
+AB;AB884;Special Area No. 2
+AB;AB886;Special Area No. 2
+AB;AB899;Special Area No. 2
+AB;AB9;Special Area No. 3
+AB;AB41;Special Area No. 3
+AB;AB570;Special Area No. 3
+AB;AB884;Special Area No. 3
+AB;AB886;Special Area No. 3
+AB;AB895;Special Area No. 3
+AB;AB899;Special Area No. 3
+AB;AB12;Special Area No. 4
+AB;AB41;Special Area No. 4
+AB;AB586;Special Area No. 4
+AB;AB599;Special Area No. 4
+AB;AB884;Special Area No. 4
+AB;AB886;Special Area No. 4
+AB;AB899;Special Area No. 4
 AB;AB2;Spirit River
 AB;AB49;Spirit River
 AB;AB731;Spirit River
@@ -554,7 +586,6 @@ AB;AB15;Srathcona
 AB;AB16;Srathcona
 AB;AB21;Srathcona
 AB;AB38;Srathcona
-AB;AB100;Srathcona
 AB;AB216;Srathcona
 AB;AB628;Srathcona
 AB;AB629;Srathcona
@@ -572,6 +603,8 @@ AB;AB881;St. Paul
 AB;AB893;St. Paul
 AB;AB897;St. Paul
 AB;AB9;Starland
+AB;AB10;Starland
+AB;AB10X;Starland
 AB;AB27;Starland
 AB;AB56;Starland
 AB;AB576;Starland
@@ -719,6 +752,7 @@ AB;AB814;Wetaskiwin
 AB;AB822;Wetaskiwin
 AB;TCHAB;Wheatland
 AB;AB1;Wheatland
+AB;AB10;Wheatland
 AB;AB21;Wheatland
 AB;AB22X;Wheatland
 AB;AB24;Wheatland
