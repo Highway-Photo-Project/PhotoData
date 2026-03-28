@@ -4,57 +4,77 @@ from pathlib import Path
 # -----------------------------
 # CONFIG
 # -----------------------------
-BASE_DIR = Path("PhotoData")  # adjust if needed
+BASE_DIR = Path("PhotoData")  # adjust path if needed
 COUNTIES_DIR = BASE_DIR / "_counties"
 SYSTEMS_DIR  = BASE_DIR / "_systems"
 REGIONS_DIR  = BASE_DIR / "_regions"
 
 OUTPUT_FILE = "datacheck.html"
 
-VALID_EXTENSIONS = (".csv", ".txt", ".list")  # adjust if needed
+# -----------------------------
+# PARSING FUNCTION
+# -----------------------------
+def parse_file(filepath, folder_type):
+    """
+    Extract (region;route) from a file depending on folder type.
+    """
+    routes = []
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    # skip header
+    for line in lines[1:]:
+        parts = line.strip().split(";")
+
+        if len(parts) < 2:
+            continue
+
+        if folder_type == "counties":
+            # region;route;county
+            region, route = parts[0], parts[1]
+
+        elif folder_type in ("systems", "regions"):
+            # systemName;region;route
+            region, route = parts[1], parts[2]
+
+        else:
+            continue
+
+        key = f"{region.strip().upper()};{route.strip().upper()}"
+        routes.append(key)
+
+    return routes
 
 # -----------------------------
-# NORMALIZATION
+# LOAD ROUTES FROM FOLDER
 # -----------------------------
-def normalize(line):
-    return line.strip().upper()
-
-# -----------------------------
-# READ ROUTES FROM FILE CONTENTS
-# -----------------------------
-def get_routes(folder):
-    routes_list = []   # preserves order (important)
+def get_routes(folder, folder_type):
+    routes_list = []
     routes_set = set()
 
     for root, _, files in os.walk(folder):
         for file in sorted(files):
-            if file.endswith(VALID_EXTENSIONS):
+            if file.endswith(".csv"):
                 filepath = Path(root) / file
 
-                with open(filepath, "r", encoding="utf-8") as f:
-                    for line in f:
-                        line = line.strip()
+                entries = parse_file(filepath, folder_type)
 
-                        # skip empty or comments
-                        if not line or line.startswith("#"):
-                            continue
-
-                        norm = normalize(line)
-
-                        routes_list.append(norm)
-                        routes_set.add(norm)
+                for e in entries:
+                    routes_list.append(e)
+                    routes_set.add(e)
 
     return routes_list, routes_set
 
 # -----------------------------
 # LOAD DATA
 # -----------------------------
-counties_list, counties_set = get_routes(COUNTIES_DIR)
-systems_list, systems_set   = get_routes(SYSTEMS_DIR)
-regions_list, regions_set   = get_routes(REGIONS_DIR)
+counties_list, counties_set = get_routes(COUNTIES_DIR, "counties")
+systems_list, systems_set   = get_routes(SYSTEMS_DIR, "systems")
+regions_list, regions_set   = get_routes(REGIONS_DIR, "regions")
 
 # -----------------------------
-# BUILD RESULTS (preserve order)
+# BUILD RESULTS (COUNTY ORDER)
 # -----------------------------
 results = []
 
@@ -66,7 +86,7 @@ for route in counties_list:
         "in_regions": route in regions_set
     })
 
-# add extras not in counties
+# Add routes missing from counties
 extra_routes = (systems_set | regions_set) - counties_set
 
 for route in sorted(extra_routes):
@@ -156,5 +176,6 @@ th {
 # -----------------------------
 generate_html(flagged)
 
-print(f"Datacheck complete. {len(flagged)} issues found.")
-print(f"Output: {OUTPUT_FILE}")
+print(f"Datacheck complete.")
+print(f"{len(flagged)} missing/flagged routes found.")
+print(f"Output file: {OUTPUT_FILE}")
