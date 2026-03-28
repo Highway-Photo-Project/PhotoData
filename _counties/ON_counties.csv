@@ -1,0 +1,378 @@
+region;route;county
+ON;TCHON;Algoma
+ON;ON17;Algoma
+ON;ON101;Algoma
+ON;ON106;Algoma
+ON;ON129;Algoma
+ON;ON519;Algoma
+ON;ON532;Algoma
+ON;ON538;Algoma
+ON;ON546;Algoma
+ON;ON547;Algoma
+ON;ON548;Algoma
+ON;ON550;Algoma
+ON;ON552;Algoma
+ON;ON554;Algoma
+ON;ON555;Algoma
+ON;ON556;Algoma
+ON;ON557;Algoma
+ON;ON563;Algoma
+ON;ON565;Algoma
+ON;ON631;Algoma
+ON;ON638;Algoma
+ON;ON639;Algoma
+ON;ON651;Algoma
+ON;ON670;Algoma
+ON;ON810;Algoma
+ON;ON403;Brant
+ON;ON24;Brant
+ON;ON6;Bruce
+ON;ON9;Bruce
+ON;ON21;Bruce
+ON;ON401;Chatham-Kent
+ON;ON40;Chatham-Kent
+ON;TCHON;Cochrane
+ON;ON11;Cochrane
+ON;ON67;Cochrane
+ON;ON101;Cochrane
+ON;ON144;Cochrane
+ON;ON572;Cochrane
+ON;ON574;Cochrane
+ON;ON577;Cochrane
+ON;ON578;Cochrane
+ON;ON579;Cochrane
+ON;ON581;Cochrane
+ON;ON583;Cochrane
+ON;ON626;Cochrane
+ON;ON634;Cochrane
+ON;ON652;Cochrane
+ON;ON655;Cochrane
+ON;ON663;Cochrane
+ON;ON668;Cochrane
+ON;ON10;Dufferin
+ON;ON89;Dufferin
+ON;ON401;Durham
+ON;ON407;Durham
+ON;ON412;Durham
+ON;ON418;Durham
+ON;TCHON;Durham
+ON;ON7;Durham
+ON;ON12;Durham
+ON;ON35;Durham
+ON;ON48;Durham
+ON;ON115;Durham
+ON;ON401;Elgin
+ON;ON3;Elgin
+ON;ON4;Elgin
+ON;ON401;Essex
+ON;ON3;Essex
+ON;ON77;Essex
+ON;ON401;Frontenac
+ON;TCHON;Frontenac
+ON;ON7;Frontenac
+ON;ON15;Frontenac
+ON;ON41;Frontenac
+ON;ON6;Grey
+ON;ON10;Grey
+ON;ON21;Grey
+ON;ON26;Grey
+ON;ON89;Grey
+ON;ON3;Haldimand
+ON;ON6;Haldimand
+ON;ON28;Haliburton
+ON;ON35;Haliburton
+ON;ON60;Haliburton
+ON;ON118;Haliburton
+ON;ON401;Halton
+ON;ON403;Halton
+ON;ON407;Halton
+ON;ONQEW;Halton
+ON;ON6;Halton
+ON;ON7;Halton
+ON;ONQEW;Hamilton
+ON;ON5;Hamilton
+ON;ON6;Hamilton
+ON;ON8;Hamilton
+ON;ON401;Hastings
+ON;TCHON;Hastings
+ON;ON7;Hastings
+ON;ON28;Hastings
+ON;ON37;Hastings
+ON;ON49;Hastings
+ON;ON62;Hastings
+ON;ON118;Hastings
+ON;ON127;Hastings
+ON;ON4;Huron
+ON;ON8;Huron
+ON;ON9;Huron
+ON;ON23;Huron
+ON;TCHON;Kawartha Lakes
+ON;ON7;Kawartha Lakes
+ON;ON35;Kawartha Lakes
+ON;ON115;Kawartha Lakes
+ON;TCHON;Kenora
+ON;ON17;Kenora
+ON;ON71;Kenora
+ON;ON72;Kenora
+ON;ON105;Kenora
+ON;ON125;Kenora
+ON;ON502;Kenora
+ON;ON516;Kenora
+ON;ON525;Kenora
+ON;ON594;Kenora
+ON;ON596;Kenora
+ON;ON601;Kenora
+ON;ON603;Kenora
+ON;ON604;Kenora
+ON;ON605;Kenora
+ON;ON609;Kenora
+ON;ON618;Kenora
+ON;ON641;Kenora
+ON;ON642;Kenora
+ON;ON646;Kenora
+ON;ON647;Kenora
+ON;ON657;Kenora
+ON;ON658;Kenora
+ON;ON664;Kenora
+ON;ON665;Kenora
+ON;ON671;Kenora
+ON;ON673;Kenora
+ON;ON804;Kenora
+ON;ON402;Lambton
+ON;ON21;Lambton
+ON;ON40;Lambton
+ON;TCHON;Lanark
+ON;ON7;Lanark
+ON;ON15;Lanark
+ON;ON401;Leeds and Grenville
+ON;ON416;Leeds and Grenville
+ON;ON2;Leeds and Grenville
+ON;ON15;Leeds and Grenville
+ON;ON16;Leeds and Grenville
+ON;ON137;Leeds and Grenville
+ON;ON401;Lennox and Addington
+ON;TCHON;Lennox and Addington
+ON;ON7;Lennox and Addington
+ON;ON28;Lennox and Addington
+ON;ON33;Lennox and Addington
+ON;ON41;Lennox and Addington
+ON;ON6;Manitoulin
+ON;ON540;Manitoulin
+ON;ON542;Manitoulin
+ON;ON551;Manitoulin
+ON;ON401;Middlesex
+ON;ON402;Middlesex
+ON;ON4;Middlesex
+ON;ON7;Middlesex
+ON;ON23;Middlesex
+ON;ON400;Muskoka
+ON;ON11;Muskoka
+ON;ON35;Muskoka
+ON;ON60;Muskoka
+ON;ON118;Muskoka
+ON;ON141;Muskoka
+ON;ON405;Niagra
+ON;ON406;Niagra
+ON;ON420;Niagra
+ON;ONQEW;Niagra
+ON;ON3;Niagra
+ON;ON8;Niagra
+ON;ON20;Niagra
+ON;ON58;Niagra
+ON;ON140;Niagra
+ON;TCHON;Nipissing
+ON;ON11;Nipissing
+ON;ON17;Nipissing
+ON;ON60;Nipissing
+ON;ON63;Nipissing
+ON;ON64;Nipissing
+ON;ON94;Nipissing
+ON;ON127;Nipissing
+ON;ON523;Nipissing
+ON;ON531;Nipissing
+ON;ON533;Nipissing
+ON;ON539;Nipissing
+ON;ON575;Nipissing
+ON;ON630;Nipissing
+ON;ON656;Nipissing
+ON;ON805;Nipissing
+ON;ON3;Norfolk
+ON;ON6;Norfolk
+ON;ON24;Norfolk
+ON;ON401;Northumberland
+ON;ON416;Ottawa
+ON;ON417;Ottawa
+ON;TCHON;Ottawa
+ON;ON7;Ottawa
+ON;ON401;Oxford
+ON;ON403;Oxford
+ON;ON3;Oxford
+ON;ON19;Oxford
+ON;ON400;Parry Sound
+ON;TCHON;Parry Sound
+ON;ON11;Parry Sound
+ON;ON69;Parry Sound
+ON;ON94;Parry Sound
+ON;ON124;Parry Sound
+ON;ON141;Parry Sound
+ON;ON510;Parry Sound
+ON;ON518;Parry Sound
+ON;ON520;Parry Sound
+ON;ON522;Parry Sound
+ON;ON524;Parry Sound
+ON;ON526;Parry Sound
+ON;ON529;Parry Sound
+ON;ON534;Parry Sound
+ON;ON559;Parry Sound
+ON;ON592;Parry Sound
+ON;ON612;Parry Sound
+ON;ON632;Parry Sound
+ON;ON644;Parry Sound
+ON;ON645;Parry Sound
+ON;ON654;Parry Sound
+ON;ON401;Peel
+ON;ON403;Peel
+ON;ON407;Peel
+ON;ON409;Peel
+ON;ON410;Peel
+ON;ON427;Peel
+ON;ONQEW;Peel
+ON;ON9;Peel
+ON;ON10;Peel
+ON;ON7;Perth
+ON;ON8;Perth
+ON;ON23;Perth
+ON;TCHON;Peterborough
+ON;ON7;Peterborough
+ON;ON28;Peterborough
+ON;ON115;Peterborough
+ON;ON417;Prescott and Russell
+ON;TCHON;Prescott and Russell
+ON;ON34;Prescott and Russell
+ON;ON33;Prince Edward
+ON;ON49;Prince Edward
+ON;ON62;Prince Edward
+ON;TCHON;Rainy River
+ON;ON11;Rainy River
+ON;ON71;Rainy River
+ON;ON502;Rainy River
+ON;ON600;Rainy River
+ON;ON602;Rainy River
+ON;ON611;Rainy River
+ON;ON613;Rainy River
+ON;ON615;Rainy River
+ON;ON617;Rainy River
+ON;ON619;Rainy River
+ON;ON621;Rainy River
+ON;ON622;Rainy River
+ON;ON623;Rainy River
+ON;ON633;Rainy River
+ON;ON417;Renfrew
+ON;TCHON;Renfrew
+ON;ON17;Renfrew
+ON;ON28;Renfrew
+ON;ON41;Renfrew
+ON;ON60;Renfrew
+ON;ON132;Renfrew
+ON;ON148;Renfrew
+ON;ON400;Simcoe
+ON;TCHON;Simcoe
+ON;ON9;Simcoe
+ON;ON11;Simcoe
+ON;ON12;Simcoe
+ON;ON26;Simcoe
+ON;ON89;Simcoe
+ON;ON93;Simcoe
+ON;ON401;Stormont, Dundas and Glengarry
+ON;ON417;Stormont, Dundas and Glengarry
+ON;TCHON;Stormont, Dundas and Glengarry
+ON;ON138;Stormont, Dundas and Glengarry
+ON;ON400;Sudbury
+ON;TCHON;Sudbury
+ON;ON6;Sudbury
+ON;ON17;Sudbury
+ON;ON64;Sudbury
+ON;ON69;Sudbury
+ON;ON101;Sudbury
+ON;ON129;Sudbury
+ON;ON144;Sudbury
+ON;ON528;Sudbury
+ON;ON535;Sudbury
+ON;ON539;Sudbury
+ON;ON553;Sudbury
+ON;ON607;Sudbury
+ON;ON637;Sudbury
+ON;ON661;Sudbury
+ON;ON805;Sudbury
+ON;TCHON;Thunder Bay
+ON;ON11;Thunder Bay
+ON;ON17;Thunder Bay
+ON;ON61;Thunder Bay
+ON;ON102;Thunder Bay
+ON;ON130;Thunder Bay
+ON;ON516;Thunder Bay
+ON;ON527;Thunder Bay
+ON;ON580;Thunder Bay
+ON;ON582;Thunder Bay
+ON;ON584;Thunder Bay
+ON;ON585;Thunder Bay
+ON;ON586;Thunder Bay
+ON;ON587;Thunder Bay
+ON;ON588;Thunder Bay
+ON;ON589;Thunder Bay
+ON;ON590;Thunder Bay
+ON;ON591;Thunder Bay
+ON;ON593;Thunder Bay
+ON;ON595;Thunder Bay
+ON;ON597;Thunder Bay
+ON;ON608;Thunder Bay
+ON;ON614;Thunder Bay
+ON;ON625;Thunder Bay
+ON;ON627;Thunder Bay
+ON;ON628;Thunder Bay
+ON;ON643;Thunder Bay
+ON;ON802;Thunder Bay
+ON;ON811;Thunder Bay
+ON;TCHON;Timiskaming
+ON;ON11;Timiskaming
+ON;ON65;Timiskaming
+ON;ON66;Timiskaming
+ON;ON112;Timiskaming
+ON;ON144;Timiskaming
+ON;ON558;Timiskaming
+ON;ON562;Timiskaming
+ON;ON564;Timiskaming
+ON;ON566;Timiskaming
+ON;ON567;Timiskaming
+ON;ON568;Timiskaming
+ON;ON569;Timiskaming
+ON;ON570;Timiskaming
+ON;ON571;Timiskaming
+ON;ON573;Timiskaming
+ON;ON624;Timiskaming
+ON;ON640;Timiskaming
+ON;ON650;Timiskaming
+ON;ON400;Toronto
+ON;ON401;Toronto
+ON;ON404;Toronto
+ON;ON409;Toronto
+ON;ON427;Toronto
+ON;ONQEW;Toronto
+ON;ON401;Waterloo
+ON;ON7;Waterloo
+ON;ON8;Waterloo
+ON;ON24;Waterloo
+ON;ON85;Waterloo
+ON;ON401;Wellington
+ON;ON6;Wellington
+ON;ON7;Wellington
+ON;ON9;Wellington
+ON;ON23;Wellington
+ON;ON89;Wellington
+ON;ON400;York
+ON;ON404;York
+ON;ON407;York
+ON;ON427;York
+ON;ON7;York
+ON;ON9;York
+ON;ON48;York
