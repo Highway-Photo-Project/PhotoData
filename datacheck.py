@@ -152,7 +152,7 @@ th, td { border: 1px solid black; padding: 6px; }
 """
 
     def mark(x):
-        return "✔" if x else "✖"
+        return "YES" if x else "MISSING"
 
     for r in data:
         html += f"""
