@@ -280,7 +280,6 @@ MB;MB16;Harrison Park
 MB;MB45;Harrison Park
 MB;MB250;Harrison Park
 MB;MB262;Harrison Park
-MB;MB263;Harrison Park
 MB;MB270;Harrison Park
 MB;MB354;Harrison Park
 MB;MB470;Harrison Park
@@ -653,7 +652,6 @@ MB;MB206;St. Clements
 MB;MB212;St. Clements
 MB;MB317;St. Clements
 MB;MB319;St. Clements
-MB;MB407;St. Clements
 MB;MB500;St. Clements
 MB;MB508;St. Clements
 MB;MB509;St. Clements
@@ -673,7 +671,6 @@ MB;MB243;Stanley
 MB;MB338;Stanley
 MB;MB428;Stanley
 MB;MB432;Stanley
-MB;MB434;Stanley
 MB;MB521;Stanley
 MB;TCHMB;Ste. Anne
 MB;MB1;Ste. Anne
@@ -687,7 +684,6 @@ MB;MB68;Ste. Rose
 MB;MB276;Ste. Rose
 MB;MB360;Ste. Rose
 MB;MB480;Ste. Rose
-MB;MB581;Ste. Rose
 MB;MB12;Stuartburn
 MB;MB201;Stuartburn
 MB;MB203;Stuartburn
@@ -702,8 +698,6 @@ MB;MB279;Swan Valley West
 MB;MB486;Swan Valley West
 MB;MB487;Swan Valley West
 MB;MB488;Swan Valley West
-MB;MB586;Swan Valley West
-MB;MB587;Swan Valley West
 MB;MB588;Swan Valley West
 MB;TCHMB;Tache
 MB;MB1;Tache
@@ -810,5 +804,4 @@ MB;MB45;Yellowhead
 MB;MB264;Yellowhead
 MB;MB354;Yellowhead
 MB;MB470;Yellowhead
-MB;MB477;Yellowhead
 MB;MB566;Yellowhead
