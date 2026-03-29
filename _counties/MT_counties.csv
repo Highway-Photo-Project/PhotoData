@@ -12,7 +12,6 @@ MT;SR313;Big Horn
 MT;SR314;Big Horn
 MT;SR342;Big Horn
 MT;SR384;Big Horn
-MT;SR418;Big Horn
 MT;SR451;Big Horn
 MT;SR457;Big Horn
 MT;SR463;Big Horn
@@ -40,7 +39,6 @@ MT;SR421;Carbon
 MT;US212;Carter
 MT;MT7;Carter
 MT;MT323;Carter
-MT;SR277;Carter
 MT;SR326;Carter
 MT;SR328;Carter
 MT;SR544;Carter
@@ -81,6 +79,7 @@ MT;SR511;Daniels
 MT;I-94;Dawson
 MT;MT16;Dawson
 MT;MT200;Dawson
+MT;MT200S;Dawson
 MT;SR254;Dawson
 MT;SR335;Dawson
 MT;SR467;Dawson
@@ -261,6 +260,7 @@ MT;SR422;Madison
 MT;MT13;McCone
 MT;MT24;McCone
 MT;MT200;McCone
+MT;MT200S;McCone
 MT;SR201;McCone
 MT;SR252;McCone
 MT;SR253;McCone
