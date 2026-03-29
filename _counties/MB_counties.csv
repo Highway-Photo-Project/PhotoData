@@ -40,6 +40,7 @@ MB;MB341;Boissevain-Morton
 MB;MB343;Boissevain-Morton
 MB;MB348;Boissevain-Morton
 MB;MB443;Boissevain-Morton
+MB;MB444;Boissevain-Morton
 MB;MB448;Boissevain-Morton
 MB;MB3;Brenda-Waskada
 MB;MB21;Brenda-Waskada
@@ -123,6 +124,7 @@ MB;MB267;Dauphin
 MB;MB273;Dauphin
 MB;MB274;Dauphin
 MB;MB362;Dauphin
+MB;MB491;Dauphin
 MB;MB23;De Salaberry
 MB;MB52;De Salaberry
 MB;MB59;De Salaberry
@@ -134,6 +136,10 @@ MB;MB403;De Salaberry
 MB;MB3;Deloraine-Winchester
 MB;MB21;Deloraine-Winchester
 MB;MB450;Deloraine-Winchester
+MB;MB57;Duck Mountain Provincial Park
+MB;MB83;Duck Mountain Provincial Park
+MB;MB366;Duck Mountain Provincial Park
+MB;MB367;Duck Mountain Provincial Park
 MB;MB3;Dufferin
 MB;MB240;Dufferin
 MB;MB245;Dufferin
@@ -185,8 +191,10 @@ MB;MB290;Far Northern Manitoba Unorganized
 MB;MB391;Far Northern Manitoba Unorganized
 MB;MB394;Far Northern Manitoba Unorganized
 MB;MB395;Far Northern Manitoba Unorganized
+MB;MB396;Far Northern Manitoba Unorganized
 MB;MB397;Far Northern Manitoba Unorganized
 MB;MB399;Far Northern Manitoba Unorganized
+MB;MB493;Far Northern Manitoba Unorganized
 MB;MB636;Far Northern Manitoba Unorganized
 MB;MB17;Fisher
 MB;MB68;Fisher
@@ -218,6 +226,7 @@ MB;MB9;Gimli
 MB;MB222;Gimli
 MB;MB229;Gimli
 MB;MB231;Gimli
+MB;MB324;Gimli
 MB;MB519;Gimli
 MB;MB2;Glenboro-South Cypress
 MB;MB5;Glenboro-South Cypress
@@ -232,6 +241,7 @@ MB;MB261;Glenella-Lansdowne
 MB;MB265;Glenella-Lansdowne
 MB;MB352;Glenella-Lansdowne
 MB;MB462;Glenella-Lansdowne
+MB;MB575;Glenella-Lansdowne
 MB;MB6;Grahamdale
 MB;MB68;Grahamdale
 MB;MB237;Grahamdale
@@ -250,6 +260,7 @@ MB;MB254;Grassland
 MB;MB345;Grassland
 MB;MB347;Grassland
 MB;MB348;Grassland
+MB;MB444;Grassland
 MB;MB448;Grassland
 MB;MB541;Grassland
 MB;MB2;Grey
@@ -313,6 +324,7 @@ MB;MB313;Lac du Bonnet
 MB;MB317;Lac du Bonnet
 MB;MB433;Lac du Bonnet
 MB;MB435;Lac du Bonnet
+MB;MB502;Lac du Bonnet
 MB;MB520;Lac du Bonnet
 MB;MB6;Lake Winnipeg Unorganized
 MB;MB10;Lake Winnipeg Unorganized
@@ -375,7 +387,6 @@ MB;MB268;Minitonas-Bowsman
 MB;MB366;Minitonas-Bowsman
 MB;MB485;Minitonas-Bowsman
 MB;MB488;Minitonas-Bowsman
-MB;MB587;Minitonas-Bowsman
 MB;TCHMB;Minto-Odanah
 MB;MB10;Minto-Odanah
 MB;MB16;Minto-Odanah
@@ -410,6 +421,7 @@ MB;MB481;Mossey River
 MB;MB10;Mountain (North)
 MB;MB77;Mountain (North)
 MB;MB266;Mountain (North)
+MB;MB365;Mountain (North)
 MB;MB366;Mountain (North)
 MB;MB10;Mountain (South)
 MB;MB20;Mountain (South)
@@ -465,6 +477,7 @@ MB;MB201;Pembina
 MB;MB240;Pembina
 MB;MB242;Pembina
 MB;MB244;Pembina
+MB;MB528;Pembina
 MB;MB12;Piney
 MB;MB89;Piney
 MB;MB201;Piney
@@ -472,6 +485,7 @@ MB;MB203;Piney
 MB;MB210;Piney
 MB;MB308;Piney
 MB;MB310;Piney
+MB;MB404;Piney
 MB;MB2;Pipestone
 MB;MB83;Pipestone
 MB;MB255;Pipestone
@@ -504,6 +518,7 @@ MB;MB264;Prairie View
 MB;MB355;Prairie View
 MB;MB359;Prairie View
 MB;MB467;Prairie View
+MB;MB472;Prairie View
 MB;MB474;Prairie View
 MB;MB476;Prairie View
 MB;MB568;Prairie View
@@ -515,7 +530,9 @@ MB;MB44;Reynolds
 MB;MB210;Reynolds
 MB;MB307;Reynolds
 MB;MB308;Reynolds
+MB;MB404;Reynolds
 MB;MB503;Reynolds
+MB;MB505;Reynolds
 MB;MB506;Reynolds
 MB;MB14;Rhineland
 MB;MB30;Rhineland
@@ -524,6 +541,7 @@ MB;MB243;Rhineland
 MB;MB305;Rhineland
 MB;MB421;Rhineland
 MB;MB521;Rhineland
+MB;MB524;Rhineland
 MB;MB45;Riding Mountain West
 MB;MB83;Riding Mountain West
 MB;MB264;Riding Mountain West
@@ -535,6 +553,7 @@ MB;MB547;Riding Mountain West
 MB;MB549;Riding Mountain West
 MB;MB582;Riding Mountain West
 MB;MB584;Riding Mountain West
+MB;MB592;Riding Mountain West
 MB;MB59;Ritchot
 MB;MB75;Ritchot
 MB;MB200;Ritchot
@@ -548,6 +567,7 @@ MB;MB25;Riverdale
 MB;MB250;Riverdale
 MB;MB259;Riverdale
 MB;MB354;Riverdale
+MB;MB564;Riverdale
 MB;MB5;Roblin
 MB;MB83;Roblin
 MB;MB363;Roblin
@@ -557,6 +577,7 @@ MB;MB484;Roblin
 MB;MB583;Roblin
 MB;MB584;Roblin
 MB;MB591;Roblin
+MB;MB592;Roblin
 MB;MB593;Roblin
 MB;MB594;Roblin
 MB;MB6;Rockwood
@@ -666,6 +687,7 @@ MB;MB518;St. Laurent
 MB;MB3;Stanley
 MB;MB14;Stanley
 MB;MB23;Stanley
+MB;MB32;Stanley
 MB;MB201;Stanley
 MB;MB243;Stanley
 MB;MB338;Stanley
@@ -761,7 +783,9 @@ MB;MB242;Westlake-Gladstone
 MB;MB260;Westlake-Gladstone
 MB;MB265;Westlake-Gladstone
 MB;MB350;Westlake-Gladstone
+MB;MB567;Westlake-Gladstone
 MB;MB569;Westlake-Gladstone
+MB;MB575;Westlake-Gladstone
 MB;TCHMB;Whitehead
 MB;MB1;Whitehead
 MB;MB21;Whitehead
@@ -771,6 +795,7 @@ MB;MB349;Whitehead
 MB;MB354;Whitehead
 MB;MB455;Whitehead
 MB;MB459;Whitehead
+MB;MB564;Whitehead
 MB;MB11;Whitemouth
 MB;MB15;Whitemouth
 MB;MB44;Whitemouth
@@ -781,9 +806,11 @@ MB;MB506;Whitemouth
 MB;TCHMB;Whiteshell Unorganized
 MB;MB1;Whiteshell Unorganized
 MB;MB44;Whiteshell Unorganized
+MB;MB301;Whiteshell Unorganized
 MB;MB307;Whiteshell Unorganized
 MB;MB308;Whiteshell Unorganized
 MB;MB309;Whiteshell Unorganized
+MB;MB312;Whiteshell Unorganized
 MB;MB525;Whiteshell Unorganized
 MB;MB6;Woodlands
 MB;MB67;Woodlands
