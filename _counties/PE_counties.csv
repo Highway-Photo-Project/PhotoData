@@ -5,7 +5,9 @@ PE;PE4;Kings
 PE;PE5;Kings
 PE;PE16;Kings
 PE;PE17;Kings
+PE;PE17A;Kings
 PE;PE18;Kings
+PE;PE18A;Kings
 PE;PE21;Kings
 PE;PE22;Kings
 PE;PE24;Kings
@@ -75,6 +77,7 @@ PE;PE357;Kings
 PE;PE358;Kings
 PE;PE16A;Kings
 PE;TCHPE;Prince
+PE;PE1;Prince
 PE;PE2;Prince
 PE;PE6;Prince
 PE;PE8;Prince
@@ -165,12 +168,14 @@ PE;PE179;Prince
 PE;PE180;Prince
 PE;PE181;Prince
 PE;PE182;Prince
+PE;PE183;Prince
 PE;PE225;Prince
 PE;PE232;Prince
 PE;PE233;Prince
 PE;PE234;Prince
-PE;PE1A;Prince
 PE;TCHPE;Queens
+PE;PE1;Prince
+PE;PE1A;Prince
 PE;PE2;Queens
 PE;PE3;Queens
 PE;PE4;Queens
@@ -182,6 +187,7 @@ PE;PE9;Queens
 PE;PE13;Queens
 PE;PE15;Queens
 PE;PE19;Queens
+PE;PE19A;Queens
 PE;PE20;Queens
 PE;PE21;Queens
 PE;PE22;Queens
@@ -265,6 +271,7 @@ PE;PE267;Queens
 PE;PE268;Queens
 PE;PE269;Queens
 PE;PE270;Queens
+PE;PE271;Queens
 PE;PE272;Queens
 PE;PE315;Queens
 PE;PE317;Queens
