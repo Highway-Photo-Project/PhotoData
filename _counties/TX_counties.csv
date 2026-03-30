@@ -42,7 +42,6 @@ TX;FM3309;Anderson
 TX;FM3328;Anderson
 TX;FM3372;Anderson
 TX;FM3452;Anderson
-TX;FS1990;Anderson
 TX;US385;Andrews
 TX;TX115;Andrews
 TX;TX128;Andrews
@@ -596,6 +595,7 @@ TX;US67;Brewster
 TX;US90;Brewster
 TX;US385;Brewster
 TX;TX118;Brewster
+TX;TX223;Brewster
 TX;FM170;Brewster
 TX;FM1703;Brewster
 TX;FM2627;Brewster
@@ -1359,7 +1359,7 @@ TX;FM2564;Cottle
 TX;FM2876;Cottle
 TX;FM2998;Cottle
 TX;FM3102;Cottle
-TX;FM3265;Cottle
+TX;FM3256;Cottle
 TX;I-20;Crane
 TX;US67;Crane
 TX;US385;Crane
@@ -1691,7 +1691,6 @@ TX;TX339;Duval
 TX;TX359;Duval
 TX;FM716;Duval
 TX;FM1329;Duval
-TX;FM1345;Duval
 TX;FM2295;Duval
 TX;FM2359;Duval
 TX;FM3196;Duval
