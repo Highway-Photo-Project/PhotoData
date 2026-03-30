@@ -61,6 +61,7 @@ NB;NB180;Gloucester
 NB;NB303;Gloucester
 NB;NB305;Gloucester
 NB;NB310;Gloucester
+NB;NB313;Gloucester
 NB;NB315;Gloucester
 NB;NB320;Gloucester
 NB;NB322;Gloucester
@@ -144,6 +145,7 @@ NB;NB415;Northumberland
 NB;NB420;Northumberland
 NB;NB425;Northumberland
 NB;NB430;Northumberland
+NB;NB435;Northumberland
 NB;NB440;Northumberland
 NB;NB445;Northumberland
 NB;NB450;Northumberland
@@ -171,7 +173,6 @@ NB;NB134;Restigouche
 NB;NB180;Restigouche
 NB;NB260;Restigouche
 NB;NB265;Restigouche
-NB;NB270;Restigouche
 NB;NB275;Restigouche
 NB;NB280;Restigouche
 NB;NB385;Restigouche
@@ -182,7 +183,6 @@ NB;NB111;St. John County
 NB;NB175;St. John County
 NB;NB177;St. John County
 NB;NB790;St. John County
-NB;NB795;St. John County
 NB;NB820;St. John County
 NB;NB825;St. John County
 NB;NB2;Sunbury
@@ -225,6 +225,7 @@ NB;NB128;Westmorland
 NB;NB132;Westmorland
 NB;NB133;Westmorland
 NB;NB134;Westmorland
+NB;NB140;Westmorland
 NB;NB490;Westmorland
 NB;NB880;Westmorland
 NB;NB885;Westmorland
@@ -265,6 +266,7 @@ NB;NB616;York
 NB;NB617;York
 NB;NB620;York
 NB;NB625;York
+NB;NB628;York
 NB;NB630;York
 NB;NB635;York
 NB;NB636;York
