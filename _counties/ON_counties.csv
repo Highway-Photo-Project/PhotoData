@@ -1,8 +1,9 @@
 region;route;county
 ON;TCHON;Algoma
 ON;ON17;Algoma
+ON;ON17B;Algoma
 ON;ON101;Algoma
-ON;ON106;Algoma
+ON;ON108;Algoma
 ON;ON129;Algoma
 ON;ON519;Algoma
 ON;ON532;Algoma
@@ -13,7 +14,6 @@ ON;ON548;Algoma
 ON;ON550;Algoma
 ON;ON552;Algoma
 ON;ON554;Algoma
-ON;ON555;Algoma
 ON;ON556;Algoma
 ON;ON557;Algoma
 ON;ON563;Algoma
@@ -39,16 +39,16 @@ ON;ON144;Cochrane
 ON;ON572;Cochrane
 ON;ON574;Cochrane
 ON;ON577;Cochrane
-ON;ON578;Cochrane
 ON;ON579;Cochrane
 ON;ON581;Cochrane
 ON;ON583;Cochrane
-ON;ON626;Cochrane
 ON;ON634;Cochrane
+ON;ON636;Cochrane
 ON;ON652;Cochrane
 ON;ON655;Cochrane
 ON;ON663;Cochrane
 ON;ON668;Cochrane
+ON;ON672;Cochrane
 ON;ON10;Dufferin
 ON;ON89;Dufferin
 ON;ON401;Durham
@@ -57,6 +57,7 @@ ON;ON412;Durham
 ON;ON418;Durham
 ON;TCHON;Durham
 ON;ON7;Durham
+ON;ON7A;Durham
 ON;ON12;Durham
 ON;ON35;Durham
 ON;ON48;Durham
@@ -108,10 +109,12 @@ ON;ON9;Huron
 ON;ON23;Huron
 ON;TCHON;Kawartha Lakes
 ON;ON7;Kawartha Lakes
+ON;ON7A;Kawartha Lakes
 ON;ON35;Kawartha Lakes
 ON;ON115;Kawartha Lakes
 ON;TCHON;Kenora
 ON;ON17;Kenora
+ON;ON17A;Kenora
 ON;ON71;Kenora
 ON;ON72;Kenora
 ON;ON105;Kenora
@@ -121,15 +124,14 @@ ON;ON516;Kenora
 ON;ON525;Kenora
 ON;ON594;Kenora
 ON;ON596;Kenora
+ON;ON599;Kenora
 ON;ON601;Kenora
 ON;ON603;Kenora
-ON;ON604;Kenora
 ON;ON605;Kenora
 ON;ON609;Kenora
 ON;ON618;Kenora
 ON;ON641;Kenora
 ON;ON642;Kenora
-ON;ON646;Kenora
 ON;ON647;Kenora
 ON;ON657;Kenora
 ON;ON658;Kenora
@@ -179,10 +181,12 @@ ON;ON3;Niagra
 ON;ON8;Niagra
 ON;ON20;Niagra
 ON;ON58;Niagra
+ON;ON58A;Niagra
 ON;ON140;Niagra
 ON;TCHON;Nipissing
 ON;ON11;Nipissing
 ON;ON17;Nipissing
+ON;ON17B;Nipissing
 ON;ON60;Nipissing
 ON;ON63;Nipissing
 ON;ON64;Nipissing
@@ -227,7 +231,6 @@ ON;ON559;Parry Sound
 ON;ON592;Parry Sound
 ON;ON612;Parry Sound
 ON;ON632;Parry Sound
-ON;ON644;Parry Sound
 ON;ON645;Parry Sound
 ON;ON654;Parry Sound
 ON;ON401;Peel
@@ -254,6 +257,7 @@ ON;ON49;Prince Edward
 ON;ON62;Prince Edward
 ON;TCHON;Rainy River
 ON;ON11;Rainy River
+ON;ON11B;Rainy River
 ON;ON71;Rainy River
 ON;ON502;Rainy River
 ON;ON600;Rainy River
@@ -298,11 +302,14 @@ ON;ON129;Sudbury
 ON;ON144;Sudbury
 ON;ON528;Sudbury
 ON;ON535;Sudbury
+ON;ON537;Sudbury
 ON;ON539;Sudbury
 ON;ON553;Sudbury
+ON;ON560;Sudbury
 ON;ON607;Sudbury
 ON;ON637;Sudbury
 ON;ON661;Sudbury
+ON;ON667;Sudbury
 ON;ON805;Sudbury
 ON;TCHON;Thunder Bay
 ON;ON11;Thunder Bay
@@ -335,11 +342,13 @@ ON;ON802;Thunder Bay
 ON;ON811;Thunder Bay
 ON;TCHON;Timiskaming
 ON;ON11;Timiskaming
+ON;ON11B;Timiskaming
 ON;ON65;Timiskaming
 ON;ON66;Timiskaming
 ON;ON112;Timiskaming
 ON;ON144;Timiskaming
 ON;ON558;Timiskaming
+ON;ON560;Timiskaming
 ON;ON562;Timiskaming
 ON;ON564;Timiskaming
 ON;ON566;Timiskaming
@@ -350,8 +359,8 @@ ON;ON570;Timiskaming
 ON;ON571;Timiskaming
 ON;ON573;Timiskaming
 ON;ON624;Timiskaming
-ON;ON640;Timiskaming
 ON;ON650;Timiskaming
+ON;ON672;Timiskaming
 ON;ON400;Toronto
 ON;ON401;Toronto
 ON;ON404;Toronto
