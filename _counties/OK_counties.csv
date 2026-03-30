@@ -186,7 +186,6 @@ OK;OK85A;Delaware
 OK;OK116;Delaware
 OK;OK125;Delaware
 OK;OK127;Delaware
-OK;OK412A;Delaware
 OK;US60;Dewey
 OK;US183;Dewey
 OK;US270;Dewey
@@ -220,6 +219,7 @@ OK;OK17A;Garvin
 OK;OK19;Garvin
 OK;OK24;Garvin
 OK;OK29;Garvin
+OK;OK29A;Garvin
 OK;OK59B;Garvin
 OK;OK74;Garvin
 OK;OK76;Garvin
@@ -349,6 +349,8 @@ OK;US62;Lincoln
 OK;US177;Lincoln
 OK;US377;Lincoln
 OK;OK18;Lincoln
+OK;OK18B;Lincoln
+OK;OK40A;Lincoln
 OK;OK66;Lincoln
 OK;OK66B;Lincoln
 OK;OK99;Lincoln
@@ -360,6 +362,7 @@ OK;OK33;Logan
 OK;OK51;Logan
 OK;OK74;Logan
 OK;OK74C;Logan
+OK;OK74D;Logan
 OK;OK74E;Logan
 OK;OK74F;Logan
 OK;OK105;Logan
@@ -440,6 +443,8 @@ OK;US177;Murray
 OK;OK1;Murray
 OK;OK7;Murray
 OK;OK17A;Murray
+OK;OK18A;Murray
+OK;OK77D;Murray
 OK;OK110;Murray
 OK;OK301;Murray
 OK;I-40;Muskogee
@@ -455,6 +460,7 @@ OK;OK52;Muskogee
 OK;OK71;Muskogee
 OK;OK72;Muskogee
 OK;OK80;Muskogee
+OK;OK80A;Muskogee
 OK;OK100;Muskogee
 OK;OK104;Muskogee
 OK;OK162;Muskogee
@@ -481,6 +487,7 @@ OK;OK27;Okfuskee
 OK;OK48;Okfuskee
 OK;OK56;Okfuskee
 OK;OK84;Okfuskee
+OK;OK99A;Okfuskee
 OK;I-35;Oklahoma
 OK;I-40;Oklahoma
 OK;I-44;Oklahoma
@@ -576,6 +583,7 @@ OK;OK18;Pottawatomie
 OK;OK39;Pottawatomie
 OK;OK59;Pottawatomie
 OK;OK59B;Pottawatomie
+OK;OK99A;Pottawatomie
 OK;OK102;Pottawatomie
 OK;OK270;Pottawatomie
 OK;US271;Pushmataha
@@ -600,6 +608,7 @@ OK;US169;Rogers
 OK;US412;Rogers
 OK;OK20;Rogers
 OK;OK28;Rogers
+OK;OK28A;Rogers
 OK;OK66;Rogers
 OK;OK88;Rogers
 OK;OK167;Rogers
@@ -616,6 +625,7 @@ OK;OK39;Seminole
 OK;OK56;Seminole
 OK;OK59;Seminole
 OK;OK99;Seminole
+OK;OK99A;Seminole
 OK;I-40;Sequoyah
 OK;US59;Sequoyah
 OK;US64;Sequoyah
@@ -662,6 +672,7 @@ OK;OK97;Tulsa
 OK;OK117;Tulsa
 OK;OK151;Tulsa
 OK;OK266;Tulsa
+OK;OK344;Tulsa
 OK;OK364;Tulsa
 OK;US64;Wagoner
 OK;US69;Wagoner
@@ -684,6 +695,8 @@ OK;OK6;Washita
 OK;OK42;Washita
 OK;OK44;Washita
 OK;OK54;Washita
+OK;OK54A;Washita
+OK;OK54B;Washita
 OK;OK55;Washita
 OK;OK115;Washita
 OK;OK152;Washita
