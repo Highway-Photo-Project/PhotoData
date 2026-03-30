@@ -112,7 +112,6 @@ NS;NS236;Hants
 NS;NS354;Hants
 NS;NS4;Inverness
 NS;NS19;Inverness
-NS;NS30;Inverness
 NS;NS105;Inverness
 NS;NS219;Inverness
 NS;NS223;Inverness
@@ -128,7 +127,6 @@ NS;NS341;Kings
 NS;NS358;Kings
 NS;NS359;Kings
 NS;NS360;Kings
-NS;NS361;Kings
 NS;NS3;Lunenburg
 NS;NS10;Lunenburg
 NS;NS12;Lunenburg
@@ -150,6 +148,7 @@ NS;NS289;Pictou
 NS;NS347;Pictou
 NS;NS348;Pictou
 NS;NS374;Pictou
+NS;NS376;Pictou
 NS;TCHNS;Pictou
 NS;NS3;Queens
 NS;NS8;Queens
@@ -168,7 +167,6 @@ NS;NS103;Shelburne
 NS;NS203;Shelburne
 NS;NS309;Shelburne
 NS;NS330;Shelburne
-NS;NS30;Victoria
 NS;NS105;Victoria
 NS;NS205;Victoria
 NS;NS223;Victoria
@@ -181,4 +179,5 @@ NS;NS203;Yarmouth
 NS;NS304;Yarmouth
 NS;NS308;Yarmouth
 NS;NS334;Yarmouth
+NS;NS335;Yarmouth
 NS;NS340;Yarmouth
