@@ -139,7 +139,6 @@ VA;VA94;Carroll
 VA;VA97;Carroll
 VA;VA100;Carroll
 VA;VA148;Carroll
-VA;VA392;Carroll
 VA;VA5;Charles City
 VA;VA106;Charles City
 VA;VA155;Charles City
@@ -204,7 +203,6 @@ VA;VA168;City of Chesapeake
 VA;VA190;City of Chesapeake
 VA;VA191;City of Chesapeake
 VA;VA196;City of Chesapeake
-VA;VA246;City of Chesapeake
 VA;VA337;City of Chesapeake
 VA;VA407;City of Chesapeake
 VA;I-95;City of Colonial Heights
@@ -284,7 +282,6 @@ VA;VA163;City of Lynchburg
 VA;VA28;City of Manassas
 VA;VA234;City of Manassas
 VA;VA28;City of Manassas Park
-VA;VA213;City of Manassas Park
 VA;VA57;City of Martinsville
 VA;VA174;City of Martinsville
 VA;VA457;City of Martinsville
@@ -315,7 +312,6 @@ VA;VA165;City of Norfolk
 VA;VA166;City of Norfolk
 VA;VA168;City of Norfolk
 VA;VA170;City of Norfolk
-VA;VA192;City of Norfolk
 VA;VA194;City of Norfolk
 VA;VA247;City of Norfolk
 VA;VA337;City of Norfolk
@@ -390,7 +386,6 @@ VA;US11;City of Staunton
 VA;US250;City of Staunton
 VA;VA252;City of Staunton
 VA;VA254;City of Staunton
-VA;VA261;City of Staunton
 VA;VA262;City of Staunton
 VA;I-664;City of Suffolk
 VA;US13;City of Suffolk
@@ -584,7 +579,6 @@ VA;VA119;Halifax
 VA;VA129;Halifax
 VA;VA304;Halifax
 VA;VA344;Halifax
-VA;VA349;Halifax
 VA;VA360;Halifax
 VA;I-95;Hanover
 VA;I-295;Hanover
@@ -630,6 +624,7 @@ VA;VA57;Henry
 VA;VA87;Henry
 VA;VA108;Henry
 VA;VA174;Henry
+VA;VA371;Henry
 VA;VA457;Henry
 VA;US220;Highland
 VA;US250;Highland
@@ -740,6 +735,7 @@ VA;VA106;New Kent
 VA;VA155;New Kent
 VA;VA249;New Kent
 VA;VA273;New Kent
+VA;VA409;New Kent
 VA;US13;Northampton
 VA;VA178;Northampton
 VA;VA183;Northampton
@@ -762,6 +758,7 @@ VA;US522;Orange
 VA;VA3;Orange
 VA;VA20;Orange
 VA;VA231;Orange
+VA;VA375;Orange
 VA;US211;Page
 VA;US340;Page
 VA;US58;Patrick
@@ -880,6 +877,7 @@ VA;VA65;Scott
 VA;VA71;Scott
 VA;VA72;Scott
 VA;VA224;Scott
+VA;VA370;Scott
 VA;I-81;Shenandoah
 VA;US11;Shenandoah
 VA;US48;Shenandoah
@@ -954,7 +952,6 @@ VA;VA75;Washington
 VA;VA80;Washington
 VA;VA91;Washington
 VA;VA140;Washington
-VA;VA372;Washington
 VA;VA3;Westmoreland
 VA;VA202;Westmoreland
 VA;VA203;Westmoreland
