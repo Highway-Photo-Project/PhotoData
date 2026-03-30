@@ -40,6 +40,7 @@ NL;NL210;Avalon Peninsula
 NL;TCHNL;Bonavista-Clarenville
 NL;NL1;Bonavista-Clarenville
 NL;NL204;Bonavista-Clarenville
+NL;NL205;Bonavista-Clarenville
 NL;NL230;Bonavista-Clarenville
 NL;NL230A;Bonavista-Clarenville
 NL;NL231;Bonavista-Clarenville
@@ -51,6 +52,7 @@ NL;NL236;Bonavista-Clarenville
 NL;NL237;Bonavista-Clarenville
 NL;NL238;Bonavista-Clarenville
 NL;NL239;Bonavista-Clarenville
+NL;NL301;Bonavista-Clarenville
 NL;NL310;Bonavista-Clarenville
 NL;NL320;Bonavista-Clarenville
 NL;NL330;Bonavista-Clarenville
@@ -59,6 +61,7 @@ NL;NL211;Burin Peninsula
 NL;NL212;Burin Peninsula
 NL;NL213;Burin Peninsula
 NL;NL214;Burin Peninsula
+NL;NL215;Burin Peninsula
 NL;NL220;Burin Peninsula
 NL;NL221;Burin Peninsula
 NL;NL222;Burin Peninsula
@@ -67,6 +70,7 @@ NL;NL1;Corner Brook
 NL;NL401;Corner Brook
 NL;NL420;Corner Brook
 NL;NL421;Corner Brook
+NL;NL422;Corner Brook
 NL;NL430;Corner Brook
 NL;NL440;Corner Brook
 NL;NL450;Corner Brook
@@ -79,6 +83,7 @@ NL;NL351;Gander-Grand Falls
 NL;NL352;Gander-Grand Falls
 NL;NL360;Gander-Grand Falls
 NL;NL370;Gander-Grand Falls
+NL;NL371;Gander-Grand Falls
 NL;NL480;Gander-Grand Falls
 NL;NL500;Labrador
 NL;NL503;Labrador
@@ -134,6 +139,9 @@ NL;NL1;South Coast
 NL;NL360;South Coast
 NL;NL361;South Coast
 NL;NL362;South Coast
+NL;NL363;South Coast
+NL;NL364;South Coast
+NL;NL365;South Coast
 NL;NL408;South Coast
 NL;NL470;South Coast
 NL;NL480;South Coast
