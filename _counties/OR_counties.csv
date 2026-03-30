@@ -28,7 +28,6 @@ OR;US101;Clatsop
 OR;OR53;Clatsop
 OR;OR103;Clatsop
 OR;OR104;Clatsop
-OR;OR104S;Clatsop
 OR;OR202;Clatsop
 OR;US26;Columbia
 OR;US30;Columbia
@@ -39,9 +38,11 @@ OR;OR42;Coos
 OR;OR42S;Coos
 OR;OR241;Coos
 OR;OR540;Coos
+OR;OR542;Coos
 OR;US26;Crook
 OR;OR27;Crook
 OR;OR126;Crook
+OR;OR370;Crook
 OR;OR380;Crook
 OR;US101;Curry
 OR;OR255;Curry
@@ -51,6 +52,7 @@ OR;OR27;Deschutes
 OR;OR31;Deschutes
 OR;OR126;Deschutes
 OR;OR242;Deschutes
+OR;OR370;Deschutes
 OR;I-5;Douglas
 OR;US101;Douglas
 OR;OR38;Douglas
@@ -83,6 +85,7 @@ OR;OR62;Jackson
 OR;OR66;Jackson
 OR;OR99;Jackson
 OR;OR140;Jackson
+OR;OR227;Jackson
 OR;OR230;Jackson
 OR;OR234;Jackson
 OR;OR238;Jackson
@@ -180,7 +183,6 @@ OR;OR51;Polk
 OR;OR99W;Polk
 OR;OR221;Polk
 OR;OR223;Polk
-OR;OR223S;Polk
 OR;I-84;Sherman
 OR;US30;Sherman
 OR;US97;Sherman
@@ -247,6 +249,7 @@ OR;OR18;Yamhill
 OR;OR22;Yamhill
 OR;OR47;Yamhill
 OR;OR99W;Yamhill
+OR;OR153;Yamhill
 OR;OR154;Yamhill
 OR;OR219;Yamhill
 OR;OR221;Yamhill
