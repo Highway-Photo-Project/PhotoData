@@ -231,6 +231,7 @@ NC;NC12;Dare
 NC;NC345;Dare
 NC;NC400;Dare
 NC;I-85;Davidson
+NC;I-285;Davidson
 NC;US29;Davidson
 NC;US52;Davidson
 NC;US64;Davidson
@@ -262,6 +263,7 @@ NC;NC903;Duplin
 NC;I-40;Durham
 NC;I-85;Durham
 NC;I-540;Durham
+NC;I-885;Durham
 NC;US15;Durham
 NC;US70;Durham
 NC;US501;Durham
@@ -287,6 +289,7 @@ NC;NC124;Edgecombe
 NC;NC142;Edgecombe
 NC;I-40;Forsyth
 NC;I-74;Forsyth
+NC;I-285;Forsyth
 NC;US52;Forsyth
 NC;US158;Forsyth
 NC;US311;Forsyth
@@ -339,6 +342,7 @@ NC;NC49;Granville
 NC;NC50;Granville
 NC;NC56;Granville
 NC;NC96;Granville
+NC;I-587;Greene
 NC;US13;Greene
 NC;US258;Greene
 NC;US264;Greene
@@ -449,6 +453,7 @@ NC;NC116;Jackson
 NC;NC215;Jackson
 NC;NC281;Jackson
 NC;I-40;Johnston
+NC;I-42;Johnston
 NC;I-95;Johnston
 NC;US70;Johnston
 NC;US264;Johnston
@@ -476,6 +481,7 @@ NC;US501;Lee
 NC;NC42;Lee
 NC;NC78;Lee
 NC;NC87;Lee
+NC;I-42;Lenoir
 NC;US70;Lenoir
 NC;US258;Lenoir
 NC;NC11;Lenoir
@@ -650,6 +656,7 @@ NC;US501;Person
 NC;NC49;Person
 NC;NC57;Person
 NC;NC157;Person
+NC;I-587;Pitt
 NC;US13;Pitt
 NC;US258;Pitt
 NC;US264;Pitt
@@ -824,6 +831,7 @@ NC;US1;Vance
 NC;US158;Vance
 NC;NC39;Vance
 NC;I-40;Wake
+NC;I-42;Wake
 NC;I-87;Wake
 NC;I-440;Wake
 NC;I-540;Wake
@@ -865,6 +873,7 @@ NC;NC88;Watauga
 NC;NC105;Watauga
 NC;NC184;Watauga
 NC;NC194;Watauga
+NC;I-42;Wayne
 NC;I-795;Wayne
 NC;US13;Wayne
 NC;US70;Wayne
@@ -882,6 +891,7 @@ NC;NC18;Wilkes
 NC;NC115;Wilkes
 NC;NC268;Wilkes
 NC;I-95;Wilson
+NC;I-587;Wilson
 NC;I-795;Wilson
 NC;US117;Wilson
 NC;US264;Wilson
