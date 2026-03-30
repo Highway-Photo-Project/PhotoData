@@ -32,6 +32,7 @@ WA;US101;Clallam
 WA;WA110;Clallam
 WA;WA112;Clallam
 WA;WA113;Clallam
+WA;WA117;Clallam
 WA;I-5;Clark
 WA;I-205;Clark
 WA;WA14;Clark
@@ -124,13 +125,13 @@ WA;WA202;King
 WA;WA203;King
 WA;WA304;King
 WA;WA305;King
-WA;WA339;King
 WA;WA410;King
 WA;WA509;King
 WA;WA513;King
 WA;WA515;King
 WA;WA516;King
 WA;WA518;King
+WA;WA519;King
 WA;WA520;King
 WA;WA522;King
 WA;WA523;King
@@ -138,7 +139,6 @@ WA;WA527;King
 WA;WA599;King
 WA;WA900;King
 WA;WA906;King
-WA;WA908;King
 WA;WA3;Kitsap
 WA;WA16;Kitsap
 WA;WA104;Kitsap
@@ -197,7 +197,6 @@ WA;WA20;Okanogan
 WA;WA153;Okanogan
 WA;WA155;Okanogan
 WA;WA173;Okanogan
-WA;WA213;Okanogan
 WA;WA215;Okanogan
 WA;US101;Pacific
 WA;WA4;Pacific
@@ -218,9 +217,9 @@ WA;WA99;Pierce
 WA;WA123;Pierce
 WA;WA161;Pierce
 WA;WA162;Pierce
+WA;WA163;Pierce
 WA;WA165;Pierce
 WA;WA167;Pierce
-WA;WA168;Pierce
 WA;WA302;Pierce
 WA;WA410;Pierce
 WA;WA507;Pierce
@@ -233,7 +232,6 @@ WA;I-5;Skagit
 WA;WA9;Skagit
 WA;WA11;Skagit
 WA;WA20;Skagit
-WA;WA237;Skagit
 WA;WA530;Skagit
 WA;WA534;Skagit
 WA;WA536;Skagit
@@ -265,6 +263,7 @@ WA;US2;Spokane
 WA;US195;Spokane
 WA;US395;Spokane
 WA;WA27;Spokane
+WA;WA206;Spokane
 WA;WA278;Spokane
 WA;WA290;Spokane
 WA;WA291;Spokane
