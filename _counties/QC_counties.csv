@@ -60,14 +60,14 @@ QC;QC203;Beauharnois-Salaberry
 QC;QC205;Beauharnois-Salaberry
 QC;QC207;Beauharnois-Salaberry
 QC;QC236;Beauharnois-Salaberry
-QC;A-30;B cancour
-QC;A-55;B cancour
-QC;QC132;B cancour
-QC;QC218;B cancour
-QC;QC226;B cancour
-QC;QC261;B cancour
-QC;QC263;B cancour
-QC;QC265;B cancour
+QC;A-30;Bécancour
+QC;A-55;Bécancour
+QC;QC132;Bécancour
+QC;QC218;Bécancour
+QC;QC226;Bécancour
+QC;QC261;Bécancour
+QC;QC263;Bécancour
+QC;QC265;Bécancour
 QC;TCHQC;Bellechasse
 QC;A-20;Bellechasse
 QC;QC132;Bellechasse
@@ -143,10 +143,10 @@ QC;QC148;Gatineau
 QC;QC307;Gatineau
 QC;QC315;Gatineau
 QC;QC366;Gatineau
-QC;QC109;Jam sie
-QC;QC113;Jam sie
-QC;QC167;Jam sie
-QC;QC393;Jam sie
+QC;QC109;Jamésie
+QC;QC113;Jamésie
+QC;QC167;Jamésie
+QC;QC393;Jamésie
 QC;A-31;Joliette
 QC;QC131;Joliette
 QC;QC158;Joliette
@@ -159,15 +159,16 @@ QC;QC132;Kamouraska
 QC;QC230;Kamouraska
 QC;QC287;Kamouraska
 QC;QC289;Kamouraska
-QC;QC138;La C te-de-Beaupr 
-QC;QC169;La C te-de-Beaupr 
-QC;QC175;La C te-de-Beaupr 
-QC;QC360;La C te-de-Beaupr 
-QC;QC132;La C te-de-Gasp 
-QC;QC197;La C te-de-Gasp 
-QC;QC198;La C te-de-Gasp 
-QC;QC138;La Haute-C te-Nord
-QC;QC172;La Haute-C te-Nord
+QC;QC138;La Côte-de-Beaupré
+QC;QC169;La Côte-de-Beaupré
+QC;QC175;La Côte-de-Beaupré
+QC;QC360;La Côte-de-Beaupré 
+QC;QC132;La Côte-de-Gaspé
+QC;QC197;La Côte-de-Gaspé 
+QC;QC198;La Côte-de-Gaspé 
+QC;QC138;La Haute-Côte-Nord
+QC;QC172;La Haute-Côte-Nord
+QC;QC385;La Haute-Côte-Nord
 QC;QC132;La Haute-Gasp sie
 QC;QC198;La Haute-Gasp sie
 QC;QC299;La Haute-Gasp sie
@@ -203,36 +204,36 @@ QC;QC173;La Nouvelle-Beauce
 QC;QC216;La Nouvelle-Beauce
 QC;QC218;La Nouvelle-Beauce
 QC;QC275;La Nouvelle-Beauce
-QC;TCHQC;La Rivi re-du-Nord
-QC;A-15;La Rivi re-du-Nord
-QC;QC117;La Rivi re-du-Nord
-QC;QC158;La Rivi re-du-Nord
-QC;QC333;La Rivi re-du-Nord
+QC;TCHQC;La Riviére-du-Nord
+QC;A-15;La Riviére-du-Nord
+QC;QC117;La Riviére-du-Nord
+QC;QC158;La Riviére-du-Nord
+QC;QC333;La Riviére-du-Nord
 QC;QC155;La Tuque
-QC;TCHQC;La Vall e-de-la-Gatineau
-QC;QC105;La Vall e-de-la-Gatineau
-QC;QC107;La Vall e-de-la-Gatineau
-QC;QC117;La Vall e-de-la-Gatineau
-QC;QC301;La Vall e-de-la-Gatineau
-QC;TCHQC;La Vall e-de-l'Or
-QC;QC109;La Vall e-de-l'Or
-QC;QC111;La Vall e-de-l'Or
-QC;QC113;La Vall e-de-l'Or
-QC;QC117;La Vall e-de-l'Or
-QC;QC386;La Vall e-de-l'Or
-QC;QC397;La Vall e-de-l'Or
-QC;TCHQC;La Vall e-du-Richelieu
-QC;A-10;La Vall e-du-Richelieu
-QC;A-20;La Vall e-du-Richelieu
-QC;A-30;La Vall e-du-Richelieu
-QC;A-35;La Vall e-du-Richelieu
-QC;QC112;La Vall e-du-Richelieu
-QC;QC116;La Vall e-du-Richelieu
-QC;QC133;La Vall e-du-Richelieu
-QC;QC137;La Vall e-du-Richelieu
-QC;QC223;La Vall e-du-Richelieu
-QC;QC227;La Vall e-du-Richelieu
-QC;QC229;La Vall e-du-Richelieu
+QC;TCHQC;La Vallée-de-la-Gatineau
+QC;QC105;La Vallée-de-la-Gatineau
+QC;QC107;La Vallée-de-la-Gatineau
+QC;QC117;La Vallée-de-la-Gatineau
+QC;QC301;La Vallée-de-la-Gatineau
+QC;TCHQC;La Vallée-de-l'Or
+QC;QC109;La Vallée-de-l'Or
+QC;QC111;La Vallée-de-l'Or
+QC;QC113;La Vallée-de-l'Or
+QC;QC117;La Vallée-de-l'Or
+QC;QC386;La Vallée-de-l'Or
+QC;QC397;La Vallée-de-l'Or
+QC;TCHQC;La Vallée-du-Richelieu
+QC;A-10;La Vallée-du-Richelieu
+QC;A-20;La Vallée-du-Richelieu
+QC;A-30;La Vallée-du-Richelieu
+QC;A-35;La Vallée-du-Richelieu
+QC;QC112;La Vallée-du-Richelieu
+QC;QC116;La Vallée-du-Richelieu
+QC;QC133;La Vallée-du-Richelieu
+QC;QC137;La Vallée-du-Richelieu
+QC;QC223;La Vallée-du-Richelieu
+QC;QC227;La Vallée-du-Richelieu
+QC;QC229;La Vallée-du-Richelieu
 QC;QC169;Lac-Saint-Jean-Est
 QC;QC170;Lac-Saint-Jean-Est
 QC;QC172;Lac-Saint-Jean-Est
@@ -277,16 +278,16 @@ QC;QC223;Le Haut-Richelieu
 QC;QC225;Le Haut-Richelieu
 QC;QC227;Le Haut-Richelieu
 QC;QC233;Le Haut-Richelieu
-QC;QC108;Le Haut-Saint-Fran ois
-QC;QC112;Le Haut-Saint-Fran ois
-QC;QC161;Le Haut-Saint-Fran ois
-QC;QC210;Le Haut-Saint-Fran ois
-QC;QC212;Le Haut-Saint-Fran ois
-QC;QC214;Le Haut-Saint-Fran ois
-QC;QC251;Le Haut-Saint-Fran ois
-QC;QC253;Le Haut-Saint-Fran ois
-QC;QC255;Le Haut-Saint-Fran ois
-QC;QC257;Le Haut-Saint-Fran ois
+QC;QC108;Le Haut-Saint-Francois
+QC;QC112;Le Haut-Saint-Francois
+QC;QC161;Le Haut-Saint-Francois
+QC;QC210;Le Haut-Saint-Francois
+QC;QC212;Le Haut-Saint-Francois
+QC;QC214;Le Haut-Saint-Francois
+QC;QC251;Le Haut-Saint-Francois
+QC;QC253;Le Haut-Saint-Francois
+QC;QC255;Le Haut-Saint-Francois
+QC;QC257;Le Haut-Saint-Francois
 QC;QC132;Le Haut-Saint-Laurent
 QC;QC138;Le Haut-Saint-Laurent
 QC;QC201;Le Haut-Saint-Laurent
@@ -302,16 +303,16 @@ QC;QC220;Le Val-Saint-Fran ois
 QC;QC222;Le Val-Saint-Fran ois
 QC;QC243;Le Val-Saint-Fran ois
 QC;QC249;Le Val-Saint-Fran ois
-QC;TCHQC;L' rable
-QC;A-20;L' rable
-QC;QC116;L' rable
-QC;QC162;L' rable
-QC;QC165;L' rable
-QC;QC216;L' rable
-QC;QC218;L' rable
-QC;QC263;L' rable
-QC;QC265;L' rable
-QC;QC267;L' rable
+QC;TCHQC;L'Érable
+QC;A-20;L'Érable
+QC;QC116;L'Érable
+QC;QC162;L'Érable
+QC;QC165;L'Érable
+QC;QC216;L'Érable
+QC;QC218;L'Érable
+QC;QC263;L'Érable
+QC;QC265;L'Érable
+QC;QC267;L'Érable
 QC;QC108;Les Appalaches
 QC;QC112;Les Appalaches
 QC;QC161;Les Appalaches
@@ -346,7 +347,7 @@ QC;QC275;Les Etchemins
 QC;QC276;Les Etchemins
 QC;QC277;Les Etchemins
 QC;QC281;Les Etchemins
-QC;QC199;Les  les-de-la-Madeleine
+QC;QC199;Les Iles-de-la-Madeleine
 QC;A-15;Les Jardins-de-Napierville
 QC;QC202;Les Jardins-de-Napierville
 QC;QC205;Les Jardins-de-Napierville
@@ -392,16 +393,16 @@ QC;QC216;Les Sources
 QC;QC249;Les Sources
 QC;QC255;Les Sources
 QC;QC257;Les Sources
-QC;TCHQC;L vis
-QC;A-20;L vis
-QC;A-73;L vis
-QC;QC116;L vis
-QC;QC132;L vis
-QC;QC171;L vis
-QC;QC173;L vis
-QC;QC175;L vis
-QC;QC275;L vis
-QC;QC368;L' le-d'Orl ans
+QC;TCHQC;Levis
+QC;A-20;Levis
+QC;A-73;Levis
+QC;QC116;Levis
+QC;QC132;Levis
+QC;QC171;Levis
+QC;QC173;Levis
+QC;QC175;Levis
+QC;QC275;Levis
+QC;QC368;L'Ile-d'Orleans
 QC;TCHQC;L'Islet
 QC;A-20;L'Islet
 QC;QC132;L'Islet
@@ -418,16 +419,16 @@ QC;QC112;Longueuil
 QC;QC116;Longueuil
 QC;QC132;Longueuil
 QC;QC134;Longueuil
-QC;TCHQC;Lotbini re
-QC;A-20;Lotbini re
-QC;QC116;Lotbini re
-QC;QC132;Lotbini re
-QC;QC216;Lotbini re
-QC;QC218;Lotbini re
-QC;QC226;Lotbini re
-QC;QC269;Lotbini re
-QC;QC271;Lotbini re
-QC;QC273;Lotbini re
+QC;TCHQC;Lotbinière
+QC;A-20;Lotbinière
+QC;QC116;Lotbinière
+QC;QC132;Lotbinière
+QC;QC216;Lotbinière
+QC;QC218;Lotbinière
+QC;QC226;Lotbinière
+QC;QC269;Lotbinière
+QC;QC271;Lotbinière
+QC;QC273;Lotbinière
 QC;QC138;Manicouagan
 QC;QC389;Manicouagan
 QC;TCHQC;Marguerite-D'Youville
@@ -455,25 +456,25 @@ QC;QC337;Matawinie
 QC;QC341;Matawinie
 QC;QC347;Matawinie
 QC;QC348;Matawinie
-QC;QC153;M kinac
-QC;QC155;M kinac
-QC;QC159;M kinac
-QC;QC352;M kinac
-QC;QC363;M kinac
-QC;QC367;M kinac
-QC;A-10;Memphr magog
-QC;A-55;Memphr magog
-QC;A-410;Memphr magog
-QC;QC108;Memphr magog
-QC;QC112;Memphr magog
-QC;QC141;Memphr magog
-QC;QC143;Memphr magog
-QC;QC208;Memphr magog
-QC;QC216;Memphr magog
-QC;QC220;Memphr magog
-QC;QC243;Memphr magog
-QC;QC245;Memphr magog
-QC;QC247;Memphr magog
+QC;QC153;Mékinac
+QC;QC155;Mékinac
+QC;QC159;Mékinac
+QC;QC352;Mékinac
+QC;QC363;Mékinac
+QC;QC367;Mékinac
+QC;A-10;Memphrémagog
+QC;A-55;Memphrémagog
+QC;A-410;Memphrémagog
+QC;QC108;Memphrémagog
+QC;QC112;Memphrémagog
+QC;QC141;Memphrémagog
+QC;QC143;Memphrémagog
+QC;QC208;Memphrémagog
+QC;QC216;Memphrémagog
+QC;QC220;Memphrémagog
+QC;QC243;Memphrémagog
+QC;QC245;Memphrémagog
+QC;QC247;Memphrémagog
 QC;QC138;Minganie
 QC;TCHQC;Mirabel
 QC;A-15;Mirabel
@@ -496,22 +497,22 @@ QC;QC204;Montmagny
 QC;QC216;Montmagny
 QC;QC228;Montmagny
 QC;QC283;Montmagny
-QC;TCHQC;Montr al
-QC;A-10;Montr al
-QC;A-13;Montr al
-QC;A-15;Montr al
-QC;A-19;Montr al
-QC;A-20;Montr al
-QC;A-25;Montr al
-QC;A-40;Montr al
-QC;A-520;Montr al
-QC;QC112;Montr al
-QC;QC117;Montr al
-QC;QC125;Montr al
-QC;QC134;Montr al
-QC;QC136;Montr al
-QC;QC138;Montr al
-QC;QC335;Montr al
+QC;TCHQC;Montreal
+QC;A-10;Montreal
+QC;A-13;Montreal
+QC;A-15;Montreal
+QC;A-19;Montreal
+QC;A-20;Montreal
+QC;A-25;Montreal
+QC;A-40;Montreal
+QC;A-520;Montreal
+QC;QC112;Montreal
+QC;QC117;Montreal
+QC;QC125;Montreal
+QC;QC134;Montreal
+QC;QC136;Montreal
+QC;QC138;Montreal
+QC;QC335;Montreal
 QC;TCHQC;Nicolet-Yamaska
 QC;A-20;Nicolet-Yamaska
 QC;A-55;Nicolet-Yamaska
@@ -571,15 +572,15 @@ QC;A-20;Rimouski-Neigette
 QC;QC132;Rimouski-Neigette
 QC;QC232;Rimouski-Neigette
 QC;QC234;Rimouski-Neigette
-QC;TCHQC;Rivi re-du-Loup
-QC;A-20;Rivi re-du-Loup
-QC;A-85;Rivi re-du-Loup
-QC;QC132;Rivi re-du-Loup
-QC;QC185;Rivi re-du-Loup
-QC;QC191;Rivi re-du-Loup
-QC;QC232;Rivi re-du-Loup
-QC;QC291;Rivi re-du-Loup
-QC;QC293;Rivi re-du-Loup
+QC;TCHQC;Rivière-du-Loup
+QC;A-20;Rivière-du-Loup
+QC;A-85;Rivière-du-Loup
+QC;QC132;Rivière-du-Loup
+QC;QC185;Rivière-du-Loup
+QC;QC191;Rivière-du-Loup
+QC;QC232;Rivière-du-Loup
+QC;QC291;Rivière-du-Loup
+QC;QC293;Rivière-du-Loup
 QC;A-73;Robert-Cliche
 QC;QC108;Robert-Cliche
 QC;QC112;Robert-Cliche
@@ -620,7 +621,7 @@ QC;QC172;Saguenay
 QC;QC175;Saguenay
 QC;QC372;Saguenay
 QC;QC381;Saguenay
-QC;QC138;Sept-Rivi res
+QC;QC138;Sept-Rivieres
 QC;A-55;Shawinigan
 QC;QC153;Shawinigan
 QC;QC155;Shawinigan
@@ -638,34 +639,34 @@ QC;QC216;Sherbrooke
 QC;QC220;Sherbrooke
 QC;QC222;Sherbrooke
 QC;QC249;Sherbrooke
-QC;QC101;T miscamingue
-QC;QC382;T miscamingue
-QC;QC391;T miscamingue
-QC;TCHQC;T miscouata
-QC;A-85;T miscouata
-QC;QC185;T miscouata
-QC;QC232;T miscouata
-QC;QC289;T miscouata
-QC;QC291;T miscouata
-QC;QC293;T miscouata
-QC;QC295;T miscouata
-QC;QC296;T miscouata
-QC;TCHQC;Th r se-De Blainville
-QC;A-13;Th r se-De Blainville
-QC;A-15;Th r se-De Blainville
-QC;A-640;Th r se-De Blainville
-QC;QC117;Th r se-De Blainville
-QC;QC148;Th r se-De Blainville
-QC;QC335;Th r se-De Blainville
-QC;QC344;Th r se-De Blainville
-QC;A-40;Trois-Rivi res
-QC;A-55;Trois-Rivi res
-QC;QC138;Trois-Rivi res
-QC;QC153;Trois-Rivi res
-QC;QC155;Trois-Rivi res
-QC;QC157;Trois-Rivi res
-QC;QC352;Trois-Rivi res
-QC;QC359;Trois-Rivi res
+QC;QC101;Tèmiscamingue
+QC;QC382;Tèmiscamingue
+QC;QC391;Tèmiscamingue
+QC;TCHQC;Tèmiscouata
+QC;A-85;Tèmiscouata
+QC;QC185;Tèmiscouata
+QC;QC232;Tèmiscouata
+QC;QC289;Tèmiscouata
+QC;QC291;Tèmiscouata
+QC;QC293;Tèmiscouata
+QC;QC295;Tèmiscouata
+QC;QC296;Tèmiscouata
+QC;TCHQC;Thèrèse-De Blainville
+QC;A-13;Thèrèse-De Blainville
+QC;A-15;Thèrèse-De Blainville
+QC;A-640;Thèrèse-De Blainville
+QC;QC117;Thèrèse-De Blainville
+QC;QC148;Thèrèse-De Blainville
+QC;QC335;Thèrèse-De Blainville
+QC;QC344;Thèrèse-De Blainville
+QC;A-40;Trois-Rivières
+QC;A-55;Trois-Rivières
+QC;QC138;Trois-Rivières
+QC;QC153;Trois-Rivières
+QC;QC155;Trois-Rivières
+QC;QC157;Trois-Rivières
+QC;QC352;Trois-Rivières
+QC;QC359;Trois-Rivières
 QC;TCHQC;Vaudreuil-Soulanges
 QC;A-20;Vaudreuil-Soulanges
 QC;A-30;Vaudreuil-Soulanges
