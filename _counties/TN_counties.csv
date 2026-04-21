@@ -11,7 +11,6 @@ TN;TN170;Anderson
 TN;TN330;Anderson
 TN;I-24;Bedford
 TN;US231;Bedford
-TN;TN10;Bedford
 TN;TN16;Bedford
 TN;TN64;Bedford
 TN;TN82;Bedford
@@ -563,7 +562,6 @@ TN;US64;Lincoln
 TN;US231;Lincoln
 TN;US431;Lincoln
 TN;TN7;Lincoln
-TN;TN10;Lincoln
 TN;TN15;Lincoln
 TN;TN50;Lincoln
 TN;TN110;Lincoln
@@ -711,7 +709,6 @@ TN;TN237;Montgomery
 TN;TN238;Montgomery
 TN;TN374;Montgomery
 TN;US231;Moore
-TN;TN10;Moore
 TN;TN16;Moore
 TN;TN50;Moore
 TN;TN55;Moore
@@ -834,7 +831,6 @@ TN;I-840;Rutherford
 TN;US41;Rutherford
 TN;US70S;Rutherford
 TN;US231;Rutherford
-TN;TN10;Rutherford
 TN;TN16;Rutherford
 TN;TN96;Rutherford
 TN;TN99;Rutherford
@@ -1074,7 +1070,6 @@ TN;I-840;Wilson
 TN;US70;Wilson
 TN;US70N;Wilson
 TN;US231;Wilson
-TN;TN10;Wilson
 TN;TN96;Wilson
 TN;TN109;Wilson
 TN;TN141;Wilson
