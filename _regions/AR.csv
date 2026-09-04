@@ -1,6 +1,7 @@
 systemName;region;route
 usai;AR;I-30
 usai;AR;I-40
+usai;AR;I-42
 usai;AR;I-49
 usai;AR;I-55
 usai;AR;I-57
@@ -403,6 +404,7 @@ usaar;AR;AR463
 usaar;AR;AR530
 usaar;AR;AR600
 usaar;AR;AR612
+usaar;AR;AR642
 usaar;AR;AR722
 usaar;AR;AR818
 usaar;AR;AR902
