@@ -45,6 +45,7 @@ AR;AR341;Baxter
 AR;AR342;Baxter
 AR;AR345;Baxter
 AR;AR980;Baxter
+AR;I-42;Benton
 AR;I-49;Benton
 AR;US62;Benton
 AR;US71;Benton
@@ -66,6 +67,7 @@ AR;AR279;Benton
 AR;AR303;Benton
 AR;AR340;Benton
 AR;AR612;Benton
+AR;AR642;Benton
 AR;AR980;Benton
 AR;US62;Boone
 AR;US65;Boone
@@ -1001,6 +1003,7 @@ AR;AR336;Van Buren
 AR;AR337;Van Buren
 AR;AR356;Van Buren
 AR;AR980;Van Buren
+AR;I-42;Washington
 AR;I-49;Washington
 AR;US62;Washington
 AR;US71;Washington
@@ -1017,6 +1020,7 @@ AR;AR220;Washington
 AR;AR244;Washington
 AR;AR265;Washington
 AR;AR303;Washington
+AR;AR612;Washington
 AR;I-57;White
 AR;US64;White
 AR;US67;White
